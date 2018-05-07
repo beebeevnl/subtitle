@@ -1,0 +1,5158 @@
+﻿1
+00:00:00,690 --> 00:00:10,690
+.:.Pacific Rim: Uprising (2018) .:.
+Bản Việt hóa thực hiện bởi World Translations
+
+2
+00:00:15,000 --> 00:00:25,000
+- Editor: Gạo Lover
+- Translator: Ngọc Ánh, Kim, Nhật Bổn
+
+3
+00:00:46,980 --> 00:00:50,110
+<i>Thời chúng tôi sinh ra trong chiến tranh. </i>
+
+4
+00:00:54,710 --> 00:00:57,330
+<i>Lũ quái vật khổng lồ
+ tấn công thế giới. </i>
+
+5
+00:00:58,690 --> 00:01:01,440
+<i>Chúng được gọi là 'Kaiju'.</i>
+
+6
+00:01:02,810 --> 00:01:04,850
+<i>Chúng tấn công qua vết nứt.</i>
+
+7
+00:01:05,230 --> 00:01:10,040
+<i>Cánh cổng đến với vùng không gian khác,
+ dưới đáy biển Thái Bình Dương.</i>
+
+8
+00:01:10,320 --> 00:01:12,900
+<i>Lũ người ngoài hành tinh phía bên kia
+ đã phái chúng đến...</i>
+
+9
+00:01:13,680 --> 00:01:15,820
+<i>đó là tộc Precursors.</i>
+
+10
+00:01:16,400 --> 00:01:18,620
+<i>Chúng tôi đã đánh trả,</i>
+
+11
+00:01:18,640 --> 00:01:20,790
+<i>tạo quái vật cho riêng mình.</i>
+
+12
+00:01:20,970 --> 00:01:23,960
+<i>Những người máy khổng lồ, Jaegers.</i>
+
+13
+00:01:24,140 --> 00:01:26,880
+<i>Vì lớn như thế nên cần đến 2 phi công
+ để điều khiển một người máy.</i>
+
+14
+00:01:28,580 --> 00:01:30,400
+<i>Bố tôi là một trong những phi công đó.</i>
+
+15
+00:01:31,690 --> 00:01:34,480
+<i>Ông hi sinh thân mình cứu thế giới.</i>
+
+16
+00:01:38,410 --> 00:01:41,190
+<i>Tôi không vĩ đại như ông.</i>
+
+17
+00:01:44,440 --> 00:01:48,930
+<i>10 năm rồi từ khi chúng tôi giành chiến thắng
+ và đóng băng vết nứt.</i>
+
+18
+00:01:49,910 --> 00:01:52,320
+<i>Phần lớn thế giới đã hồi phục...</i>
+
+19
+00:01:52,340 --> 00:01:55,260
+<i>nhưng một vài thành phố duyên hải thì không.</i>
+
+20
+00:01:55,340 --> 00:01:58,250
+<i>Cả thế giới vẫn vực dậy.</i>
+
+21
+00:02:04,180 --> 00:02:07,330
+<i>Nhưng vài đứa chúng tôi
+ vẫn sống tốt trong thời loạn.</i>
+
+22
+00:02:11,460 --> 00:02:14,330
+<i>Và chiếm dụng một nửa biệt thự...</i>
+
+23
+00:02:14,350 --> 00:02:17,540
+<i>còn hơn phí tiền chi trả những căn hộ lộng lẫy.</i>
+
+24
+00:02:17,720 --> 00:02:20,610
+<i>Ở những khu tiện nghi, 
+mọi người phải linh hoạt,</i>
+
+25
+00:02:20,620 --> 00:02:21,830
+<i>phải nhanh nhạy vào.</i>
+
+26
+00:02:21,850 --> 00:02:24,430
+<i>Nếu không sẽ có kẻ cướp bữa sáng...</i>
+
+27
+00:02:26,490 --> 00:02:28,710
+<i>và bánh quy.</i>..
+
+28
+00:02:30,630 --> 00:02:32,710
+<i>và cả tương ớt của mọi người nữa.</i>
+
+29
+00:02:32,740 --> 00:02:36,240
+<i>Thời này, chúng tôi nhìn nhận giá trị vật chất theo cách khác.</i>
+
+30
+00:02:38,470 --> 00:02:41,610
+<i>Quân đội Phòng vệ thường làm ngơ...</i>
+
+31
+00:02:41,620 --> 00:02:44,880
+<i>miễn là mọi người đừng lảng vảng quanh khu vực cấm.</i>
+
+32
+00:02:44,890 --> 00:02:49,220
+<i>Như bãi phế liệu Jaeger thời hậu chiến.</i>
+
+33
+00:02:49,860 --> 00:02:52,930
+<i>Liều ăn nhiều...</i>
+
+34
+00:02:52,950 --> 00:02:56,240
+<i>và không gì lời hơn việc đánh cắp công nghệ Jaeger.</i>
+
+35
+00:02:56,530 --> 00:03:00,550
+<i>Lũ dở hơi ở đây cố chiếm hữu người máy Jaegers.</i>
+
+36
+00:03:03,140 --> 00:03:05,370
+<i>Nhưng chúng thuê nhiều bên làm.</i>
+
+37
+00:03:06,850 --> 00:03:10,290
+<i>Vì thế nếu lấy được thứ người khác không thể lấy,</i>
+
+38
+00:03:12,480 --> 00:03:14,900
+<i>mọi người sẽ được sống như ông hoàng.</i>
+
+39
+00:03:20,490 --> 00:03:22,010
+Mày chắc nó ở đây chứ?
+
+40
+00:03:22,030 --> 00:03:25,090
+Dây điện được tháo 
+trước khi chúng nghỉ hưu...
+
+41
+00:03:25,110 --> 00:03:28,470
+nhưng thi thoảng người ta quên ngắt tụ thứ 3.
+
+42
+00:03:28,480 --> 00:03:31,430
+Và đó chính là kho báu.
+Con này vẫn còn một cái.
+
+43
+00:03:34,320 --> 00:03:36,500
+Mày nên hi vọng thế đi.
+
+44
+00:03:36,510 --> 00:03:40,190
+Thôi được rồi, bình tĩnh đi.
+ Đừng phấn khích quá.
+
+45
+00:03:40,200 --> 00:03:41,380
+Tao chỉ muốn chắc chắn thôi.
+
+46
+00:03:41,400 --> 00:03:44,730
+Mày lừa Barada ở Pháp
+ rồi tới lão Châu ở Hồng Kông.
+
+47
+00:03:44,740 --> 00:03:48,640
+- Chỉ là hiểu nhầm thôi.
+- Và chôm đồ ở ngay sân sau của tao.
+
+48
+00:03:48,650 --> 00:03:52,500
+Giờ tôi lấy nó cho ông.
+ Quy luật mà.
+
+49
+00:03:52,530 --> 00:03:55,510
+- Đồ của ông?
+- Mày giao hàng...
+
+50
+00:03:55,920 --> 00:03:57,620
+Phải rồi.
+
+51
+00:03:58,360 --> 00:04:01,750
+- Chúng ta hòa nhé.
+- Được.
+
+52
+00:04:08,890 --> 00:04:12,270
+- Cùng kiếm tiền.
+- Ngon.
+
+53
+00:04:21,240 --> 00:04:23,720
+<i>Đã khóa mục tiêu.</i>
+
+54
+00:04:23,750 --> 00:04:25,560
+Nó đâu?
+
+55
+00:04:26,680 --> 00:04:29,270
+Này các đồng chí. Có chút thay đổi.
+
+56
+00:04:29,290 --> 00:04:32,270
+Thiết bị báo nó ở đây.
+ Nó phải ở đây mới đúng.
+
+57
+00:04:32,360 --> 00:04:34,480
+Để tôi kiếm lại lần nữa.
+
+58
+00:04:37,080 --> 00:04:39,580
+Đứa nào giết nó hộ tao cái.
+
+59
+00:04:39,650 --> 00:04:41,620
+<i>Mục tiêu đang rời đi.</i>
+
+60
+00:04:41,700 --> 00:04:45,200
+Không, đây rồi. Chờ xíu.
+ Có ai khác ở đây rồi.
+
+61
+00:04:45,220 --> 00:04:47,630
+Ai đó có cái tụ điện.
+ Phải đi thôi. Nhanh lên!
+
+62
+00:04:47,640 --> 00:04:49,940
+Jake! Jake! Đứng lại!
+
+63
+00:04:51,270 --> 00:04:52,590
+Thằng ôn con.
+
+64
+00:04:55,160 --> 00:04:56,950
+Chạy, chạy đi!
+
+65
+00:04:57,140 --> 00:04:58,520
+Tản ra.
+
+66
+00:05:19,730 --> 00:05:21,080
+<i>Thôi đi, Jake!</i>
+
+67
+00:05:26,430 --> 00:05:28,700
+<i>- Ông chủ, nó đi qua lối này
+- Nhanh lên!</i>
+
+68
+00:05:28,730 --> 00:05:30,750
+<i>Em thấy nó rồi. Em thấy nó rồi.</i>
+
+69
+00:05:46,000 --> 00:05:49,760
+Jake ơi, Jake à. Có cố gắng đấy.
+
+70
+00:05:57,400 --> 00:05:59,560
+- Ồ. Chúng ta ổn!
+- Jake.
+
+71
+00:06:01,520 --> 00:06:02,870
+Jake, má nó nữa...
+
+72
+00:06:05,770 --> 00:06:09,070
+<i>Mục tiêu đã bị khóa.</i>
+
+73
+00:06:12,770 --> 00:06:15,250
+Ê, quay lại đây.
+
+74
+00:06:55,530 --> 00:06:57,740
+<i>Mục tiêu đang rời đi.</i>
+
+75
+00:07:34,940 --> 00:07:36,640
+<i>CÙNG CHIẾN THẰNG CUỘC CHIẾN NÀY</i>
+
+76
+00:07:39,240 --> 00:07:42,110
+<i>CUỘC CHIẾN KAIJU ĐÃ KẾT THÚC.
+CHIẾN TRANH KAIJU ĐÃ QUA.</i>
+
+77
+00:07:42,140 --> 00:07:45,340
+<i>kẾ HOẠCH SHAO CẦM QUYỀN.
+Jaeger MARK VI.</i>
+
+78
+00:08:28,940 --> 00:08:31,630
+- Nhóc tuổi gì?
+- Đủ tuổi để đánh nhau với anh.
+
+79
+00:08:32,490 --> 00:08:35,440
+Chờ xíu.
+ Lùi lại.
+
+80
+00:08:35,800 --> 00:08:38,410
+- Em tự chế nó à?
+- Thế anh nghĩ gì?
+
+81
+00:08:38,730 --> 00:08:41,610
+Anh đang nghĩ bán mấy thứ đồ chơi của nhóc
+ cũng kiếm khối tiền đấy.
+
+82
+00:08:41,620 --> 00:08:43,760
+Scrapper không phải đồ chơi
+ và em không bán nó.
+
+83
+00:08:43,770 --> 00:08:45,860
+Người đàn ông cầm cái ống bảo có.
+
+84
+00:08:45,890 --> 00:08:47,710
+Nghe này...
+
+85
+00:08:49,060 --> 00:08:51,180
+- Anh dẫn chúng tới?
+- Không thể nào.
+
+86
+00:08:54,670 --> 00:08:56,060
+Muốn gì nào?
+
+87
+00:09:12,820 --> 00:09:14,200
+Nhanh nào. Nhanh lên nào.
+
+88
+00:09:15,480 --> 00:09:18,840
+Thế chứ. Nó hoạt động rồi!
+
+89
+00:09:27,340 --> 00:09:29,490
+Biến ra!
+Anh định làm gì?
+
+90
+00:09:29,520 --> 00:09:31,550
+- Không. Dừng ngay.
+- Nó đâu rồi?
+
+91
+00:09:31,790 --> 00:09:34,970
+Đừng có bấm bừa.
+Này! Anh muốn làm gì?
+
+92
+00:09:35,000 --> 00:09:36,420
+- Một cái nữa đâu?
+- Cái nữa nào?
+
+93
+00:09:36,440 --> 00:09:38,010
+Khung cửa khác,
+Mỗi Jaeger cần 2 người lái.
+
+94
+00:09:38,030 --> 00:09:40,480
+Scrapper đủ nhỏ 
+cho một người điều khiển nhé.
+
+95
+00:09:40,510 --> 00:09:42,400
+Vậy một là em ra ngoài, hai là để anh lái.
+
+96
+00:09:42,470 --> 00:09:44,990
+- Ra ngoài.
+- Mơ à.
+
+97
+00:09:53,090 --> 00:09:55,600
+- Em đã nói rồi nó không phải là đồ chơi.
+- Em tự giết chúng ta đấy à.
+
+98
+00:09:55,630 --> 00:09:58,030
+- Anh có thể đưa chúng ta ra ngoài.
+- Em vừa mới làm rồi.
+
+99
+00:10:04,060 --> 00:10:06,120
+Chúa ơi ơi.
+
+100
+00:10:08,200 --> 00:10:10,190
+Là November Ajax.
+
+101
+00:10:10,200 --> 00:10:12,510
+Phi công lái Jaeger 
+chưa đăng kí giấy phép,
+
+102
+00:10:12,520 --> 00:10:15,350
+Đội phòng quân Pan Pacific đây.
+
+103
+00:10:15,530 --> 00:10:18,940
+Ngắt điện và rời khỏi vị trí ngay.
+
+104
+00:10:20,970 --> 00:10:24,710
+Ấy, đừng ngã ngũ sớm thế chứ.
+
+105
+00:10:24,720 --> 00:10:26,460
+Là họ nghĩ thế thôi.
+
+106
+00:10:36,310 --> 00:10:37,690
+Dừng lại.
+
+107
+00:10:40,320 --> 00:10:43,530
+Các người đã vi phạm điều 10, mục 14,
+
+108
+00:10:43,540 --> 00:10:46,110
+vận hành người máy Jaeger chưa được cấp phép.
+
+109
+00:10:46,120 --> 00:10:47,700
+- Bám chặt nhé.
+- Anh đang bám chặt đây.
+
+110
+00:10:47,720 --> 00:10:49,050
+Nữa đi.
+
+111
+00:11:00,860 --> 00:11:02,380
+Thật sao?
+
+112
+00:11:04,360 --> 00:11:05,750
+Đứng lại.
+
+113
+00:11:22,480 --> 00:11:23,980
+Thấy chưa?
+
+114
+00:11:23,990 --> 00:11:26,440
+Em vừa vượt mặt gã November Ajax.
+
+115
+00:11:26,470 --> 00:11:28,720
+- Không, em nhầm rồi.
+- Em làm được rồi.
+
+116
+00:11:31,300 --> 00:11:32,600
+Chưa đâu.
+
+117
+00:11:34,460 --> 00:11:37,630
+Được rồi. Anh tính sao?
+Em không đầu hàng đâu.
+
+118
+00:11:38,550 --> 00:11:40,970
+- Cái nào là bình tích điện?
+- Không.
+
+119
+00:11:40,990 --> 00:11:42,910
+- Giờ vứt chúng đi.
+- Nhưng chúng ta cần dùng.
+
+120
+00:11:42,930 --> 00:11:43,910
+Leo lên đầu Ajax.
+
+121
+00:11:43,940 --> 00:11:45,840
+- Cái gì?
+- Nhanh!
+
+122
+00:11:59,810 --> 00:12:01,140
+<i>Ngắt điện...</i>
+
+123
+00:12:07,710 --> 00:12:09,920
+<i>Cảnh báo pin yếu. Còn 12%</i>
+
+124
+00:12:09,950 --> 00:12:12,700
+- Em đã bảo chúng ta cần nó mà.
+- Nó có tác dụng đúng không?
+
+125
+00:12:12,720 --> 00:12:14,350
+<i>11%.</i>
+
+126
+00:12:18,010 --> 00:12:20,470
+Bao lâu trước khi Ajax 
+có thể khởi động lại hệ thống?
+
+127
+00:12:24,750 --> 00:12:26,580
+Lâu đấy. 
+
+128
+00:12:31,190 --> 00:12:35,290
+Điện đã ngắt.
+Cảnh báo lần cuối.
+
+129
+00:12:51,650 --> 00:12:54,060
+Được rồi! Đi thôi.
+
+130
+00:13:04,940 --> 00:13:08,340
+Nhìn mày làm cái gì với Jaeger của tao này.
+Đồ thô bạo!
+
+131
+00:13:15,000 --> 00:13:20,000
+Nhận ngay báo giá dịch thuật đa ngôn ngữ
+hot nhất qua WTranz@hotmail.com - 0981.230.396
+
+132
+00:13:20,090 --> 00:13:22,370
+Em nên để anh lái nó mới phải.
+
+133
+00:13:22,460 --> 00:13:24,580
+Lỗi của em cơ đấy.
+
+134
+00:13:24,600 --> 00:13:26,920
+Anh đã đột nhập vào trung tâm chỉ huy của em.
+
+135
+00:13:27,300 --> 00:13:30,680
+Chà. Trung tâm chỉ huy?
+Anh có nghe nhầm không.
+
+136
+00:13:30,700 --> 00:13:34,510
+Phải, anh không có quyền 
+vào và ra lệnh cho em.
+
+137
+00:13:34,530 --> 00:13:36,710
+Anh thích đến đâu thì đến chứ.
+Thế giới giờ khác rồi.
+
+138
+00:13:36,720 --> 00:13:37,870
+Xem chúng ta đang ngồi đâu này.
+
+139
+00:13:37,900 --> 00:13:40,550
+Môi trên và môi dưới của em
+ nên hòa thuận với nhau hơn đi.
+
+140
+00:13:40,570 --> 00:13:45,180
+Chúng nên ngậm lại mới đúng. Im đi. Kết thúc cuộc hội thoại.
+
+141
+00:13:45,200 --> 00:13:46,780
+Tuổi trẻ bốc đồng.
+
+142
+00:13:51,500 --> 00:13:54,200
+- Sao em lại tạo ra nó?
+- Anh bảo em ngậm miệng lại mà?
+
+143
+00:13:54,220 --> 00:13:57,570
+Em không định bán nó, 
+thì định làm quái gì?
+
+144
+00:13:57,590 --> 00:13:59,290
+Cướp ngân hàng hay là gì?
+
+145
+00:14:00,970 --> 00:14:04,220
+Em tạo ra nó vì nghĩ
+ có thể ngày nào đó chúng sẽ quay lại.
+
+146
+00:14:05,100 --> 00:14:06,510
+Bọn Kaiju.
+
+147
+00:14:06,790 --> 00:14:09,150
+Và sẽ không phải vô vọng chờ...
+
+148
+00:14:09,160 --> 00:14:11,320
+ai đó đến cứu cái thân mình.
+
+149
+00:14:13,990 --> 00:14:15,770
+Không thể như trước.
+
+150
+00:14:24,030 --> 00:14:25,630
+Hai người, đi thôi.
+
+151
+00:14:26,520 --> 00:14:29,300
+<i>Tôi không muốn nhiều lời.
+Thật là lố bịch.</i>
+
+152
+00:14:29,310 --> 00:14:31,300
+<i>Tôi có quyền im lặng...</i>
+
+153
+00:14:45,710 --> 00:14:47,090
+<i>Chào, Jake.</i>
+
+154
+00:14:49,270 --> 00:14:51,070
+<i>Chúng ta lại gặp nhau nữa..</i>
+
+155
+00:14:51,260 --> 00:14:53,710
+Em đoán là cả dây đen ghim vào người.
+
+156
+00:14:53,740 --> 00:14:57,410
+<i>Bố từng nói may mắn hay không là ở mình. </i>
+
+157
+00:14:57,690 --> 00:14:59,510
+Bố nói nhiều thế à?
+
+158
+00:14:59,530 --> 00:15:01,880
+<i>Em đã bị bắt khi lái Jaeger trái phép.</i>
+
+159
+00:15:01,890 --> 00:15:04,560
+Khoan. Đó không phải người máy của em.
+ Là con bé đó, nó nói...
+
+160
+00:15:04,590 --> 00:15:09,110
+<i>Em đã có tiền án. 
+Đây là việc nghiêm trọng đấy.</i>
+
+161
+00:15:09,800 --> 00:15:12,060
+Lý do tại sao em cần chị đại...
+
+162
+00:15:12,070 --> 00:15:13,820
+giúp em biến khỏi nơi này.
+
+163
+00:15:13,900 --> 00:15:15,740
+Lần cuối này thôi.
+
+164
+00:15:15,760 --> 00:15:18,490
+<i>Họ sẽ không dễ tha cho em đâu</i>.
+
+165
+00:15:18,500 --> 00:15:20,660
+<i>Nhưng có cách khác.</i>
+
+166
+00:15:20,840 --> 00:15:23,260
+Hiểu rồi. Đó là điều em muốn nghe.
+ Chị nói đi.
+
+167
+00:15:23,270 --> 00:15:25,570
+Cách khác. Nói cho em biết.
+Em cần phải làm gì?
+
+168
+00:15:25,600 --> 00:15:28,460
+<i>Tái ngũ và bỏ hẳn những việc em đã từng làm.</i>
+
+169
+00:15:28,550 --> 00:15:31,510
+Em không làm vậy đâu.
+ Em trẻ trung gì đâu mà làm học viên.
+
+170
+00:15:31,540 --> 00:15:33,390
+<i>Chị không muốn em làm học viên.</i>
+
+171
+00:15:33,400 --> 00:15:35,060
+<i>Chị muốn em huấn luyện bọn họ.</i>
+
+172
+00:15:35,090 --> 00:15:37,480
+Dạy ai? Dạy cái gì?
+ Em đâu phải cô nuôi dạy trẻ.
+
+173
+00:15:37,510 --> 00:15:40,780
+<i>Phương tiện đang đợi
+ 2 đứa em đến Moyulan.</i>
+
+174
+00:15:40,800 --> 00:15:41,960
+ 2 đứa?
+
+175
+00:15:41,990 --> 00:15:43,870
+<i>Em và lính mới của em.</i>
+
+176
+00:15:43,890 --> 00:15:45,200
+Mako.
+
+177
+00:15:51,120 --> 00:15:53,550
+Không thể tin được chị ấy 
+gặp mình qua hologram.
+
+178
+00:15:59,150 --> 00:16:01,730
+<b>Học viên phòng không không quân PPDC</b>
+
+179
+00:16:01,750 --> 00:16:05,250
+<b>MOYULAN SHATTERDOME
+TRUNG QUỐC.</b>
+
+180
+00:16:15,040 --> 00:16:17,570
+Xem này, anh còn không có lựa chọn khác.
+
+181
+00:16:17,580 --> 00:16:19,780
+Em biết, nhưng sao lại là em? 
+
+182
+00:16:19,810 --> 00:16:21,860
+Sao họ lại muốn em tham gia khóa này?
+
+183
+00:16:21,870 --> 00:16:23,830
+Em tạo ra và điều khiển người máy.
+
+184
+00:16:23,850 --> 00:16:25,960
+Nhưng những người ở đây họ thích vậy.
+
+185
+00:16:25,970 --> 00:16:29,340
+Vậy sao em thành thực tập sinh còn anh được làm huấn luyện?
+
+186
+00:16:31,090 --> 00:16:32,730
+Valor Omega.
+
+187
+00:16:34,470 --> 00:16:39,240
+Ôi Chúa ơi, là Valor Omega thật.
+
+188
+00:16:40,220 --> 00:16:41,610
+Scrapper.
+
+189
+00:16:49,070 --> 00:16:50,820
+Cậu đùa tôi đấy à?
+
+190
+00:16:50,840 --> 00:16:53,280
+Tôi đã không tin cho đến khi họ bảo cậu đã quay về.
+
+191
+00:16:53,310 --> 00:16:56,290
+- Cậu sao rồi, Nate?
+- Đội trưởng Lambert.
+
+192
+00:16:56,300 --> 00:16:57,470
+Ừ, đáng yêu ghê.
+
+193
+00:16:57,490 --> 00:16:59,760
+Đây là nguyên tắc quân đội. Cậu cần nhớ phải tuân thủ như thế nào.
+
+194
+00:16:59,780 --> 00:17:01,620
+Đội trưởng Pentecost.
+
+195
+00:17:02,280 --> 00:17:06,990
+- Còn em chắc là Amara Namani.
+- Vâng ạ, thưa đội trưởng. Ranger.
+
+196
+00:17:07,000 --> 00:17:08,610
+Để anh giúp em chuẩn bị.
+
+197
+00:17:10,310 --> 00:17:13,500
+Và đừng lấy thứ gì khi ở đây là được.
+
+198
+00:17:15,060 --> 00:17:17,220
+Thê nên anh chàng tóc xén kia
+ mới gọi anh là Pentecost?
+
+199
+00:17:17,390 --> 00:17:19,760
+Như Stacker Pentecost quỷ quyệt?
+
+200
+00:17:19,790 --> 00:17:24,370
+Phi công của Coyote Tango, 
+anh hùng toàn thế giới ư?
+
+201
+00:17:24,400 --> 00:17:27,600
+- Chỉ là cái tên thôi
+- Phải, một cái tên rất ngầu.
+
+202
+00:17:29,740 --> 00:17:33,620
+Huấn luyện mô phỏng bắt đầu lúc 6h.
+ Nếu trễ, các cậu coi như bỏ tập buổi này.
+
+203
+00:17:33,650 --> 00:17:35,690
+Nếu tụt hạng,
+em sẽ bay chuyến tới...
+
+204
+00:17:35,720 --> 00:17:37,510
+trở về nơi họ thấy em.
+
+205
+00:17:37,520 --> 00:17:39,910
+Kia là Titan Redeemer.
+
+206
+00:17:41,430 --> 00:17:45,100
+Và Bracer Phoenix.
+Nó là người máy 3 phi công lái.
+
+207
+00:17:45,120 --> 00:17:48,650
+Saber Athena. Em rất mê Saber Athena.
+
+208
+00:17:48,660 --> 00:17:50,870
+Nó là người máy nhanh nhất.
+Anh biết chứ?
+
+209
+00:17:50,880 --> 00:17:53,560
+<i>Cảnh báo: tránh xa khu vực thang máy.</i>
+
+210
+00:17:53,630 --> 00:17:55,160
+Con nào là của anh ạ?
+
+211
+00:17:58,380 --> 00:18:00,000
+Gipsy.
+
+212
+00:18:03,410 --> 00:18:06,240
+- Anh lái Gipsy Avenger á?
+- Đã từng thôi.
+
+213
+00:18:06,270 --> 00:18:09,400
+Cho đến khi cộng sự của cậu ta có đặc quyền được lái riêng.
+
+214
+00:18:09,420 --> 00:18:11,350
+Jules Reyes, J-Tech.
+
+215
+00:18:11,380 --> 00:18:13,540
+Amara, học viên.
+
+216
+00:18:14,500 --> 00:18:15,770
+Jake.
+
+217
+00:18:15,890 --> 00:18:19,210
+- Huấn luyện.
+- Nghe danh cậu đã lâu, Pentecost.
+
+218
+00:18:19,890 --> 00:18:22,770
+- Cậu vẫn còn giữ kỉ lục đấy.
+- Kỉ lục gì? 
+- Im đi.
+
+219
+00:18:22,910 --> 00:18:26,410
+Họ lôi kéo cậu về như nào vậy?
+Chắc không phải lương rồi.
+
+220
+00:18:26,480 --> 00:18:28,200
+Ôi kể ra cũng dài,
+ nhưng nếu cô...
+
+221
+00:18:28,210 --> 00:18:30,130
+nhưng nếu cô có hứng
+ thì chúng ta có thể gặp riêng...
+
+222
+00:18:30,150 --> 00:18:31,480
+Cô ấy bận lắm.
+
+223
+00:18:36,860 --> 00:18:38,810
+Nhìn thẳng đi.
+
+224
+00:18:44,000 --> 00:18:46,580
+- Thôi đi, Renata, đừng đánh vào mặt nữa.
+- Xin lỗi nha.
+
+225
+00:18:50,200 --> 00:18:52,830
+Tớ thách cậu, 2 vé tắm trước.
+
+226
+00:18:53,410 --> 00:18:56,420
+Thôi đi, Ilya. 
+Cậu ấy cần tất cả phiếu tắm mới hết được mùi đấy.
+
+227
+00:18:56,430 --> 00:18:59,450
+Tớ có mùi xạ hương.
+Mùi các cậu ngửi thấy là xạ hương đó.
+
+228
+00:18:59,470 --> 00:19:00,710
+Huấn luyện viên đến.
+
+229
+00:19:00,740 --> 00:19:03,530
+<i>Hệ thống âm thanh đã bị ngắt.</i>
+
+230
+00:19:05,420 --> 00:19:08,870
+Các học viên, đây là Amara Namani.
+
+231
+00:19:08,900 --> 00:19:11,180
+Cô ấy sẽ gia nhập cùng các bạn.
+
+232
+00:19:11,200 --> 00:19:14,460
+Còn đây là huấn luyện viên Pentecost.
+Sẽ giúp tôi chỉ dẫn các bạn...
+
+233
+00:19:14,490 --> 00:19:17,620
+cho đến khi tôi tìm được cộng sự mới thay thế Ranger Burke.
+
+234
+00:19:17,910 --> 00:19:19,300
+Cậu muốn hỏi thêm gì không?
+
+235
+00:19:20,990 --> 00:19:22,600
+Toàn thứ cậu không muốn nghe thôi.
+
+236
+00:19:25,710 --> 00:19:28,860
+Malikova, đưa Namani sắp xếp đồ
+ và chuẩn bị luyện tập.
+
+237
+00:19:28,940 --> 00:19:31,910
+- Tuân lệnh!
+- Giải tán.
+
+238
+00:19:36,150 --> 00:19:37,790
+Pentecost.
+
+239
+00:19:38,270 --> 00:19:40,240
+Chúng ta sẽ được huấn luyện 
+thành Pentecost.
+
+240
+00:19:40,260 --> 00:19:44,290
+Thì sao? Anh ta có phải người hi sinh
+ để bít vết nứt đâu.
+
+241
+00:19:44,310 --> 00:19:46,580
+Anh ta còn chưa tham gia thực chiến bao giờ.
+
+242
+00:19:46,600 --> 00:19:48,580
+<i>Renata, sẵn sàng cho vòng 2.</i>
+
+243
+00:19:48,600 --> 00:19:51,400
+<i>Chào Ilya, cậu thấy chưa?</i>
+
+244
+00:19:53,610 --> 00:19:57,060
+- Này, tớ phải...
+- Nghe nói cậu tự ráp Jaeger.
+
+245
+00:19:57,080 --> 00:20:00,620
+Phải, là Scrapper thực sự.
+
+246
+00:20:00,640 --> 00:20:02,530
+Tớ cũng tự lắp nó phiên bản một người lái...
+
+247
+00:20:02,550 --> 00:20:07,110
+Nếu cậu muốn lắp ráp thì hãy làm thợ máy ấy.
+Moyulan chỉ dành cho phi công thôi.
+
+248
+00:20:09,070 --> 00:20:12,190
+- Tới đây. Tớ cầm cho.
+- Cảm ơn cậu.
+
+249
+00:20:14,380 --> 00:20:18,350
+Kim Hải. Âu Dương Kim Hải.
+Cậu và Vik kết thân với nhau rồi hả?
+
+250
+00:20:18,380 --> 00:20:21,710
+- Vik?
+- Là viết tắt trong Viktoriya, nhưng cậu không cần gọi tên đầy đủ.
+
+251
+00:20:21,740 --> 00:20:23,020
+Ê, cậu ấy sao vậy?
+
+252
+00:20:23,050 --> 00:20:25,580
+Cậu ấy phải qua 3 lần thi bắn mới được vào.
+
+253
+00:20:25,600 --> 00:20:27,370
+Chắc không thích cách cậu được vào luôn.
+
+254
+00:20:27,380 --> 00:20:28,470
+Đó đâu phải lỗi của tớ.
+
+255
+00:20:28,490 --> 00:20:30,670
+Có nhà tuyển dụng nào tới chỗ tớ tuyển đâu.
+
+256
+00:20:30,680 --> 00:20:33,780
+- Này. Cậu có biết tiếng Nga không? 
+- Không.
+
+257
+00:20:33,790 --> 00:20:35,920
+Tớ chỉ cậu.
+Giúp cậu ấy bình tĩnh.
+
+258
+00:20:35,940 --> 00:20:38,280
+Đi nào, cất đồ thôi.
+
+259
+00:21:10,400 --> 00:21:13,590
+<i>Cảnh báo. 
+Bán cầu không khớp.</i>
+
+260
+00:21:13,620 --> 00:21:16,930
+- Chúng ta cần kết nối lại.
+- Biết rồi! Tớ đang cố!
+
+261
+00:21:26,040 --> 00:21:27,970
+<i>MAGLEV ngắt kết nối.</i>
+
+262
+00:21:28,000 --> 00:21:30,820
+- Tớ không làm được.
+- Tệ thật.
+
+263
+00:21:30,840 --> 00:21:33,500
+<i>Mô phỏng kết thúc.</i>
+
+264
+00:21:35,460 --> 00:21:36,640
+AMARA thất bại
+SURESH thất bại.
+
+265
+00:21:36,660 --> 00:21:41,080
+Khi tôi nghe em đã khiến
+ November Ajax chạy té khói,
+
+266
+00:21:41,100 --> 00:21:44,960
+anh cứ nghĩ chúng ta sẽ có gì đặc biệt.
+Nhưng giờ anh không chắc.
+
+267
+00:21:45,150 --> 00:21:47,780
+Làm sao em có thể kết nối trong thứ này?
+
+268
+00:21:47,790 --> 00:21:49,040
+Nó có mùi hôi chân.
+
+269
+00:21:49,060 --> 00:21:51,650
+Tôi không muốn nghe lời ngụy biện, học viên.
+
+270
+00:21:51,670 --> 00:21:54,840
+Cậu để con bé chống lại con Kaiju
+ đã giết chết 2 phi công kì cựu.
+
+271
+00:21:54,920 --> 00:21:56,440
+Chẳng công bằng chút nào.
+
+272
+00:21:56,450 --> 00:21:59,010
+Có lẽ cô bé không phải người duy nhất
+ không thuộc về nơi này.
+
+273
+00:22:00,300 --> 00:22:02,860
+Tôi biết cậu có khúc mắc với tôi,
+
+274
+00:22:02,870 --> 00:22:04,590
+nhưng bỏ qua đi, con bé chỉ là đứa trẻ thôi.
+
+275
+00:22:04,620 --> 00:22:07,060
+Chúng ta cũng từng thế. Vấn đề nằm ở đó.
+
+276
+00:22:07,080 --> 00:22:09,600
+Cậu có mỗi quan hệ mạnh mẽ từ bé.
+
+277
+00:22:09,620 --> 00:22:11,680
+Đó chính là liên kết
+ tạo ra phi công tài năng.
+
+278
+00:22:11,710 --> 00:22:15,340
+Phải, tôi vẫn nhớ buổi tranh luận. 
+Cảm ơn.
+
+279
+00:22:16,420 --> 00:22:18,400
+Ryoichi, Renata, đến lượt các em.
+
+280
+00:22:18,410 --> 00:22:20,930
+Hãy cho tân binh biết phải làm như nào.
+
+281
+00:22:34,480 --> 00:22:37,310
+Cậu khoác thứ gì trên người vậy?
+
+282
+00:22:38,690 --> 00:22:40,760
+Jules thích bộ này.
+Cô ấy nói là nó hợp với tôi.
+
+283
+00:22:40,780 --> 00:22:42,890
+Cuối cùng cũng có người mặc biết cách ăn mặc ở đây.
+
+284
+00:22:42,910 --> 00:22:45,250
+Không trách cô ấy được.
+Tôi rất quyến rũ mà.
+
+285
+00:22:45,940 --> 00:22:48,890
+- Cậu uống chứ?
+- Ừ.
+
+286
+00:22:51,730 --> 00:22:53,070
+Cảm ơn.
+
+287
+00:22:53,360 --> 00:22:56,830
+- Có kem ở ngăn trên.
+- Tuyệt.
+
+288
+00:22:58,090 --> 00:23:01,230
+Thêm lần nữa hả?
+Chứng minh ông già sai?
+
+289
+00:23:01,240 --> 00:23:04,070
+Không, tôi chỉ quay lại
+ để xem cái cằm sửa của cậu có hợp không.
+
+290
+00:23:04,090 --> 00:23:06,190
+Tôi nghĩ là khá hợp với cậu rồi.
+
+291
+00:23:06,210 --> 00:23:08,800
+Phải, nó rất hợp với vẻ chỉ huy.
+Bọn nhóc thích lắm đó.
+
+292
+00:23:08,820 --> 00:23:12,500
+Jake này, bọn trẻ
+ngưỡng mộ chúng ta.
+
+293
+00:23:12,520 --> 00:23:15,710
+Phải để chúng thấy
+ chúng ta có thể làm việc với nhau.
+
+294
+00:23:15,730 --> 00:23:18,000
+Chiến tranh đã kết thúc 10 năm.
+
+295
+00:23:18,010 --> 00:23:21,010
+Cậu phải quên nó đi.
+
+296
+00:23:21,030 --> 00:23:23,680
+Hiểu được kẻ địch cậu sẽ khiến chúng
+
+297
+00:23:25,000 --> 00:23:26,350
+Phải...
+
+298
+00:23:28,340 --> 00:23:29,610
+Tôi xin lỗi.
+
+299
+00:23:29,620 --> 00:23:31,870
+Cậu phải hiểu được mục địch kẻ địch...
+
+300
+00:23:31,880 --> 00:23:33,730
+thì mới đánh bại chúng được.
+Chúng ta không hiểu.
+
+301
+00:23:33,760 --> 00:23:36,020
+Không, tôi có thể giúp cậu.
+
+302
+00:23:36,050 --> 00:23:37,970
+Tôi đang nghĩ phải có thứ gì liên quan...
+
+303
+00:23:37,980 --> 00:23:40,190
+tới những con sinh vật khổng lồ tấn công chúng ta.
+
+304
+00:23:40,220 --> 00:23:44,040
+Không, tộc Precursors sẽ không cử bọn Kaiju đến
+
+305
+00:23:44,060 --> 00:23:45,840
+để san bằng thành phố nếu chúng muốn quẹt sạch chúng ta
+
+306
+00:23:45,870 --> 00:23:47,960
+Nghe Nate,
+tôi chẳng muốn gây sự với cậu,
+
+307
+00:23:47,970 --> 00:23:49,220
+nhưng tôi phải lựa chọn.
+
+308
+00:23:49,240 --> 00:23:52,140
+Bản mặt đẹp đẽ của cậu hay bọn tù nhân,
+
+309
+00:23:52,150 --> 00:23:53,790
+tôi chọn cái mặt cậu.
+
+310
+00:23:53,810 --> 00:23:55,960
+Ôi cảm động quá.
+
+311
+00:23:55,970 --> 00:23:57,670
+Cậu cho bao nhiêu topping mới đủ hả?
+
+312
+00:23:57,690 --> 00:24:00,690
+Kệ đi.
+Đừng phá lớp topping của tôi.
+
+313
+00:24:01,770 --> 00:24:03,440
+Thế tân binh có ...
+
+314
+00:24:03,450 --> 00:24:05,650
+bao nhiêu tháng trước khi tốt nghiệp?
+
+315
+00:24:05,830 --> 00:24:08,280
+- 6 tháng.
+- Ờ. Tôi nói cậu điều này...
+
+316
+00:24:08,300 --> 00:24:10,700
+Mỗi khi cậu muốn nói chuyện với chúng
+ bằng giọng người lính,
+
+317
+00:24:10,710 --> 00:24:11,840
+tôi sẽ gật gù...
+
+318
+00:24:11,860 --> 00:24:13,970
+hoặc kiểu, cậu ta nói gì đấy.
+
+319
+00:24:13,980 --> 00:24:16,100
+Rồi khi,
+chúng sẽ trở thành phi công.
+
+320
+00:24:16,130 --> 00:24:18,370
+- Và tôi trở lại cuộc sống lúc đầu.
+- Thật tuyệt!
+
+321
+00:24:21,010 --> 00:24:22,790
+ Mọi chuyện có thể diễn ra sớm hơn cậu nghĩ.
+
+322
+00:24:23,040 --> 00:24:26,110
+- Sao vậy?
+- Mai có buổi diễn xiếc rất lớn.
+
+323
+00:24:26,140 --> 00:24:30,030
+SHAO và đội cô ấy sẽ trình diễn 
+chương trình mô phỏng.
+
+324
+00:24:30,060 --> 00:24:34,210
+- Có thể biến chúng ta thành lũ vô dụng.
+- Nghe như chuyện chiếc thẻ ra tù sớm của tôi vậy.
+
+325
+00:24:36,610 --> 00:24:39,990
+Cậu cứ tỏ thái độ nếu muốn...
+
+326
+00:24:41,080 --> 00:24:44,080
+nhưng cậu và tôi điều biết cậu có thể làm hơn thế.
+
+327
+00:25:03,290 --> 00:25:05,190
+Cô ấy không muốn bắt tay đâu.
+
+328
+00:25:05,220 --> 00:25:06,410
+Tiến sĩ Newton Geiszler,
+
+329
+00:25:06,420 --> 00:25:08,780
+Trưởng bộ phận nghiên cứu và phát triển của tập đoàn SHAO.
+
+330
+00:25:08,810 --> 00:25:12,030
+Cái bắt tay chặt đấy.
+
+331
+00:25:23,910 --> 00:25:26,140
+Em mặc bộ này hợp lắm.
+
+332
+00:25:26,160 --> 00:25:29,970
+Còn hơn chán so với bộ sọc trắng trong tù.
+
+333
+00:25:29,990 --> 00:25:31,570
+Tôi xin lỗi? Cậu ấy đây sao?
+
+334
+00:25:31,590 --> 00:25:33,840
+Đúng là cậu ấy rồi. Đúng chứ?
+Cậu là con của Stacker.
+
+335
+00:25:33,850 --> 00:25:36,890
+Chào, tôi là Newt. 
+Fan hâm mộ lớn của bố cậu.
+
+336
+00:25:36,920 --> 00:25:38,630
+Một người viết bài phát biểu rất hay.
+
+337
+00:25:38,640 --> 00:25:40,110
+Cậu có được nghe đoạn ông ấy phát biểu lúc ngăn ngày tận thế không?
+
+338
+00:25:40,130 --> 00:25:42,020
+- Newton.
+- Hermann.
+
+339
+00:25:42,040 --> 00:25:43,650
+Tôi đã hi vọng anh sẽ đến cùng.
+
+340
+00:25:43,670 --> 00:25:46,210
+Tôi có thể nhờ anh giúp
+ cái thí nghiệm tôi đang thực hiện.
+
+341
+00:25:46,500 --> 00:25:49,990
+Chỉ mất chút thời gian thôi.
+ Tôi biết anh rất bận.
+
+342
+00:25:50,020 --> 00:25:52,660
+Tôi không muốn gây ấn tương, nhưng...
+
+343
+00:25:52,670 --> 00:25:54,650
+Thôi đi. Cậu không thể gây ấn tượng với tôi.
+
+344
+00:25:54,660 --> 00:25:57,170
+Chúng ta hiểu nhau quá mà?
+
+345
+00:25:57,190 --> 00:26:01,040
+Chúng ta đã bảo vệ thế giới.
+ Chúng ta đánh bay một chú Kaiju.
+
+346
+00:26:01,050 --> 00:26:03,880
+Nếu chúng ta không
+ bổ thẳng vào đầu bọn Kaiju,
+
+347
+00:26:03,890 --> 00:26:05,680
+thành phố Raleigh sẽ 
+không thể khép lại vết nứt.
+
+348
+00:26:05,700 --> 00:26:08,120
+Đây là anh còn đây là tôi.
+
+349
+00:26:08,250 --> 00:26:11,670
+Cơ bản tôi đóng góp nhiều hơn, nhưng chúng ta cùng làm sẽ nhanh...
+
+350
+00:26:11,680 --> 00:26:13,230
+Việc giàn quân...
+
+351
+00:26:13,920 --> 00:26:17,740
+của các Jaeger. Để đưa chúng vào cuộc chiến mất khá nhiều thời gian.
+
+352
+00:26:17,760 --> 00:26:20,690
+Mức độ tổn hại mà Kaiju gây ra trước khi chúng...
+
+353
+00:26:20,720 --> 00:26:24,040
+À đây. Tôi nghĩ là mình đã tìm ra giải pháp.
+
+354
+00:26:26,480 --> 00:26:29,270
+Anh biết tôi chẳng có thời gian đọc cái....
+
+355
+00:26:30,460 --> 00:26:35,090
+- Động cơ đẩy tên lửa?
+- Ừ, không.
+
+356
+00:26:35,120 --> 00:26:38,870
+Không có loại nhiên liệu nào trên thế giới này 
+chạy được với tỉ lệ một tới vô hạn như này.
+
+357
+00:26:38,900 --> 00:26:40,900
+Không phải từ thế giới này.
+
+358
+00:26:44,860 --> 00:26:47,510
+- Đây.
+- Đó có phải máu Kaiju không?
+
+359
+00:26:47,530 --> 00:26:48,880
+Chính xác.
+
+360
+00:26:49,660 --> 00:26:53,010
+Tôi đã phát hiện ra máu Kaiju phản ứng mạnh mẽ...
+
+361
+00:26:53,020 --> 00:26:54,970
+khi tiếp xúc với những nguyên tố
+hiếm từ Trái Đất
+
+362
+00:26:55,000 --> 00:26:58,060
+- Cerium, lanthanum, gadolinium.
+- Tôi biết .
+
+363
+00:26:58,090 --> 00:27:00,060
+Anh không thể phí thời gian với mấy thứ này.
+
+364
+00:27:00,070 --> 00:27:01,170
+Anh sắp điên rồi đó.
+
+365
+00:27:01,200 --> 00:27:03,820
+Không ai hiểu rõ hình thái
+Kaiju hơn anh.
+
+366
+00:27:03,840 --> 00:27:07,210
+- Chỉ cần anh xem qua thôi.
+- Không, Hermann. Tôi phải ngăn anh lại.
+
+367
+00:27:07,240 --> 00:27:09,990
+Xem này, không phải mấy chuyện này.
+Một khi hệ thống Jeager tự động của công ty tôi...
+
+368
+00:27:10,000 --> 00:27:12,490
+được chấp nhận và phát triển, 
+mấy vấn đề này sẽ được giải quyết.
+
+369
+00:27:12,520 --> 00:27:16,470
+Chỉ cần 1 năm thôi anh bạn,
+ chúng ta sẽ có hệ thống tự động khắp các ngóc ngách.
+
+370
+00:27:17,140 --> 00:27:18,820
+Vậy anh từ chối giúp tôi?
+
+371
+00:27:18,840 --> 00:27:22,010
+Nghe này, tại sao chúng ta không bàn
+về bữa tối ở chỗ tôi nhỉ?
+
+372
+00:27:22,020 --> 00:27:23,630
+Chúng ta có thể gặp Alice.
+
+373
+00:27:23,650 --> 00:27:27,740
+Tôi không cần một bữa ăn, Newt. 
+Cái tôi cần là giải pháp cho một vấn đề quan trọng.
+
+374
+00:27:28,780 --> 00:27:32,240
+ Có vẻ là tôi nhỉ. 
+Xin lỗi nha, chuyện công ty.
+
+375
+00:27:32,250 --> 00:27:33,890
+ Thật vui được gặp anh.
+
+376
+00:27:33,920 --> 00:27:36,080
+Newton.
+
+377
+00:27:39,610 --> 00:27:44,120
+Tôi vẫn còn gặp ác mộng
+về những thứ ta đã thấy.
+
+378
+00:27:44,170 --> 00:27:48,130
+Khi chúng ta nhồi nhét cái mớ não
+Kaiju ghê tởm đó.
+
+379
+00:27:49,810 --> 00:27:54,260
+Nhưng nó thú vị vãi, phải không?
+
+380
+00:27:55,720 --> 00:27:57,820
+Tiến sĩ Geiszler, tới lúc đi rồi.
+
+381
+00:27:57,860 --> 00:28:00,600
+Được, được thôi.
+
+382
+00:28:03,670 --> 00:28:06,700
+Anh và Tiến sĩ Gottlieb khá 
+gần gũi trong thời chiến nhỉ?
+
+383
+00:28:07,000 --> 00:28:09,675
+Chúng tôi chung phòng thí nghiệm...
+
+384
+00:28:09,850 --> 00:28:12,830
+Nói tiếng Anh đi. Tiếng Quan Thoại của anh
+ nghe thật ngu ngốc.
+
+385
+00:28:13,210 --> 00:28:15,625
+Tôi biết, là tôi sai.
+Phải chúng tôi đã dùng chung phòng thí nghiệm.
+
+386
+00:28:15,750 --> 00:28:17,660
+Anh và Tiến sĩ Gottlieb bàn chuyện gì vậy?
+
+387
+00:28:18,130 --> 00:28:21,520
+Chỉ là có vài ý tưởng điên rồ
+về động cơ đẩy trong lớp giáp Jeager thôi.
+
+388
+00:28:21,650 --> 00:28:23,820
+Cho tới khi Tổng thư ký Mori ra quyết định
+ tại cuộc gặp Hội đồng,
+
+389
+00:28:23,820 --> 00:28:25,750
+tôi không thể liều lĩnh được.
+
+390
+00:28:25,790 --> 00:28:27,780
+Đừng liên lạc với anh ta nữa,
+
+391
+00:28:27,830 --> 00:28:29,660
+cho tới khi bỏ phiếu.
+
+392
+00:28:31,090 --> 00:28:33,090
+Anh ta cực kì vô hại.
+
+393
+00:28:35,030 --> 00:28:39,620
+Cô có thể nói lại, và 
+tốc độ chậm hơn khoảng 80 lần?
+
+394
+00:28:39,650 --> 00:28:43,890
+Tôi nói là, đừng làm tôi nghi ngờ về độ trung thành của anh. Hiểu chứ?
+
+395
+00:28:45,580 --> 00:28:47,020
+Nghi ngờ gì?
+
+396
+00:28:48,710 --> 00:28:50,620
+Nhìn xem tôi hiếm khi nói chuyện với anh ta lắm.
+
+397
+00:28:50,670 --> 00:28:53,710
+Vậy thì chuyện đó lo được.
+Và lo học tiếng Quan Thoại đi.
+
+398
+00:28:53,710 --> 00:28:56,880
+Tôi không thích nhắc
+ lại lời mình trong tiếng mẹ đẻ đâu.
+
+399
+00:28:57,460 --> 00:29:00,860
+Jeager không người lái là bước tiến mới
+trong sự tiến hóa Jeager.
+
+400
+00:29:00,880 --> 00:29:03,850
+Hệ thống tôi thiết kế xử lí
+các gói lệnh...
+
+401
+00:29:03,860 --> 00:29:05,780
+thông qua lõi thông tin lượng tử.
+
+402
+00:29:05,800 --> 00:29:10,720
+Có nghĩa là một phi công 
+có thể vận hành Jeager này từ xa...
+
+403
+00:29:10,740 --> 00:29:12,460
+từ bất kì đâu trên thế giới.
+
+404
+00:29:13,150 --> 00:29:15,910
+Cho đến khi chính phủ đồng ý phát triển,
+
+405
+00:29:15,920 --> 00:29:18,870
+nó còn dựa vào bản báo cáo cuối cùng 
+của Tổng Thư Kí Mori đây..
+
+406
+00:29:18,900 --> 00:29:21,890
+Những ngày vật lộn để tìm 
+và huấn luyện tập trung...
+
+407
+00:29:21,900 --> 00:29:24,960
+những phi công thích hợp
+sẽ chỉ còn trong quá khứ.
+
+408
+00:29:24,980 --> 00:29:27,600
+Và cô nghĩ một tá nhân viên văn phòng 
+ngồi máy sẽ giỏi hơn chúng tôi?
+
+
+409
+00:29:27,610 --> 00:29:29,760
+Chúng tôi không ở đây để loại bỏ các anh.
+
+410
+00:29:29,780 --> 00:29:33,360
+Sự hợp tác của chúng ta trong 
+chương trình này chưa bao giờ quan trọng như vậy
+
+411
+00:29:34,040 --> 00:29:38,230
+- Có câu hỏi nào không?
+- Có, tôi muốn hỏi vài thứ.
+
+412
+00:29:38,250 --> 00:29:40,840
+ Chúng tôi là phi công, 
+chứ không phải công nhân.
+
+413
+00:29:40,850 --> 00:29:43,250
+Và "chúng tôi" đang hét lên. Chả có
+gì đáng để hét cả.
+
+414
+00:29:49,040 --> 00:29:50,770
+Mấy thứ đó thật bóng bẩy.
+
+415
+00:29:50,780 --> 00:29:53,360
+Bao lâu nữa thì họ đặt hàng mấy cái công tắc đó
+để em có thể về nhà?
+
+416
+00:29:53,390 --> 00:29:55,960
+Chị không tin vào công nghệ
+Tạm thời thì chưa.
+
+417
+00:29:55,970 --> 00:29:58,040
+Ồ, nghe có vẻ khá tốt cho em.
+
+418
+00:29:58,060 --> 00:30:01,830
+ Hệ thống từ xa có thể bị hack,
+hoặc bị thỏa hiệp.
+
+419
+00:30:01,860 --> 00:30:04,270
+ - Chị có quyền biếu quyết chính mà.
+
+420
+00:30:04,280 --> 00:30:06,080
+Nên là vậy đó,
+nó là quyết định của chị
+
+421
+00:30:06,860 --> 00:30:10,050
+Chị ước chị có thể cứ
+vậy mà chấp nhận chúng.
+
+422
+00:30:10,070 --> 00:30:14,470
+Gần nửa hội đồng chống lưng cho Liwen.
+
+423
+00:30:14,490 --> 00:30:17,110
+Họ chẳng cần tới ý kiến của chị.
+
+424
+00:30:17,400 --> 00:30:19,320
+Ai mà quan tâm họ thích gì,
+
+425
+00:30:19,330 --> 00:30:20,850
+hay không thích gì?
+
+426
+00:30:20,880 --> 00:30:23,190
+Em đã nói gì nào? 
+Em sẽ đi với chị.
+
+427
+00:30:23,210 --> 00:30:26,560
+Để hỗ trợ tinh thần, 
+thêm nữa là em cũng muốn rời khỏi đây.
+
+428
+00:30:26,580 --> 00:30:29,650
+Chị vui vì em đã ngỏ lời, 
+vì  chị cũng đã đề nghị...
+
+429
+00:30:29,670 --> 00:30:33,500
+Gipsy Avenger được làm 
+ bảo an danh dự cho hội đồng.
+
+430
+00:30:33,510 --> 00:30:35,180
+Chị biết Gipsy thuộc sở hữu Nate mà.
+
+431
+00:30:35,210 --> 00:30:38,660
+Giờ cậu ấy là phi công hợp tác của Liwen.
+Cậu ấy sẽ cần một con mới.
+
+432
+00:30:38,670 --> 00:30:41,220
+Một khi các phần động
+ của cậu ấy tương thích.
+
+433
+00:30:42,210 --> 00:30:45,750
+Được rồi, em sẽ làm vậy.
+Em sẽ chống lưng của chị mà.
+
+434
+00:30:45,770 --> 00:30:47,720
+Nhưng em muốn ở đó khi
+chị nói với Nate, vì em...
+
+435
+00:30:47,730 --> 00:30:49,870
+muốn thấy bản mặt nó lúc đó.
+Chắc hẳn nó thốn lắm.
+
+436
+00:30:49,890 --> 00:30:51,720
+Cậu ta sẽ đứng đó kiểu:
+
+437
+00:30:51,740 --> 00:30:54,660
+"Tôi không nghĩ rằng cậu thuộc
+về Jeager này, Jake."
+
+438
+00:30:54,670 --> 00:30:57,570
+"Biến khỏi Jeager của tôi đi.
+ Chỉ có tôi đủ đẹp trai và quyến rũ."
+
+439
+00:30:58,870 --> 00:31:00,740
+Cậu ta đẹp trai.
+Cậu ta quyến rũ.
+
+440
+00:31:01,030 --> 00:31:02,340
+Cảm ơn, Jake
+
+441
+00:31:11,940 --> 00:31:15,940
+SYDNEY
+AUSTRALIA.
+
+442
+00:31:18,420 --> 00:31:22,270
+Chào mừng quý vị trở lại. Hôm nay là một ngày
+ nhiều nắng. Sự kiện nóng hổi ngày cuối tuần.
+
+443
+00:31:22,300 --> 00:31:24,400
+Gửi lời chào buổi trưa đến quý vị.
+Peter Overton trực tiếp từ...
+
+444
+00:31:24,410 --> 00:31:26,540
+E Nine Studios tại Sydney với tin tức mới nhất.
+
+445
+00:31:26,560 --> 00:31:30,220
+Đến nay theo cảnh sát, 
+có ít nhất 49 nhân viên bị thương.
+
+446
+00:31:30,240 --> 00:31:33,500
+<i>Những người tôn thờ Kaiju đeo mặt nạ đen,
+ném đá và chai lọ vào cảnh sát.</i>
+
+447
+00:31:33,520 --> 00:31:37,240
+Lực lượng an ninh PPDC phía chính quyền
+đang cố làm dịu...
+
+448
+00:31:37,340 --> 00:31:40,540
+Đội Jeager hạ cánh
+tại trung tâm PPDC.
+
+449
+00:31:40,640 --> 00:31:43,570
+Gipsy Avenger, đây là 
+Marshal Chan.
+
+450
+00:31:43,580 --> 00:31:46,310
+Tất cả điều các bạn cần làm là
+đứng đó tạo dáng xinh đẹp
+
+451
+00:31:46,340 --> 00:31:50,070
+- Giữ tập trung và đừng bị ngã ra sau.
+- Đã rõ, chỉ huy.
+
+452
+00:31:50,090 --> 00:31:51,580
+ Chuẩn bị tiếp đất.
+
+453
+00:31:51,590 --> 00:31:54,810
+Trong 3, 2 ,1
+Thả xuống.
+
+454
+00:31:58,030 --> 00:32:03,030
+Bản Việt hóa thực hiện bởi World Translations
+FB.com/WorldTrans - Wtranz@hotmail.com
+
+455
+00:32:05,720 --> 00:32:07,080
+Jake.
+
+456
+00:32:08,270 --> 00:32:10,250
+Kết nối chuyển động không ổn định.
+
+457
+00:32:10,280 --> 00:32:12,940
+Thư giãn đi. Nó đang
+trở lại rồi.
+
+458
+00:32:12,970 --> 00:32:14,730
+Chắc chứ?
+
+459
+00:32:14,740 --> 00:32:15,490
+Tế bào ion kích hoạt.
+
+460
+00:32:15,510 --> 00:32:17,750
+Này Nate, chúng ta
+đang ở trong đầu của nhau, nhớ không?
+
+461
+00:32:17,780 --> 00:32:20,610
+Nên tôi đánh giá cao việc cậu
+ngừng suy nghĩ về Jules.
+
+462
+00:32:20,980 --> 00:32:22,260
+Còn lâu nhé.
+
+463
+00:32:22,270 --> 00:32:25,220
+Tốt lắm, cậu còn nghĩ 
+về việc đá đít tôi thì sao.
+
+464
+00:32:25,230 --> 00:32:26,960
+Cái này cũng không luôn.
+
+465
+00:32:27,720 --> 00:32:29,760
+Sẽ là một ngày dài đây.
+
+466
+00:32:38,920 --> 00:32:41,760
+Vật thể lạ đang tiến gần.
+
+467
+00:33:21,810 --> 00:33:24,730
+- Cảnh báo.
+- Gipsy gọi chỉ huy. Anh đã đọc cái này chưa?
+
+468
+00:33:38,690 --> 00:33:42,440
+Gipsy, đây là chỉ huy.
+Được biết chúng ta có một Jaeger nổi loạn.
+
+469
+00:33:45,080 --> 00:33:47,590
+Các phi công Jaeger bất hợp pháp,
+
+470
+00:33:47,600 --> 00:33:50,310
+tắt nguồn và bước ra 
+khỏi buồng lái.
+
+471
+00:33:50,930 --> 00:33:55,330
+Nhắc lại: Tắt nguồn và ra khỏi buồng lái.
+
+472
+00:33:57,030 --> 00:33:58,660
+Khai hỏa tên lửa.
+
+473
+00:34:19,460 --> 00:34:21,450
+ - Cảnh báo năng lượng thấp.
+- Chúng ta sắp hết năng lượng.
+
+474
+00:34:34,470 --> 00:34:38,200
+Jake, con Jeager đó có 
+thông số năng lượng giống em.
+
+475
+00:34:40,620 --> 00:34:42,140
+Nó đang làm nhiễu kết nối của chúng ta.
+
+476
+00:34:45,380 --> 00:34:47,280
+- Nate.
+- Đã nạp năng lượng.
+
+477
+00:36:00,600 --> 00:36:02,340
+- Giờ phải làm sao?
+- Theo cách của tôi.
+
+478
+00:36:18,380 --> 00:36:19,740
+ Mako bị bắn rồi.
+
+479
+00:36:21,370 --> 00:36:24,860
+ - Chúng ta phải di chuyển.
+- Kích hoạt chế độ không trọng lực.
+
+480
+00:36:41,980 --> 00:36:45,860
+Khẩn cấp, khẩn cấp, khẩn cấp.
+ Máy bay Charlie 052.
+
+481
+00:36:45,870 --> 00:36:48,270
+Chúng tôi bị bắn và đang rơi.
+
+482
+00:36:48,300 --> 00:36:49,760
+- Đang rơi.
+- Đang gửi tới.
+
+483
+00:37:14,900 --> 00:37:17,500
+- Mako.
+- Jake đợi đã.
+
+484
+00:38:43,070 --> 00:38:45,140
+ Kết nối chuyển động thất bại.
+
+485
+00:38:45,170 --> 00:38:47,430
+Đến đây, Sarah. Làm gì đi.
+
+486
+00:38:47,450 --> 00:38:50,290
+Thứ não bộ ngu ngốc này.
+
+487
+00:38:59,990 --> 00:39:06,240
+Em không giỏi mấy chuyện tình cảm,
+ nhưng...
+
+488
+00:39:07,220 --> 00:39:09,690
+Em rất tiếc vê chuyện chị gái anh.
+
+489
+00:39:11,030 --> 00:39:13,480
+Chị nuôi à?
+
+490
+00:39:13,500 --> 00:39:17,430
+Phải, gia đình chị ấy mất trong
+ vụ tấn công Onibaba.
+
+491
+00:39:17,440 --> 00:39:18,910
+Bố anh nhận nuôi chị ấy.
+
+492
+00:39:19,690 --> 00:39:23,410
+Và chị ấy trở thành chị anh,
+ gia đình anh.
+
+493
+00:39:24,470 --> 00:39:26,170
+Tại sao anh không mặc đồng phục?
+
+494
+00:39:27,930 --> 00:39:30,510
+Có nhiều chuyện phải nghĩ 
+sau hôm ở Sydney.
+
+495
+00:39:31,100 --> 00:39:33,390
+Đoán là anh chỉ muốn thoải mái hơn thôi.
+
+496
+00:39:33,420 --> 00:39:36,120
+Đừng để Đội trưởng Lambert 
+thấy anh trong bộ dạng này.
+
+497
+00:39:36,130 --> 00:39:38,900
+Anh ta có thể móc cây gậy ra
+để đánh anh thật đấy.
+
+498
+00:39:38,910 --> 00:39:41,060
+Anh nghĩ là anh an toàn.
+
+499
+00:39:43,190 --> 00:39:45,880
+Vậy là họ còn dùng Sarah.
+
+500
+00:39:47,010 --> 00:39:50,030
+Em không kết nối được với
+ cô ấy vì lí do nào đó.
+
+501
+00:39:50,050 --> 00:39:54,030
+Những học viên khác được huấn luyện với cô ấy
+ nhiều năm, còn em...
+
+502
+00:39:54,420 --> 00:39:57,560
+ - Em ghét cảm thấy như một đứa chậm tiêu.
+ - Em cần thư giãn chút.
+
+503
+00:39:57,580 --> 00:39:59,990
+Hoặc em cần mài dũa giác quan.
+Để anh giúp em.
+
+504
+00:40:00,010 --> 00:40:01,300
+Hiểu rồi, huấn luyện viên.
+
+505
+00:40:01,320 --> 00:40:03,240
+- Đừng gọi anh là huấn luyện viên.
+- Vâng, thưa thầy.
+
+506
+00:40:03,710 --> 00:40:05,470
+Tập trung.
+
+507
+00:40:05,780 --> 00:40:07,440
+Em phải tạo kết nối đủ tốt.
+
+508
+00:40:07,520 --> 00:40:09,620
+Em không thể làm tốt nếu 
+em cứ mắc kẹt trong kí ức.
+
+509
+00:40:15,400 --> 00:40:17,770
+ - Sẵn sàng chưa?
+ - Sẵn sàng.
+
+510
+00:40:18,360 --> 00:40:20,030
+Tốt lắm.
+
+511
+00:40:20,040 --> 00:40:22,110
+Xem thử vận động của chúng ta
+ có tương thích không.
+
+512
+00:40:25,930 --> 00:40:28,110
+Cố lên cô gái. 
+Con làm được.
+
+513
+00:40:31,830 --> 00:40:34,170
+Bắn. Tiếp nào.
+
+514
+00:40:36,610 --> 00:40:38,730
+Xử lí tín hiệu thần kinh quá tải.
+
+515
+00:40:38,760 --> 00:40:40,850
+Tập trung nào Amara.
+
+516
+00:40:41,130 --> 00:40:45,750
+Nhớ kĩ: Liên kết càng tốt,
+ lực chiến đấu càng mạnh.
+
+517
+00:40:46,530 --> 00:40:47,940
+Chính nó đấy.
+
+518
+00:40:49,620 --> 00:40:53,830
+Nhảy sang đây. 
+Con yêu, lại bên bố nào.
+
+519
+00:40:55,110 --> 00:40:58,640
+Đừng chìm trong quá khứ.
+Để kí ức trôi qua đi.
+
+520
+00:40:58,670 --> 00:41:01,270
+Amara, nhảy sang đi.
+
+521
+00:41:01,300 --> 00:41:06,090
+Nào, lại đây. Lại bên nhau nào.
+Sẵn sàng, một, hai, phô mai.
+
+522
+00:41:06,570 --> 00:41:09,400
+Xong rồi. 
+Muốn kiểm tra không?
+
+523
+00:41:09,420 --> 00:41:10,920
+Chờ một giây nào.
+
+524
+00:41:13,770 --> 00:41:16,720
+Amara, em phải để nó trôi.
+
+525
+00:41:19,150 --> 00:41:21,440
+Chỉ nghe tiếng anh nói thôi.
+
+526
+00:41:22,370 --> 00:41:24,010
+Amara.
+
+527
+00:41:40,840 --> 00:41:43,170
+- Amara!
+- Bố!!!!
+
+528
+00:41:44,160 --> 00:41:45,330
+Nhảy sang đây nào!!
+Amara!!!
+
+529
+00:41:45,350 --> 00:41:48,800
+Amara! Chúng ta phải ngắt kết nối.
+
+530
+00:41:48,810 --> 00:41:50,040
+ - Nhảy sang với bố. Cố lên con yêu.
+-  Con sợ lắm.
+
+531
+00:41:50,070 --> 00:41:51,980
+ Bé con, bố sẽ bắt được con. 
+Bố hứa. Lại đây nào.
+
+532
+00:41:52,560 --> 00:41:55,170
+ - Lại đây, Amara.
+- Nhảy nào.
+
+533
+00:42:01,090 --> 00:42:02,400
+Bỏ ra!
+
+534
+00:42:05,870 --> 00:42:07,250
+Em ổn không?
+
+535
+00:42:12,270 --> 00:42:14,520
+Em đã ở đó.
+
+536
+00:42:17,060 --> 00:42:19,020
+Em cảm nhận được nó.
+
+537
+00:42:21,040 --> 00:42:22,340
+Anh cũng cảm nhận được
+
+538
+00:42:24,280 --> 00:42:26,440
+Jake, tôi đây. 
+Cậu có đó không?
+
+539
+00:42:27,720 --> 00:42:28,980
+Có, tôi đây.
+
+540
+00:42:29,000 --> 00:42:31,140
+Gặp tôi lại phòng thí nghiệm.
+ Nguyên soái muốn gặp chúng ta.
+
+541
+00:42:31,160 --> 00:42:33,220
+Đã rõ. Tôi đang đến.
+
+542
+00:42:34,600 --> 00:42:36,030
+Em ổn chứ?
+
+543
+00:42:47,480 --> 00:42:50,030
+- Cái gì vậy?
+- Tin nhắn từ Mako.
+
+544
+00:42:50,050 --> 00:42:52,140
+Cô ấy đã cố gửi nó từ trực thăng...
+
+545
+00:42:52,150 --> 00:42:53,410
+ngay trước khi rơi xuống.
+
+546
+00:42:53,440 --> 00:42:55,770
+Nó là một gói dữ liệu.
+Mật độ thông tin dày đặc.
+
+547
+00:42:55,790 --> 00:42:57,770
+Obsidian Fury đã làm gián đoạn kết nối.
+
+548
+00:42:57,780 --> 00:42:59,340
+Vậy sao tín hiệu của
+cô ấy xen qua được?
+
+549
+00:42:59,370 --> 00:43:02,370
+- Nó không thể. Ít nhất là không nguyên vẹn. 
+- Nên nó...
+
+550
+00:43:02,380 --> 00:43:04,810
+gửi qua một thiết bị số 
+lân cận trong bán kính cho phép...
+
+551
+00:43:04,820 --> 00:43:06,820
+bằng một thuật toán 
+chuyển đổi giai thừa.
+
+552
+00:43:06,830 --> 00:43:09,240
+Tôi chắc là có thể khôi phục
+ một vài megabytes dữ liệu.
+
+553
+00:43:13,150 --> 00:43:14,500
+Đó.
+
+554
+00:43:16,620 --> 00:43:18,130
+Đó có phải Kaiju không?
+
+555
+00:43:18,810 --> 00:43:22,300
+Tôi đang kiểm tra các
+ dữ liệu nén của PPDC về Kaiju.
+
+556
+00:43:26,560 --> 00:43:28,500
+Không trùng khớp.
+
+557
+00:43:28,530 --> 00:43:31,810
+Tiếp tục tìm hiểu.
+Bất kể nó là thứ gì.
+
+558
+00:43:31,840 --> 00:43:33,650
+Tôi muốn biết tại sao.
+
+559
+00:43:33,660 --> 00:43:36,620
+Và tôi muốn biết ai đã lái Jeager nổi loạn đó.
+
+560
+00:43:41,120 --> 00:43:44,820
+SHAO INDUSTRIES
+THƯỢNG HẢI, TRUNG QUỐC
+
+561
+00:43:56,030 --> 00:43:59,350
+Chào, xin lỗi vì đến trễ.
+Tôi tưởng cô còn ở Sydney.
+
+562
+00:44:04,890 --> 00:44:06,090
+Trông nó tuyệt thật.
+
+563
+00:44:06,110 --> 00:44:08,510
+Tôi tưởng anh sẽ nhiệt tình hơn chứ.
+
+564
+00:44:09,190 --> 00:44:11,300
+À, không, tôi bình tĩnh mà.
+ Nó thật tuyệt vời.
+
+565
+00:44:11,320 --> 00:44:12,850
+Dạo này có nhiều chuyện quá.
+
+566
+00:44:12,860 --> 00:44:14,940
+Sau cuộc tấn công và
+tất cả chúng tôi thấy một chút
+
+567
+00:44:14,960 --> 00:44:17,960
+Tôi cũng có mặt ở đó.
+Tôi biết điều gì xảy ra.
+
+568
+00:44:18,660 --> 00:44:22,960
+Nhưng sẽ không là vậy
+ nếu Drone của chúng ta không ở trên chiến trường.
+
+569
+00:44:23,060 --> 00:44:25,110
+Kết nối thần kinh chấm dứt.
+
+570
+00:44:25,810 --> 00:44:27,610
+Giờ mọi người sẽ thấy.
+
+571
+00:44:28,310 --> 00:44:30,870
+Đúng vậy, tôi nghĩ họ có thể vậy.
+
+572
+00:44:30,950 --> 00:44:34,170
+Ý nghĩa của cuộc tấn công
+ mang hướng tích cực, mọi thứ cần được suy xét kỹ.
+
+573
+00:44:36,360 --> 00:44:40,860
+Nếu cô chỉ nhìn từ bên ngoài như mọi người,
+cô có thể nói vậy.
+
+574
+00:44:40,890 --> 00:44:42,975
+Xin lỗi, cô đang...
+Cái gì đang diễn ra vậy?
+
+575
+00:44:43,175 --> 00:44:46,120
+Hội đồng kỳ vọng
+ dàn quân xong trong 48 giờ nữa.
+
+576
+00:44:47,160 --> 00:44:48,225
+48 là...
+
+577
+00:44:48,460 --> 00:44:50,150
+Tôi đã dành cả đời
+ để làm chuyện này.
+
+578
+00:44:50,200 --> 00:44:51,600
+Hoàn thành nó đi.
+
+579
+00:44:51,950 --> 00:44:53,940
+Được thôi.
+
+580
+00:44:54,130 --> 00:44:56,500
+- Không thành vấn đề.
+- 48 giờ ư?
+
+581
+00:44:56,820 --> 00:44:57,880
+Chúng ta không chuẩn bị kịp nổi.
+
+582
+00:44:58,000 --> 00:44:59,700
+Cô không nghĩ còn giải pháp khác à?
+
+583
+00:44:59,730 --> 00:45:02,870
+Được thôi. Tốt, cô bị sa thải.
+ Được thôi, cô thấy việc đó thế nào?
+
+584
+00:45:02,880 --> 00:45:04,660
+Hoặc có thể cô đã được thăng chức.
+Tôi không biết.
+
+585
+00:45:04,680 --> 00:45:06,440
+Chúng tôi sẽ xem nó vận hành thế nào.
+Cô hãy hoàn thành nó đi.
+
+586
+00:45:07,340 --> 00:45:08,700
+Đưa tôi cái đó.
+
+587
+00:45:28,680 --> 00:45:31,320
+Này em yêu, anh về nhà rồi.
+
+588
+00:45:31,510 --> 00:45:34,790
+Xin lỗi anh về trễ.
+Có vài chuyện...
+
+589
+00:45:35,070 --> 00:45:38,700
+Vài chuyện điên rồ đã xảy ra, 
+cùng với mấy chuyện ở Sydney.
+
+590
+00:45:40,060 --> 00:45:43,230
+Tất cả mấy người đó.
+ Không ai tốt đẹp cả.
+
+591
+00:45:43,250 --> 00:45:46,130
+Sếp suýt nữa bị giết.
+Điều đó có thể rất tệ.
+
+592
+00:45:46,160 --> 00:45:48,110
+Có thể chỉ là anh đoán mò.
+Anh không biết.
+
+593
+00:45:48,290 --> 00:45:50,950
+Nó có thể rất tuyệt, thực ra, cô ta...
+
+594
+00:45:50,960 --> 00:45:53,810
+kiểm soát anh. Ý anh là anh không
+thể tách khỏi cô ấy.
+
+595
+00:45:53,830 --> 00:45:56,210
+Anh thấy mệt rồi. 
+Quá đủ cho công việc và cô ta.
+
+596
+00:45:56,220 --> 00:45:58,830
+Thực sự anh cần quan tâm em hơn.
+
+597
+00:45:58,860 --> 00:46:02,390
+Chúng ta có nên 
+vui vẻ một chút trong phòng ngủ không?
+
+598
+00:46:02,400 --> 00:46:03,710
+Ngày hôm nay em thế nào?
+
+599
+00:46:05,360 --> 00:46:07,680
+Ồ, tuyệt thật.
+
+600
+00:46:07,690 --> 00:46:11,640
+Nghe thật hào hứng.
+Nó là gì vậy?
+
+601
+00:46:12,320 --> 00:46:14,420
+Thư giãn giúp anh nhé?
+
+602
+00:46:17,010 --> 00:46:22,360
+Anh biết nói gì đây?
+Em là của anh mà.
+
+603
+00:46:30,690 --> 00:46:34,680
+Bọn họ gọi nó là Obsidian Fury.
+Nó chưa bao giờ mất kiểm soát như vậy.
+
+604
+00:46:34,770 --> 00:46:38,360
+Bản tin đang đăng hàng
+tá Jeager tại đài tưởng niệm.
+
+605
+00:46:38,370 --> 00:46:40,390
+Khi tớ chết, tớ muốn nhiều người đưa tiễn.
+
+606
+00:46:40,400 --> 00:46:43,420
+Danh tiếng của cậu sẽ giúp cậu
+nâng ngực được nhiều hơn khi giải nghệ.
+
+607
+00:46:43,430 --> 00:46:45,220
+Các Jeagers không xuất hiện khi mấy anh 
+chàng đó nâng ngực đâu.
+
+608
+00:46:45,240 --> 00:46:47,640
+- Bố cậu nâng ngực à?
+- Ông ấy là bác sĩ thẩm mỹ.
+
+609
+00:46:47,650 --> 00:46:49,220
+ Ông ấy không chỉ làm việc với....
+
+610
+00:46:49,340 --> 00:46:51,860
+Tớ không có ý định giải nghệ đâu.
+Tớ sẽ là phi công.
+
+611
+00:46:51,890 --> 00:46:55,720
+Vậy thì, khi cậu chết,
+người ta sẽ cho một Jeager đến viếng.
+
+612
+00:46:56,310 --> 00:46:58,680
+Cũng có khi là một nửa Jeager.
+
+613
+00:46:58,870 --> 00:47:01,370
+Tớ nghe nói đó là nơi người ta tìm thấy Amara...
+
+614
+00:47:01,380 --> 00:47:02,590
+trong một nửa Jeager.
+
+615
+00:47:02,600 --> 00:47:04,150
+Nó là cả con Jeager đấy.
+
+616
+00:47:04,550 --> 00:47:09,350
+Nó không quá lớn, Viktoriya.
+
+617
+00:47:11,710 --> 00:47:13,950
+Lớn hơn sẽ tốt hơn.
+
+618
+00:47:16,950 --> 00:47:20,960
+- Nói với mông tớ này.
+ - Mày nói gì?
+
+619
+00:47:20,970 --> 00:47:24,220
+ Nói với mông tớ này.
+Tớ nói chuẩn chứ?
+
+620
+00:47:27,700 --> 00:47:30,730
+Tao đã tập luyện cật lực từng ngày 
+trong đời để tới đây, còn mày...
+
+621
+00:47:30,740 --> 00:47:33,230
+chỉ là một đống rác nhặt 
+nhặt về ngoài đường
+
+622
+00:47:37,830 --> 00:47:39,550
+Mày biết tao học cái này từ đâu không?
+
+623
+00:47:39,560 --> 00:47:42,800
+- Ngoài đường đấy, đồ khốn...
+ - Đội trưởng đến.
+
+624
+00:47:45,610 --> 00:47:47,560
+ - Cô ta đánh em.
+ - Nó không thuộc về nơi này.
+
+625
+00:47:47,570 --> 00:47:48,890
+Tôi không quan tâm.
+
+626
+00:47:50,890 --> 00:47:54,480
+Khi mới đến trung tâm,
+tôi cũng như các em.
+
+627
+00:47:54,660 --> 00:47:57,760
+Tệ hại, tôi chẳng là ai cả.
+
+628
+00:47:59,490 --> 00:48:05,430
+Nhưng người phụ nữ đã nằm xuống hôm nay,
+cô ấy đã nói: "Dù em có là ai đi nữa.."
+
+629
+00:48:05,460 --> 00:48:08,660
+khi đến đây, các em là một gia đình."
+
+630
+00:48:08,760 --> 00:48:13,810
+"Và dù bọn họ có nói gì,
+dù bọn hò làm gì ngu ngốc,
+
+631
+00:48:15,840 --> 00:48:18,980
+các em sẽ tha thứ cho nhau và bước tiếp."
+
+632
+00:48:19,860 --> 00:48:23,960
+Nên các em hãy bắt đầu tin vào
+điều đó, ở đây.
+
+633
+00:48:24,740 --> 00:48:27,490
+Từ đó các em sẽ bắt đầu tin tưởng khi ở trong Jeager.
+
+634
+00:48:29,330 --> 00:48:31,450
+Nguyên soái đang tìm mọi người.
+
+635
+00:48:31,460 --> 00:48:33,170
+Nói rằng Gottlieb tìm ra gì đó.
+
+636
+00:48:35,000 --> 00:48:38,280
+Câu hỏi không phải là cái nào, mà là nơi nào.
+
+637
+00:48:38,310 --> 00:48:42,540
+Severnaya Zemlya, 
+quần đảo nhỏ của Siberia.
+
+638
+00:48:42,560 --> 00:48:45,440
+- Có gì ở Zemlya?
+- Không còn gì cả.
+
+639
+00:48:45,460 --> 00:48:49,650
+Một xí nghiệp ở đây có lẽ từng
+được dùng để sản xuất lõi năng lượng cho Jeager...
+
+640
+00:48:50,150 --> 00:48:52,870
+trong chiến tranh 
+nhưng đã bị bỏ hoang.
+
+641
+00:48:52,880 --> 00:48:54,520
+Tại sao Mako cố để gửi 
+chúng ta vị trí của...
+
+642
+00:48:54,530 --> 00:48:56,810
+một xí nghiệp bỏ hoang ở giữa 
+ một vùng hẻo lánh?
+
+643
+00:48:56,830 --> 00:49:02,110
+Đưa Gipsy Avenger đến và 
+xem có gì ở đó.
+
+644
+00:49:05,540 --> 00:49:08,940
+<b>SEVERNAYA ZEMLYA, SIBERIA</b>
+
+645
+00:49:32,340 --> 00:49:33,770
+Đang quét.
+
+646
+00:49:33,780 --> 00:49:37,210
+Có vẻ thông điệp  của Mako 
+ là sự kết thúc chết chóc.
+
+647
+00:49:37,220 --> 00:49:39,170
+Nơi này đã bị bỏ hoang.
+
+648
+00:49:39,200 --> 00:49:40,830
+Chờ một giây thôi.
+
+649
+00:49:42,310 --> 00:49:46,310
+Có vài thông số lạ.
+Vật thể lạ tấn công.
+
+650
+00:49:55,000 --> 00:50:00,000
+- Editor: Gạo Lover
+- Translator: Ngọc Ánh, Kim, Nhật Bổn
+
+651
+00:50:01,890 --> 00:50:03,760
+Bám chân hắn.
+
+652
+00:50:41,210 --> 00:50:42,950
+Chúng ta phải ra khỏi đây.
+
+653
+00:51:17,940 --> 00:51:19,540
+Đạn Plasma.
+
+654
+00:51:26,630 --> 00:51:29,510
+- Tôi nghĩ nhận một quả đau đấy.
+- Tốt.
+
+655
+00:51:35,380 --> 00:51:38,270
+ - Còn nhớ chuyển động của chúng ta hồi đó không?
+ - Chắc rồi.
+
+656
+00:51:51,120 --> 00:51:54,110
+- Nhìn nó có vẻ đau.
+- Tấn công vào lõi năng lượng.
+
+657
+00:52:14,260 --> 00:52:15,740
+Cảnh báo.
+
+658
+00:52:43,180 --> 00:52:47,450
+Phi công của Obsidian Fury, ra khỏi buồng lái lập tức.
+
+659
+00:52:58,390 --> 00:53:00,230
+Cái quái gì vậy?
+
+660
+00:53:07,270 --> 00:53:09,930
+Nó chắc chắn là Kaiju.
+
+661
+00:53:09,940 --> 00:53:13,020
+Một bộ não thứ hai được dùng
+để kiểm soát các bộ phận vận động.
+
+662
+00:53:13,030 --> 00:53:15,160
+- Sao chúng có thể đến thế giới này.
+- Có lệnh cấm từ 10 năm trước rồi mà.
+
+663
+00:53:15,180 --> 00:53:17,070
+Các cảm biến sẽ điều tra việc này.
+
+664
+00:53:17,080 --> 00:53:18,820
+Tôi không nghĩ có sự xâm nhập.
+
+665
+00:53:18,840 --> 00:53:24,340
+Máu Kaiju có phóng xạ đặc trưng.
+
+666
+00:53:24,370 --> 00:53:27,280
+Nhưng loại này không có.
+
+667
+00:53:27,290 --> 00:53:30,680
+Vậy, ý anh là.. nó đến từ vũ trụ này?
+
+668
+00:53:30,700 --> 00:53:34,850
+Phân tích gen phát hiện một số kĩ thuật
+chỉnh sửa từ trên đất liền.
+
+669
+00:53:34,870 --> 00:53:38,460
+Có thể là nghiên cứu từ
+máu Kaiju sót lại sau chiến tranh.
+
+670
+00:53:38,470 --> 00:53:40,910
+Tộc Precursors không làm chuyện này.
+
+671
+00:53:42,490 --> 00:53:44,330
+Là con người.
+
+672
+00:53:49,720 --> 00:53:53,280
+Có phải đống nhầy đó
+điều khiển Obsidian Fury?
+
+673
+00:53:53,290 --> 00:53:54,480
+Chúng ta phải nhìn bên trong.
+
+674
+00:53:54,500 --> 00:53:57,690
+- Bên trong?
+- Nó là môt phần Kaiju đó.
+
+675
+00:53:57,710 --> 00:53:59,290
+Đi nào các cậu.
+
+676
+00:53:59,300 --> 00:54:02,070
+ Biết chừng nào mới có cơ hội
+ nhìn mấy thứ này lần nữa chứ?
+
+677
+00:54:02,080 --> 00:54:03,910
+Không bao giờ, không bao giờ
+là tốt nhất.
+
+678
+00:54:03,930 --> 00:54:09,300
+- Cậu thích thì ở đây. Tớ vào.
+- Không , tớ không, Amara.
+
+679
+00:54:09,640 --> 00:54:12,950
+Các cậu, chúng ta không nên ở đây.
+
+680
+00:54:19,590 --> 00:54:22,300
+Nó dính khắp con đường đi tới hệ thống.
+
+681
+00:54:22,980 --> 00:54:26,690
+Như những cơ bắp thật sự.
+
+682
+00:54:28,480 --> 00:54:32,650
+Đó là lí do nó có thể di chuyển.
+Hay thật.
+
+683
+00:54:32,660 --> 00:54:34,250
+Ngầu ghê.
+
+684
+00:54:35,030 --> 00:54:37,810
+Ở nhà nâng ngực nghe còn
+hay hơn mấy cái này.
+
+685
+00:54:37,830 --> 00:54:39,770
+Rọi bên này một chút với.
+
+686
+00:54:40,170 --> 00:54:45,470
+Đúng vậy, cần xem trong
+ruột con Kaiju kì lạ đó.
+
+687
+00:54:47,850 --> 00:54:51,530
+ - Cái gì vậy?
+- Tớ nghĩ nó là vài thứ của...
+
+688
+00:54:52,820 --> 00:54:55,960
+- Tớ đã ngăn cậu đừng....
+- Gọi người giúp đi.
+
+689
+00:54:55,980 --> 00:54:57,890
+Chúng ta đúng là bị áp bức mà.
+
+690
+00:55:01,640 --> 00:55:04,430
+Đội bảo an đã vào cuộc.
+Chúng ta đã xong.
+
+691
+00:55:10,730 --> 00:55:12,480
+Jinhai có ổn không?
+
+692
+00:55:12,490 --> 00:55:14,510
+Có vài vết sẹo, nhưng
+cậu ấy sẽ ổn thôi.
+
+693
+00:55:14,530 --> 00:55:17,580
+Theo nguyên tắc cấm của Nguyên soái, 
+Meilin và Suresh nữa...
+
+694
+00:55:17,600 --> 00:55:20,770
+- Mấy đứa vi phạm, nên đều bị loại.
+- Không phải lỗi bọn họ.
+
+695
+00:55:20,790 --> 00:55:23,250
+- Em lôi kéo họ...
+- Anh xin lỗi, anh nói chuyện với guyên soái, nhưng..
+
+696
+00:55:23,270 --> 00:55:25,750
+cả em cũng bị loại.
+
+697
+00:55:26,850 --> 00:55:30,320
+- Chưa bao giờ thuộc về nơi này.
+- Thật sao?
+
+698
+00:55:31,800 --> 00:55:34,650
+Anh cũng nói như vậy nhiều năm trước.
+
+699
+00:55:39,780 --> 00:55:41,100
+Giờ cũng vậy.
+
+700
+00:55:41,110 --> 00:55:45,570
+- Vậy sao anh đăng kí?
+- Lúc đó có chiến tranh,
+
+701
+00:55:45,580 --> 00:55:48,160
+Cha anh là đứng đầu đội ngũ và anh nghĩ...
+
+702
+00:55:48,170 --> 00:55:50,040
+anh có thể nhìn thấy ông ấy nhiều hơn.
+
+703
+00:55:50,420 --> 00:55:52,710
+Hay thậm chí là cùng lái với ông ấy.
+
+704
+00:55:53,000 --> 00:55:55,690
+Một đêm anh và
+Nate cãi nhau.
+
+705
+00:55:55,830 --> 00:55:58,640
+Nó về thứ ngu ngốc nào đó. Anh không thể nhớ.
+
+706
+00:55:58,730 --> 00:56:01,510
+Nên anh đã tự trèo vào Mark 4...
+
+707
+00:56:01,520 --> 00:56:04,700
+để chứng tỏ với cậu ấy
+anh là phi công giỏi.
+
+708
+00:56:04,710 --> 00:56:07,550
+- Thật ngu ngốc
+- Phải.
+
+709
+00:56:07,560 --> 00:56:08,880
+Anh đi được bao xa?
+
+710
+00:56:08,900 --> 00:56:12,100
+- Khoảng 7 bước hay gì đó.
+- Anh đi được bao xa?
+
+711
+00:56:12,130 --> 00:56:15,050
+ 2 bước, sau đó ngất vì căng thẳng thần kinh.
+
+712
+00:56:15,070 --> 00:56:17,800
+Và khi tỉnh dậy điều đầu tiên anh thấy, 
+là cha anh.
+
+713
+00:56:17,820 --> 00:56:20,670
+Ông ấy đứng ngay trước mặt anh
+nhìn có vẻ kinh ngạc.
+
+714
+00:56:20,800 --> 00:56:22,000
+Ông ấy nói gì?
+
+715
+00:56:22,440 --> 00:56:24,940
+Ông ấy nói anh bị loại khỏi
+chương trình, ông ấy nói...
+
+716
+00:56:24,950 --> 00:56:27,710
+anh không xứng ở trong Jeager. 
+Có vẻ ông ấy nói khá nhiều.
+
+717
+00:56:30,530 --> 00:56:33,470
+Nhưng một năm sau, ông ấy ra đi mãi mãi.
+
+718
+00:56:34,600 --> 00:56:36,130
+Anh chẳng còn cơ hội
+chứng minh là ông ấy đã sai.
+
+719
+00:56:36,150 --> 00:56:39,830
+Và quan trọng hơn, anh cũng không có 
+cơ hội chứng minh với chính mình.
+
+720
+00:56:40,040 --> 00:56:42,150
+Nghe anh nói này.
+
+721
+00:56:42,550 --> 00:56:46,030
+Đừng để thứ người ta nghĩ về em
+định nghĩa em là ai.
+
+722
+00:56:46,240 --> 00:56:48,400
+Em sẽ không thích
+nơi mà nó đưa em tới.
+
+723
+00:56:48,780 --> 00:56:50,140
+Em hiểu không?
+
+724
+00:56:54,430 --> 00:56:56,470
+Và ngẩng cao đầu...
+
+725
+00:56:56,480 --> 00:56:57,710
+thì em có thể như anh,
+
+726
+00:56:57,730 --> 00:57:01,020
+trông thật bảnh trong trường hợp này.
+
+727
+00:57:01,300 --> 00:57:04,140
+Gương mặt rất quan trọng.
+
+728
+00:57:04,150 --> 00:57:05,720
+Đẹp cũng là gánh nặng.
+
+729
+00:57:09,040 --> 00:57:10,870
+Em sẽ ổn thôi.
+
+730
+00:57:14,490 --> 00:57:17,110
+SHAO Industries.
+
+731
+00:57:17,910 --> 00:57:19,710
+Gì cơ?
+
+732
+00:57:19,750 --> 00:57:23,840
+Obsidian Fury áp dụng công nghệ
+phát triển bởi SHAO Industries.
+
+733
+00:57:23,850 --> 00:57:25,260
+Không thể nào
+
+734
+00:57:25,270 --> 00:57:27,390
+Jules và đội cô ấy quét 
+từng milimet của con Jeager.
+
+735
+00:57:27,420 --> 00:57:31,520
+Vật liệu siêu âm cách điện bên trong cáp 
+và xoắn ngược chiều kim đồng hồ.
+
+736
+00:57:32,450 --> 00:57:35,260
+SHAO là công ty duy nhất
+xoắn cáp kiểu đó.
+
+737
+00:57:35,270 --> 00:57:38,360
+Amara, em có bảo đảm cho 
+những điều em nói không?
+
+738
+00:57:40,610 --> 00:57:43,280
+Em trộm cả tấn từ họ
+để lắp Scrapper.
+
+739
+00:57:45,470 --> 00:57:48,220
+Em nghĩ có thể nó quan trọng.
+
+740
+00:57:48,520 --> 00:57:52,040
+Phải, cảm ơn em.
+
+741
+00:57:52,130 --> 00:57:54,080
+SHAO Industries.
+
+742
+00:57:54,090 --> 00:57:57,360
+- Họ còn không có hệ thống phân li sinh học.
+- Chúng ta vừa thấy đó.
+
+743
+00:57:57,380 --> 00:57:59,650
+Đống cáp có thể bị ăn cắp, 
+như Amara đã làm.
+
+744
+00:57:59,660 --> 00:58:02,650
+Jaeger. Chúng cần nhiều hơn thế
+để có liên hệ với SHAO.
+
+745
+00:58:02,660 --> 00:58:03,760
+Còn Newt thì sao?
+
+746
+00:58:03,780 --> 00:58:06,350
+Anh ta có quyền truy cập vào
+ các báo cáo nội bộ và dữ liệu giao hàng.
+
+747
+00:58:06,370 --> 00:58:09,770
+Được thôi. 
+Đến tìm anh ta nào, tìm các hồ sơ mật.
+
+748
+00:58:09,800 --> 00:58:11,790
+Cuối cùng thì tôi cũng có nhiệm vụ.
+
+749
+00:58:11,820 --> 00:58:13,890
+Chúng ta sẽ đưa SHAO gặp Nguyên soái.
+
+750
+00:58:14,990 --> 00:58:18,990
+SHAO INDUSTRIES.
+
+751
+00:58:48,330 --> 00:58:49,730
+Không công bằng.
+
+752
+00:58:52,580 --> 00:58:56,050
+Tớ xin lỗi, cậu không đáng bị vậy.
+
+753
+00:58:56,420 --> 00:58:58,760
+Là lỗi của tớ.
+
+754
+00:58:59,950 --> 00:59:02,200
+Là do tớ cả.
+
+755
+00:59:11,990 --> 00:59:13,670
+Amara.
+
+756
+00:59:15,260 --> 00:59:17,500
+Lần tới mà cậu lắp Jeager,
+
+757
+00:59:18,340 --> 00:59:20,540
+làm con to vào.
+
+758
+00:59:31,830 --> 00:59:33,620
+Hệ thống đặt hàng trên mạng
+
+759
+00:59:33,650 --> 00:59:39,700
+Và bọn tôi đã chuyển 100% tới mọi người.
+
+760
+00:59:39,720 --> 00:59:41,950
+Cả 100%. Đó là cách nó 
+hoàn thành. Hiểu chứ?
+
+761
+00:59:41,960 --> 00:59:43,930
+Tôi đã nói là chúng ta có thể
+làm điều đó mà.
+
+762
+00:59:43,950 --> 00:59:47,610
+- Lỗi vận hành.
+- Tôi mất kết nối Jeager 375.
+
+763
+00:59:47,620 --> 00:59:50,730
+Tại sao.
+Tìm hiểu đi.
+
+764
+00:59:50,740 --> 00:59:54,900
+Chúng tôi sẽ nói tất cả gì mình biết
+cho Hội đồng. Chuẩn bị vận chuyển.
+
+765
+00:59:56,230 --> 00:59:57,860
+Cho tôi 1 giây thôi.
+
+766
+01:00:09,700 --> 01:00:11,980
+Vào trong Gipsy. Đi thôi.
+
+767
+01:00:23,260 --> 01:00:27,160
+Tất cả phi công, vào trong Jeager
+và sẵn sàng đối chiến kẻ thù.
+
+768
+01:00:42,470 --> 01:00:46,800
+Mày có thể làm mà. Ngầu á?
+Siêu ngầu.
+
+769
+01:00:48,400 --> 01:00:49,980
+Tôi biết, tôi đang đến. 
+Tôi sắp đến rồi.
+
+770
+01:00:50,820 --> 01:00:53,610
+Hermann, anh làm gì đây? 
+Sao anh vào được?
+
+771
+01:00:53,630 --> 01:00:57,350
+Tôi có thông tin đăng nhập PPDC và 
+bên cạnh đó những người khác dường như ít...
+
+772
+01:00:57,360 --> 01:01:00,320
+bận tâm ngăn chặn các Jeager chết người
+mà sếp của anh đề xướng.
+
+773
+01:01:29,390 --> 01:01:31,440
+- Cô ta lợi dụng anh.
+- Không thể nào.
+
+774
+01:01:31,450 --> 01:01:33,760
+Cô ta mê hoặc anh
+bằng tiền và lời nói viển vông.
+
+775
+01:01:33,770 --> 01:01:35,730
+Và khi anh chìm đắm trong hào quang,
+
+776
+01:01:35,740 --> 01:01:37,850
+cô ta chiếm lấy nghiên cứu 
+của anh và biến đổi nó.
+
+777
+01:01:38,200 --> 01:01:39,850
+Giúp tôi ngăn cô ta, Newt.
+
+778
+01:01:39,860 --> 01:01:42,330
+Giúp tôi cứu thế giới như lần trước.
+
+779
+01:01:42,340 --> 01:01:44,340
+Xin lỗi, nghiêm túc thì 
+đúng là lần trước anh giúp tôi.
+
+780
+01:01:44,370 --> 01:01:45,850
+Giờ thì sòng phẳng nào.
+
+781
+01:01:45,860 --> 01:01:49,710
+Được, giúp tôi giúp cậu cứu thế giới.
+Còn anh muốn gì?
+
+782
+01:01:49,740 --> 01:01:52,810
+Tôi nói là... tôi nói...
+đừng bắn.
+
+783
+01:01:55,190 --> 01:01:57,080
+Mẹ kiếp, sao tôi không thể dùng được thứ ngôn ngữ này nhỉ?
+
+784
+01:02:00,200 --> 01:02:01,650
+Chuyện gì vậy?
+
+785
+01:02:01,670 --> 01:02:04,670
+- Chúng có phải Jeager không?
+- Chúng là những cỗ máy tự vận hành của SHAO.
+
+786
+01:02:04,680 --> 01:02:07,240
+- Chúng đang làm gì vậy?
+- Tớ không biết. Chúng trở nên điên loạn.
+
+787
+01:02:08,760 --> 01:02:11,120
+Trở về căn cứ ngay.
+
+788
+01:02:13,390 --> 01:02:15,050
+Vâng thưa ngài.
+Đi nào.
+
+789
+01:02:20,500 --> 01:02:24,970
+- Ra khỏi đây thôi.
+- Nào, đứng dậy.
+
+790
+01:02:36,240 --> 01:02:39,110
+Thật sao? Bây giờ ư?
+
+791
+01:02:56,300 --> 01:02:59,410
+- Nhanh lên!
+- Hermann, giúp tí được không?
+
+792
+01:02:59,490 --> 01:03:02,930
+Hãy học cách dùng súng.
+
+793
+01:03:06,180 --> 01:03:07,960
+Cám ơn, Newton.
+
+794
+01:03:12,310 --> 01:03:15,680
+Thôi ôm siết lấy tôi đi,
+xử lý mấy cỗ máy được chứ?
+
+795
+01:03:18,750 --> 01:03:21,670
+Tất cả hãy ra khỏi phòng thí nghiệm, 
+không tôi sẽ bắn.
+
+796
+01:03:21,680 --> 01:03:23,660
+- Tôi sẽ bắn hai lần đấy.
+- Ai mà chả biết anh sẽ điên lên.
+
+797
+01:03:23,680 --> 01:03:25,400
+Cô chính thức bị sa thải, ra ngoài.
+
+798
+01:03:26,020 --> 01:03:29,060
+- Chúng ta làm gì đây? Làm sao để dừng nó?
+- Có một cửa sau Hermaan.
+
+799
+01:03:29,070 --> 01:03:31,360
+- Để làm gì?
+- Tới đoạn chương trình con của Drone.
+
+800
+01:03:31,410 --> 01:03:33,540
+Tôi đã thêm một chương trình con để đề phòng lúc...
+
+801
+01:03:33,550 --> 01:03:35,480
+vào trong này và lục lọi con đường.
+
+802
+01:03:35,500 --> 01:03:37,430
+Đồ ranh ma.
+
+803
+01:03:38,170 --> 01:03:39,800
+Tôi biết.
+
+804
+01:03:44,350 --> 01:03:46,360
+Anh vừa làm gì vậy?
+
+805
+01:03:46,370 --> 01:03:48,800
+Cái mà tôi định làm cách đây 10 năm.
+
+806
+01:03:51,540 --> 01:03:53,660
+Tôi kết thúc thế giới.
+
+807
+01:03:54,860 --> 01:03:57,660
+<b>HONOLULU, MỸ.</b>
+
+808
+01:04:03,460 --> 01:04:05,360
+<b>HONOLULU, HAWAII
+BREACH DETECTED.</b>
+
+809
+01:04:05,560 --> 01:04:08,460
+<b>HONG KONG, TRUNG QUỐC
+XÁC ĐỊNH MỤC TIÊU.</b>
+
+810
+01:04:10,060 --> 01:04:12,960
+<b>ANCHORAGE, ALASKA
+XÁC ĐỊNH MỤC TIÊU.</b>
+
+811
+01:04:30,240 --> 01:04:32,850
+Phi công, đã xác định mục tiêu.
+
+812
+01:04:32,870 --> 01:04:37,200
+Những cỗ máy ngoài bãi đang xác định mục tiêu.
+
+813
+01:04:48,390 --> 01:04:51,220
+Sao anh lại làm việc này?
+
+814
+01:04:51,230 --> 01:04:53,310
+Sao anh lại làm thế?
+
+815
+01:04:53,390 --> 01:04:58,590
+À, tôi nghĩ tôi muốn thế.
+Bình thường, đó không phải phong cách của tôi.
+
+816
+01:04:58,870 --> 01:05:01,780
+Tôi không biết. Có lẽ tôi ghét anh đối xử hơi quá....
+
+817
+01:05:01,790 --> 01:05:03,720
+đối với tôi như một trò đùa vô nghĩa.
+
+818
+01:05:03,740 --> 01:05:07,810
+Đó là lý do hắn ta làm thế, Hermann. 
+Tôi đã làm thế.
+
+819
+01:05:08,190 --> 01:05:11,640
+Vậy đấy. Vấn đề là ở chỗ đó.
+
+820
+01:05:13,150 --> 01:05:17,240
+Những ngày gần đây, tôi không cảm thấy được là chính mình.
+
+821
+01:05:17,250 --> 01:05:18,810
+Anh.
+
+822
+01:05:25,290 --> 01:05:26,910
+Những điềm báo.
+
+823
+01:05:29,290 --> 01:05:32,330
+Rất tốt Hermann. Anh hiểu ra rồi đấy.
+
+824
+01:05:32,360 --> 01:05:34,230
+Và chậm một bước như thường lệ.
+
+825
+01:05:34,250 --> 01:05:37,940
+Newton, anh là người tốt. Anh nên dừng lại.
+
+826
+01:05:37,950 --> 01:05:39,850
+- Hermann.
+- Anh phải dừng lại.
+
+827
+01:05:39,870 --> 01:05:43,990
+- Làm ơn, anh phải đấu tranh, Newton.
+- Tôi không đủ mạnh mẽ.
+
+828
+01:05:44,010 --> 01:05:49,550
+Hắn không đủ mạnh.
+ Không ai trong các người đủ mạnh.
+
+829
+01:05:53,430 --> 01:05:55,640
+Tôi xin lỗi, Hermann.
+
+830
+01:05:57,440 --> 01:05:59,170
+Chúng đang ở trong đầu tôi.
+
+831
+01:06:03,910 --> 01:06:05,310
+Ôi, sếp.
+
+832
+01:06:19,660 --> 01:06:22,590
+Mấy đứa làm gì ở đây? Anh đã nói là trở về căn cứ rồi mà.
+
+833
+01:06:22,600 --> 01:06:24,560
+- Các cánh cửa đã bị khóa.
+- Chúng ta làm gì đây?
+
+834
+01:06:27,310 --> 01:06:31,280
+Ý tôi là 38% công ty cô là hoàn toàn tự động.
+
+835
+01:06:31,380 --> 01:06:34,610
+Nó thực sự không quá khó
+ để phân phát một chút ở đây...
+
+836
+01:06:34,630 --> 01:06:36,460
+và một chút ở kia.
+
+837
+01:06:36,470 --> 01:06:38,950
+Và thả một con Kaiju nhỏ 
+mà cô không biết.
+
+838
+01:06:48,100 --> 01:06:50,660
+Dừng lại. Chờ đã. Newt đã không kiểm soát được bản thân.
+
+839
+01:06:50,680 --> 01:06:53,630
+Đó không phải anh ấy. Là tiền thân.
+ Chắc hẳn chúng đã...
+
+840
+01:06:53,640 --> 01:06:56,410
+- đã nhiễm vào anh ấy khi chúng ta bị trôi đi với Kaiju. 
+- Im ngay.
+
+841
+01:07:00,400 --> 01:07:03,070
+Ở lại đây. Chúng ta sẽ thử tới chỗ Gipsy.
+
+842
+01:07:05,200 --> 01:07:08,640
+- Cậu đã sẵn sàng chưa?
+- Chưa, cậu thì sao?
+
+843
+01:07:08,660 --> 01:07:13,210
+- Đếm đến 2. 1, 2...
+- Có ai ở đấy không?
+
+844
+01:07:13,590 --> 01:07:16,530
+- Gottlieb?
+- Jake, ơn Chúa.
+
+845
+01:07:16,550 --> 01:07:19,350
+Chúng tôi bị tấn công.
+
+846
+01:07:19,370 --> 01:07:22,450
+Không phải cô ấy, không phải Liwen.
+Là do Newt.
+
+847
+01:07:22,480 --> 01:07:26,190
+Tộc Precursors. Chúng nhập vào anh ấy.
+ Chúng đang kiểm soát anh ẤY.
+
+848
+01:07:26,220 --> 01:07:28,890
+Gottlieb, anh có thể bảo anh ta
+ vô hiệu hóa Drone không?
+
+849
+01:07:28,900 --> 01:07:30,210
+Không, anh ta bỏ đi rồi.
+
+850
+01:07:34,810 --> 01:07:36,840
+Gottlieb, tắt chúng đi.
+
+851
+01:07:39,500 --> 01:07:43,250
+- Nó đang cố để khoá cô ở ngoài.
+- Vòng hồi tiếp.
+
+852
+01:07:52,220 --> 01:07:55,390
+Cái quái gì đang diễn ra vậy, Gottlieb?
+
+853
+01:08:15,380 --> 01:08:18,010
+Gottlieb, tắt chúng đi, 
+nếu không chúng ta sẽ chết.
+
+854
+01:08:19,760 --> 01:08:21,290
+Tắt chúng đi.
+
+855
+01:09:00,670 --> 01:09:04,620
+Liwen đã vô hiệu hoá Drone.
+Những mục tiêu đã bị chặn lại.
+
+856
+01:09:04,630 --> 01:09:07,200
+Nhắc lại, những lỗ hổng đã đóng.
+
+857
+01:09:10,210 --> 01:09:12,970
+- Ồ, không
+- Sao, gì thế?
+
+858
+01:09:13,000 --> 01:09:15,810
+Có 3 con Kaiju đã vượt qua được.
+
+859
+01:09:15,820 --> 01:09:19,050
+ Hàn Quốc, bờ biển Nga
+và biển phía Đông Trung Quốc.
+
+860
+01:09:19,430 --> 01:09:22,860
+- Hai con cấp 4 và một con cấp 5.
+- Nghe rõ.
+
+861
+01:09:23,050 --> 01:09:26,860
+Quay trở lại căn cứ.
+Ta cần mọi trợ giúp có thể.
+
+862
+01:09:30,580 --> 01:09:32,810
+- Mọi người ổn chứ?
+- Ổn ạ.
+
+863
+01:09:40,380 --> 01:09:41,630
+Ta có gì nào?
+
+864
+01:09:41,640 --> 01:09:42,790
+Các báo cáo vẫn đang được gửi tới...
+
+865
+01:09:42,820 --> 01:09:45,300
+nhưng lũ Drone đã phá hủy hầu hết
+các Jaeger trong xưởng.
+
+866
+01:09:45,330 --> 01:09:47,020
+Vậy còn bao nhiêu Jaeger...
+
+867
+01:09:47,050 --> 01:09:48,730
+- hoạt động được?
+- Gipsy Avenger vẫn chưa hỏng hẳn.
+
+868
+01:09:48,760 --> 01:09:50,040
+- Chỉ vậy thôi sao?
+- Ừ.
+
+869
+01:09:50,050 --> 01:09:52,780
+Ta cần nhiều Jaeger hơn
+nếu không trận chiến sẽ sớm kết thúc.
+
+870
+01:09:52,800 --> 01:09:55,830
+Ngay cả khi có Jaeger,
+hầu hết phi công đã chết hoặc bị thương.
+
+871
+01:09:55,850 --> 01:09:58,600
+Thảm họa đến cùng lúc.
+Hãy tập trung vào những Jaeger này.
+
+872
+01:10:00,430 --> 01:10:02,490
+Namani. Đến đây.
+
+873
+01:10:06,550 --> 01:10:09,380
+Anh cần em giúp Jules sửa chữa.
+Em làm được chứ?
+
+874
+01:10:09,390 --> 01:10:10,530
+Em bị loại rồi mà?
+
+875
+01:10:10,560 --> 01:10:12,670
+Anh đang cho em vào lại đây.
+
+876
+01:10:12,860 --> 01:10:16,790
+Nó rất giỏi lắp ráp mấy con Jaeger.
+Còn cậu có được vậy không?
+
+877
+01:10:17,480 --> 01:10:19,060
+Được rồi.
+
+878
+01:10:19,080 --> 01:10:21,910
+Ta có nhiều thứ cần làm
+và không có nhiều thời gian đâu.
+
+879
+01:10:23,760 --> 01:10:25,380
+Có người tới.
+
+880
+01:10:30,000 --> 01:10:35,000
+Nhận ngay báo giá dịch thuật đa ngôn ngữ
+hot nhất qua WTranz@hotmail.com - 0981.230.396
+
+881
+01:10:50,310 --> 01:10:52,670
+Tôi mang viện trợ tới đây.
+
+882
+01:10:57,430 --> 01:11:01,570
+Hakuja, Shrikethorn và mấy con to xác.
+ Raijin.
+
+883
+01:11:01,600 --> 01:11:04,740
+Tôi được phép đặt tên chúng thế.
+
+884
+01:11:04,750 --> 01:11:06,550
+Con có đầu nhọn và con to xác đần độn đang....
+
+885
+01:11:06,560 --> 01:11:09,300
+ra khỏi các thành phố và tới đại dương.
+Vậy là sao?
+
+886
+01:11:09,540 --> 01:11:13,300
+Có thể chúng muốn kết nối với Hakuja
+ở biển Trung Hoa.
+
+887
+01:11:13,310 --> 01:11:15,710
+Tôi cá là Newt biết là chúng định làm gì.
+
+888
+01:11:15,720 --> 01:11:17,140
+Nếu chúng ta moi được thông tin từ hắn.
+
+889
+01:11:17,160 --> 01:11:19,760
+Nhưng ta phải tìm hắn trước.
+
+890
+01:11:21,240 --> 01:11:23,280
+Có Jaeger nào gần Kaiju hơn chúng ta không?
+
+891
+01:11:23,300 --> 01:11:25,610
+Đó là những gì còn lại của
+Chin-do và Sakhalinsk...
+
+892
+01:11:25,620 --> 01:11:28,050
+sau khi lũ robot cố đánh.
+Xin nhấn mạnh là cố đánh.
+
+893
+01:11:28,070 --> 01:11:31,320
+- Sợ là chúng ta phải tự làm.
+- Có gì ở đây này....
+
+894
+01:11:31,330 --> 01:11:33,530
+Có gì đó ở biển Trung Hoa.
+
+895
+01:11:34,340 --> 01:11:36,810
+Có thể không phải là nơi chúng đến..
+
+896
+01:11:36,820 --> 01:11:38,760
+Mở bản đồ di chuyển của Kaiju
+từ hồi chiến tranh ra xem.
+
+897
+01:11:38,780 --> 01:11:43,060
+- Đang đưa dữ liệu ra màn hình chính
+- Cậu biết gì nào?
+
+898
+01:11:43,340 --> 01:11:46,430
+Cậu nói ta cần phải hiểu mục đích
+của kẻ thù...
+
+899
+01:11:46,440 --> 01:11:48,140
+để có thể đánh lại chúng.
+
+900
+01:11:48,230 --> 01:11:52,060
+Phải chăng lũ Kaiju không hề mù quáng
+khi tấn công các thành phố của ta suốt chiến tranh?
+
+901
+01:11:52,070 --> 01:11:53,760
+Phải chăng chúng có dự định hết mọi chuyện?
+
+902
+01:11:57,600 --> 01:12:01,290
+Đây.
+Núi Phú Sĩ, Nhật Bản.
+
+903
+01:12:01,300 --> 01:12:04,110
+Đặc biệt với Hakuja,
+Shrikethorn và Raijin.
+
+904
+01:12:07,610 --> 01:12:13,020
+- Núi Phú Sĩ? Tại sao?
+- Các nguyên tố đất hiếm.
+
+905
+01:12:13,600 --> 01:12:17,790
+Núi Phú Sĩ là ngọn núi lửa
+giàu nguyên tố đất hiếm.
+
+906
+01:12:17,820 --> 01:12:21,310
+Máu Kaiju phản ứng mạnh mẽ với
+nguyên tố đất hiếm...
+
+907
+01:12:21,320 --> 01:12:23,990
+khi tôi thí nghiệm chế tạo
+tên lửa đẩy tôi biết được điều này.
+
+908
+01:12:24,020 --> 01:12:26,660
+- Nghe có vẻ không có gì hay ho, đúng không?
+- Rất tệ đấy.
+
+909
+01:12:27,020 --> 01:12:29,720
+- Núi Phú Sĩ hoạt động. 
+- Áp lực địa chất...
+
+910
+01:12:29,750 --> 01:12:32,110
+kết hợp máu của Kaiju
+tạo tỷ lệ nén rất lớn...
+
+911
+01:12:32,120 --> 01:12:34,520
+gây ra các vụ nổ liên hoàn.
+
+912
+01:12:34,540 --> 01:12:38,300
+Khởi động vành đai lửa quanh
+Thái Bình Dương.
+
+913
+01:12:38,640 --> 01:12:43,690
+Hàng tỷ khí độc và tro bụi sẽ bắn
+vào khí quyển,
+
+914
+01:12:43,970 --> 01:12:45,700
+quét sạch mọi sự sống...
+
+915
+01:12:45,720 --> 01:12:49,750
+và chấm dứt Trái Đất theo đúng ý đồ lũ xâm nhập.
+
+916
+01:12:49,780 --> 01:12:51,420
+Chúng ta không thể để chúng
+tiến tới núi Phú Sĩ.
+
+917
+01:12:51,430 --> 01:12:53,590
+Để tôi kiểm tra với Jules
+xem việc sửa chữa Jaeger thế nào.
+
+918
+01:12:53,600 --> 01:12:57,340
+Ngay cả khi có hàng trăm Jaeger,
+cũng không thể tới kịp.
+
+919
+01:12:57,350 --> 01:13:00,830
+- Vậy còn tên lửa đẩy?
+- Không không. Chúng chưa làm xong!
+
+920
+01:13:00,840 --> 01:13:02,430
+Có thể xong được không?
+
+921
+01:13:02,440 --> 01:13:05,620
+Về lý thuyết. Cần thêm sự trợ giúp.
+
+922
+01:13:05,640 --> 01:13:07,480
+Gottlieb, lý thuyết nghĩa là sao?
+
+923
+01:13:10,130 --> 01:13:14,950
+Còn hôm nay...
+nghĩa là "được".
+
+924
+01:13:58,400 --> 01:14:00,610
+<i>Năng lượng phục hồi một phần ở khu vực 2.</i>
+
+925
+01:14:00,630 --> 01:14:03,820
+Saber Athena, Guardian Bravo
+và Bracer Phoenix đã sẵn sàng tham chiến.
+
+926
+01:14:03,830 --> 01:14:05,350
+Không có nhiều việc để làm.
+
+927
+01:14:05,360 --> 01:14:08,270
+Liwen đã giúp gắn công nghệ Fury
+vào Gipsy, việc này có thể có ích.
+
+928
+01:14:08,910 --> 01:14:13,610
+- Chuẩn bị mọi thứ để triển khai
+- Được. Đừng tự sát đấy nhé!
+
+929
+01:14:16,020 --> 01:14:17,820
+Cậu cũng vậy nhé!
+
+930
+01:14:22,860 --> 01:14:25,140
+Loạn hết cả rồi.
+
+931
+01:14:27,720 --> 01:14:29,730
+Tập trung nào!
+
+932
+01:14:29,750 --> 01:14:33,220
+Ta có 4 Jaeger chống lại
+2 con cấp 4 và 1 con cấp 5.
+
+933
+01:14:33,230 --> 01:14:34,680
+Vậy vẫn tốt hơn là chỉ có mình Gipsy.
+
+934
+01:14:34,690 --> 01:14:37,990
+- Ta cần phi công.
+- Có sẵn rồi!
+
+935
+01:14:56,220 --> 01:14:59,650
+Nếu cha anh ở đây, ông sẽ nói
+những lời to tát...
+
+936
+01:15:00,420 --> 01:15:02,370
+khiến mọi người cảm thấy bất bại.
+
+937
+01:15:04,950 --> 01:15:07,240
+Nhưng anh không phải là cha anh!
+
+938
+01:15:07,250 --> 01:15:10,280
+Không là anh hùng như ông ấy!
+
+939
+01:15:11,640 --> 01:15:14,190
+Như Raleigh Becket...
+
+940
+01:15:14,200 --> 01:15:15,570
+và Mako Mori ấy.
+
+941
+01:15:16,250 --> 01:15:18,770
+Nhưng khởi đầu họ chưa là anh hùng.
+
+942
+01:15:19,250 --> 01:15:23,000
+Họ chỉ là các học viên như các em.
+
+943
+01:15:23,380 --> 01:15:26,170
+Chúng ta nhớ họ là những người khổng lồ
+không phải vì họ cao to...
+
+944
+01:15:26,180 --> 01:15:27,920
+mà bởi vì họ kết hợp cùng với nhau.
+
+945
+01:15:29,140 --> 01:15:32,170
+Cho dù cha mẹ chúng ta là ai,
+hoặc ta sinh ở đâu,
+
+946
+01:15:32,180 --> 01:15:35,230
+ta đều đến để tin tưởng lẫn nhau.
+
+947
+01:15:35,240 --> 01:15:39,520
+Chúng ta là đại gia đình,
+chúng ta sẽ là tuyến phòng thủ cuối cùng của Trái đất.
+
+948
+01:15:39,530 --> 01:15:43,550
+Đây là thời khắc của chúng ta.
+Là cơ hội để thể hiện sự khác biệt.
+
+949
+01:15:43,710 --> 01:15:47,980
+Giờ hãy gắn kết và chiến đấu.
+ Mọi người hiểu chưa?
+
+950
+01:15:47,990 --> 01:15:49,270
+Vâng, thưa sếp!
+
+951
+01:15:49,280 --> 01:15:52,820
+- Các phi công Jaeger, mọi người hiểu chưa?
+- Vâng, thưa sếp!
+
+952
+01:15:52,830 --> 01:15:55,030
+- Có hiểu không?
+- Vâng, thưa sếp.
+
+953
+01:15:55,040 --> 01:15:57,170
+Hãy đi cứu thế giới nào!
+
+954
+01:15:57,420 --> 01:15:58,720
+Làm đi nào!
+
+955
+01:16:03,250 --> 01:16:06,130
+<i>- Hệ thống online.</i>
+- Bắt đầu kết nối.
+
+956
+01:16:06,150 --> 01:16:10,460
+<i>- Đang thiết lập kết nối.
+- Amara, nhảy vào đó đi.</i>
+
+957
+01:16:12,460 --> 01:16:15,290
+Kết nối vững và ổn định.
+
+958
+01:16:15,300 --> 01:16:17,990
+Vậy... thấy thế nào khi
+ở trong Jaeger thực thụ?
+
+959
+01:16:19,970 --> 01:16:21,910
+To hơn không tệ tý nào.
+
+960
+01:16:21,920 --> 01:16:24,680
+Tất cả Jaeger, chuẩn bị.
+Chuẩn bị phóng!
+
+961
+01:16:24,800 --> 01:16:28,780
+- Guardian Bravo, phóng.
+- Saber Athena, phóng
+
+962
+01:16:28,790 --> 01:16:32,520
+- Bracer Phoenix, đã sẵn sàng.
+- Nghe rõ!
+
+963
+01:16:33,230 --> 01:16:38,300
+- Chỉ huy, phóng đi.
+- Nghe rõ, Gipsy Avenger.
+
+964
+01:16:38,420 --> 01:16:41,170
+Kích hoạt trong 10 giây,
+
+965
+01:16:41,190 --> 01:16:43,860
+9, 8....
+
+966
+01:16:43,880 --> 01:16:49,180
+7, 6, 5, 4....
+
+967
+01:16:49,200 --> 01:16:53,370
+3, 2, 1....
+
+968
+01:16:53,380 --> 01:16:54,620
+Kích hoạt.
+
+969
+01:17:19,390 --> 01:17:23,440
+<i>Cảnh báo: đang vượt giới hạn cấu trúc.</i>
+
+970
+01:17:37,540 --> 01:17:39,290
+Cái quái gì thế
+
+971
+01:17:39,300 --> 01:17:41,370
+Bà tớ hay mở cho tớ nghe.
+
+972
+01:17:41,390 --> 01:17:43,170
+Để tớ tĩnh tâm.
+
+973
+01:17:43,180 --> 01:17:45,710
+Vậy còn tớ?
+Tớ không tĩnh tâm đâu!
+
+974
+01:17:57,830 --> 01:18:00,150
+Biết là sẽ làm được mà.
+
+975
+01:18:01,260 --> 01:18:04,660
+<b>TOKYO, NHẬT BẢN.</b>
+
+976
+01:19:17,490 --> 01:19:20,980
+- Gipsy báo cáo, đã thấy mục tiêu.
+- Nghe rõ, Gipsy.
+
+977
+01:19:20,990 --> 01:19:22,660
+Mọi người trong thành phố
+đã được sơ tán xuống hầm.
+
+978
+01:19:22,670 --> 01:19:24,410
+Mọi người thoải mái chiến đấu.
+
+979
+01:19:24,440 --> 01:19:25,830
+Nghe rõ, chơi nhiệt tình nào.
+
+980
+01:19:25,840 --> 01:19:28,660
+Bracer Phoenix, theo tôi.
+Ta sẽ hạ Raijin.
+
+981
+01:19:28,670 --> 01:19:29,730
+Nghe rõ, Gipsy.
+
+982
+01:19:29,760 --> 01:19:32,050
+Saber Athena, Guardian
+Bravo, mọi người hạ hai con kia.
+
+983
+01:19:32,200 --> 01:19:35,210
+Nghe rõ. Ta sẽ cứu được thế giới.
+
+984
+01:19:35,220 --> 01:19:40,130
+Hy vọng thế
+- Theo dấu của tôi. 3, 2, 1, chiến!
+
+985
+01:20:28,240 --> 01:20:29,640
+Bắn!
+
+986
+01:20:44,220 --> 01:20:47,260
+Gipsy, phiến giáp trên mặt Raijin
+đang hấp thụ...
+
+987
+01:20:47,270 --> 01:20:48,870
+các cú đánh và phản hồi năng lượng
+về phía các anh.
+
+988
+01:20:48,890 --> 01:20:50,410
+Xem nó hấp thụ thế nào.
+
+989
+01:21:06,260 --> 01:21:08,740
+Cần bao nhiêu tòa nhà để hạ nó?
+
+990
+01:21:32,300 --> 01:21:34,510
+Shrikethorn đang ép ta.
+
+991
+01:21:34,520 --> 01:21:37,070
+Các cậu, ta cần trợ giúp
+phía trên kia.
+
+992
+01:21:37,080 --> 01:21:38,880
+- Làm ngay đi.
+- Nghe rõ, Saber.
+
+993
+01:21:38,900 --> 01:21:42,330
+- Vik, hạ Shrikethorn đi.
+- Làm đây.
+
+994
+01:21:55,330 --> 01:21:59,910
+Saber Athena, Guardian Bravo đang tới hỗ trợ.
+Kích hoạt roi điện.
+
+995
+01:22:17,360 --> 01:22:20,680
+Hay lắm.
+Mày nên chạy là vừa.
+
+996
+01:22:20,690 --> 01:22:22,610
+Mấy con này không đến nỗi khó chơi.
+
+997
+01:22:32,660 --> 01:22:36,050
+Bracer Phoenix, coi chừng hướng 6 giờ.
+Kẻ địch đang tới.
+
+998
+01:22:36,080 --> 01:22:37,310
+Nghe rõ.
+
+999
+01:22:56,500 --> 01:22:59,680
+Được rồi. Lại là mấy con robot to xác. Được rồi.
+
+1000
+01:22:59,700 --> 01:23:00,960
+Mấy tay phi công thực thụ à!
+
+1001
+01:23:00,980 --> 01:23:05,450
+Ta không ấn tượng lắm đâu.
+
+1002
+01:23:14,360 --> 01:23:16,500
+Có rất nhiều kẻ địch đang tới.
+
+1003
+01:23:16,510 --> 01:23:18,110
+3 km ở phía Đông Nam.
+
+1004
+01:23:18,190 --> 01:23:22,450
+- Liwen, cô có thấy không?
+- Là nhà máy sản xuất tự động của tôi.
+
+1005
+01:23:24,090 --> 01:23:29,220
+Chính là Newt. Hắn ở Tokyo.
+Xác định vị trí của hắn.
+
+1006
+01:23:29,230 --> 01:23:32,760
+- Bọn địch, cao 0.3, đến rất nhanh.
+- Các Jaeger, hãy đứng vững.
+
+1007
+01:23:32,780 --> 01:23:34,260
+Hãy phòng vệ và giữ vững kết nối!
+
+1008
+01:23:46,560 --> 01:23:49,820
+Đi nào.
+Đi đi mấy cưng!
+
+1009
+01:23:54,310 --> 01:23:55,740
+Chúng đi đâu vậy?
+
+1010
+01:24:52,190 --> 01:24:53,820
+Nó to quá.
+
+1011
+01:25:07,690 --> 01:25:11,990
+Tất cả Jaeger. Tiến tới và dùng mọi hỏa lực
+theo lệnh tôi.
+
+1012
+01:25:20,130 --> 01:25:21,470
+Đi.
+
+1013
+01:25:46,220 --> 01:25:48,740
+- Guardian, đứng lại.
+- Ta phải xử nó.
+
+1014
+01:25:48,770 --> 01:25:52,550
+Ở yên đi. Đây là lệnh đấy.
+Đúng là lũ nhóc điên rồ!
+
+1015
+01:25:52,560 --> 01:25:53,660
+Tấn công vào mắt nó.
+
+1016
+01:25:53,690 --> 01:25:55,530
+- Mắt nào?
+- Tất cả.
+
+1017
+01:26:23,960 --> 01:26:26,050
+Ilya, Suresh, báo cáo đi!
+
+1018
+01:26:26,450 --> 01:26:29,350
+Nghe rõ không?
+Đi nào các cậu.
+
+1019
+01:26:29,370 --> 01:26:33,490
+Guardian Bravo, báo cáo đi.
+Các cậu ổn chứ?
+
+1020
+01:26:33,510 --> 01:26:39,400
+Guardian đã bị hạ.
+Tôi đang ở buồng điều khiển. Suresh...
+
+1021
+01:26:42,770 --> 01:26:47,390
+- Suresh không qua được.
+- Nghe rõ, Guardian.
+
+1022
+01:26:47,780 --> 01:26:50,710
+Hãy ở yên đó. Chúng tôi sẽ đến trợ giúp
+sớm nhất có thể.
+
+1023
+01:26:54,580 --> 01:26:56,510
+Bracer Phoenix, báo cáo đi!
+
+1024
+01:26:57,270 --> 01:26:58,670
+Mọi người ổn chứ?
+
+1025
+01:26:58,690 --> 01:27:02,280
+Choáng một chút, những vẫn chiến tốt.
+
+1026
+01:27:02,310 --> 01:27:06,950
+Chúng em cũng thế, Saber.
+Là Saber Athena thưa sếp.
+
+1027
+01:27:06,970 --> 01:27:10,930
+Saber, Bracer, chuẩn bị kết hợp
+đánh chặn.
+
+1028
+01:27:10,950 --> 01:27:13,150
+Hãy kết thúc chuyện này đi, chạy đi
+và đừng tới trễ nhé!
+
+1029
+01:27:13,730 --> 01:27:15,730
+Nghe rõ. Bracer Phoenix
+ đang theo sau.
+
+1030
+01:27:17,950 --> 01:27:21,490
+Gipsy gọi trung tâm, mọi người đã quét
+con thú đó chưa?
+
+1031
+01:27:21,770 --> 01:27:23,260
+Đang truy cập dữ liệu từ các cảm biến.
+
+1032
+01:27:23,270 --> 01:27:25,390
+Đã có rồi Gipsy, nhưng vẫn đang dịch.
+
+1033
+01:27:25,400 --> 01:27:27,800
+Không có thời gian đâu.
+Các anh định vị được não của nó chứ?
+
+1034
+01:27:27,820 --> 01:27:29,360
+Não trung tâm được bọc giáp rất kỹ.
+
+1035
+01:27:29,380 --> 01:27:30,770
+Vũ khí của các anh không thể xâm nhập được.
+
+1036
+01:27:30,800 --> 01:27:34,000
+Vậy còn não thứ cấp?
+Con quỷ này có não đó à?
+
+1037
+01:27:34,010 --> 01:27:38,020
+Kẻ địch có tới 3 não,
+mỗi cái là của từng Kaiju.
+
+1038
+01:27:38,030 --> 01:27:39,720
+Đang gửi thông tin.
+
+1039
+01:27:40,700 --> 01:27:43,040
+Saber Athena đã nhận.
+
+1040
+01:27:45,450 --> 01:27:47,240
+Bracer Phoenix đã nhận.
+
+1041
+01:27:47,250 --> 01:27:50,010
+Được rồi toàn đội, theo chỉ dẫn
+của tôi và hãy đề phòng.
+
+1042
+01:27:50,030 --> 01:27:52,850
+Sử dụng Fury của Liwen sẽ giúp
+ta chứ hả?
+
+1043
+01:27:52,870 --> 01:27:54,450
+Hãy đọc ý nghĩ của tôi, cộng sự.
+
+1044
+01:28:37,750 --> 01:28:40,200
+Thoát hiểm, thoát hiểm.
+Xác định có tổn thất!
+
+1045
+01:28:43,750 --> 01:28:45,720
+Tất cả phi công thoát hiểm ngay.
+
+1046
+01:30:21,300 --> 01:30:24,980
+<i>Cảnh báo:
+Năng lượng thần kinh vượt giới hạn.</i>
+
+1047
+01:30:26,200 --> 01:30:31,290
+Nate. Tỉnh đi, Nate.
+Dậy đi, Nate.
+
+1048
+01:30:31,870 --> 01:30:33,330
+Phi công đã bị hạ.
+
+1049
+01:30:40,190 --> 01:30:43,070
+Nhận lấy đi, đồ rác rưởi!
+
+1050
+01:30:50,000 --> 01:30:55,000
+Nhận ngay báo giá dịch thuật đa ngôn ngữ
+hot nhất qua WTranz@hotmail.com - 0981.230.396
+
+1051
+01:31:07,100 --> 01:31:08,630
+Tạm biệt.
+
+1052
+01:31:08,650 --> 01:31:11,370
+Liwen, cô có cách nào trợ giúp không?
+
+1053
+01:31:11,400 --> 01:31:12,630
+Tôi cần thêm thời gian.
+
+1054
+01:31:12,780 --> 01:31:14,830
+Ta không còn thời gian nữa.
+Nếu kẻ địch tới được núi Phú Sĩ...
+
+1055
+01:31:14,850 --> 01:31:17,970
+Hiểu. Tôi sẽ không để chuyện đó xảy ra.
+
+1056
+01:31:23,000 --> 01:31:25,540
+Cậu không thể vận hành Gipsy
+một mình được đâu.
+
+1057
+01:31:25,550 --> 01:31:28,330
+Não cậu sẽ bị xé ra mất!
+
+1058
+01:31:32,230 --> 01:31:35,690
+- Ta làm gì giờ?
+- Tập hợp mọi người lại.
+
+1059
+01:31:37,570 --> 01:31:41,170
+Gipsy Avenger, đây là Amara Namani.
+
+1060
+01:31:41,180 --> 01:31:44,140
+- Đứng yên tôi đến hỗ trợ đây.
+- Amara, đừng.
+
+1061
+01:31:44,320 --> 01:31:45,850
+- Đừng làm thế
+- Im đi.
+
+1062
+01:31:45,870 --> 01:31:48,820
+Đừng mà, đừng mà.
+- Đừng mà
+
+1063
+01:32:05,650 --> 01:32:09,620
+- Đã bảo rồi.
+- Có khi nào em biết nghe lời đâu!
+
+1064
+01:32:09,640 --> 01:32:12,400
+Amara, em vào đi.
+
+1065
+01:32:12,870 --> 01:32:14,600
+Cậu làm gì thế?
+
+1066
+01:32:14,610 --> 01:32:18,830
+Tránh đường thôi.
+Được rồi người anh em.
+
+1067
+01:32:21,350 --> 01:32:24,550
+<i>Khởi động qui trình thoát hiểm</i>.
+
+1068
+01:32:27,350 --> 01:32:29,670
+<i>Hoàn tất qui trình thoát hiểm.</i>
+
+1069
+01:32:29,700 --> 01:32:32,900
+Sẵn sàng rồi chứ?
+- Luôn sẵn sàng.
+
+1070
+01:32:36,860 --> 01:32:42,210
+Đứng yên.
+Khởi động kết nối.
+
+1071
+01:32:59,810 --> 01:33:02,220
+Không phải lúc nào cũng đẹp như mơ.
+
+1072
+01:33:02,240 --> 01:33:03,320
+Dĩ nhiên rồi.
+
+1073
+01:33:03,350 --> 01:33:07,370
+<i>Cảnh báo: kiểm tra thất bại.
+Hệ thống tắt.</i>
+
+1074
+01:33:07,390 --> 01:33:08,790
+- Khởi động lại.
+- Được rồi. Làm đây.
+
+1075
+01:33:08,940 --> 01:33:11,650
+Trung tâm gọi Gipsy. Kẻ địch cách núi Fuji...
+
+1076
+01:33:11,660 --> 01:33:14,030
+2 km và đang tiến tới rất nhanh.
+
+1077
+01:33:28,760 --> 01:33:31,460
+Gottlieb, tên lửa đẩy còn đủ...
+
+1078
+01:33:31,470 --> 01:33:33,010
+nhiên liệu để đưa chúng tôi vào khí quyển chứ?
+
+1079
+01:33:33,030 --> 01:33:34,950
+- Vào khí quyển sao?
+- Đúng.
+
+1080
+01:33:34,960 --> 01:33:37,350
+Có thể, nhưng không đủ để
+giảm tốc khi hạ cánh.
+
+1081
+01:33:37,370 --> 01:33:38,700
+Ta không cần giảm tốc.
+
+1082
+01:33:38,710 --> 01:33:40,380
+Ta sẽ rơi vào đầu nó!
+
+1083
+01:33:40,400 --> 01:33:45,120
+- Em vừa phóng kén thoát hiểm của em.
+- Em sẽ dùng cái của anh.
+
+1084
+01:33:45,130 --> 01:33:47,390
+Jake, chỉ còn một tên lửa duy nhất
+đủ nhiên liệu.
+
+1085
+01:33:47,410 --> 01:33:49,820
+- Gửi thông tin vị trí đi.
+- Được rồi, đang tìm.
+
+1086
+01:33:50,310 --> 01:33:51,990
+Ta ở quá xa.
+
+1087
+01:33:53,480 --> 01:33:54,720
+Ta không làm được mất.
+
+1088
+01:33:54,740 --> 01:33:57,180
+Gipsy Avenger, có phương tiện vận chuyển.
+
+1089
+01:33:57,190 --> 01:34:00,010
+Hệ thống điều khiển từ xa online.
+Đang gửi yêu cầu trợ giúp.
+
+1090
+01:34:04,730 --> 01:34:06,270
+Scrapper.
+
+1091
+01:34:22,430 --> 01:34:26,190
+Đang định vị tên lửa đẩy.
+Chờ đã.
+
+1092
+01:34:33,930 --> 01:34:36,550
+Đi nào, nhanh chân lên nào.
+
+1093
+01:34:36,560 --> 01:34:39,140
+Tên lửa bay mạnh quá.
+Không thể nào giữ nó được.
+
+1094
+01:34:39,170 --> 01:34:42,650
+- Liwen, cô định làm gì?
+- Tôi có thể hàn nó vào tay anh.
+
+1095
+01:34:42,670 --> 01:34:46,490
+- Tôi đã nâng cấp vũ khí cho Scrapper.
+- Hay lắm, em cũng sẽ làm vậy
+
+1096
+01:34:46,500 --> 01:34:48,700
+- Không, đừng
+- Làm được mà.
+
+1097
+01:34:55,960 --> 01:35:00,090
+- Ta chỉ có cơ hội lần này
+- Đếm nhé!
+
+1098
+01:35:14,050 --> 01:35:15,670
+Kẹt rồi.
+
+1099
+01:35:15,680 --> 01:35:18,070
+Ở yên đó đi.Cần thêm trọng lượng
+để rơi vào đầu nó.
+
+1100
+01:35:39,050 --> 01:35:41,630
+- Cô ấy rơi xuống mất.
+- Sắp tới rồi.
+
+1101
+01:36:07,220 --> 01:36:10,220
+- Ta đang cùng bay!
+- Dùng pháo plasma đi!
+
+1102
+01:36:10,230 --> 01:36:13,380
+- Tắt khóa an toàn.
+<i>- Pháo plasma khởi động.</i>
+
+1103
+01:36:17,580 --> 01:36:20,500
+<i>Cảnh báo: đang vượt giới hạn cấu trúc.</i>
+
+1104
+01:36:20,520 --> 01:36:22,500
+- Được rồi.
+<i>- Hỏng cấu trúc.</i>
+
+1105
+01:36:22,510 --> 01:36:23,980
+Giữ lấy.
+
+1106
+01:36:27,700 --> 01:36:31,220
+- Đi nào
+- Mục tiêu bên trái.
+
+1107
+01:36:31,240 --> 01:36:33,290
+Jake, Amara, hai người phải thoát hiểm.
+
+1108
+01:36:36,620 --> 01:36:40,640
+Ngắt kết nối đi, Amara. 
+Ngắt kết nối đi!
+
+1109
+01:36:40,650 --> 01:36:42,930
+Anh sẽ bắt được em, hứa đấy!
+
+1110
+01:36:43,620 --> 01:36:45,110
+Đi nào.
+
+1111
+01:36:49,420 --> 01:36:52,610
+Bắt được rồi.
+Gipsy báo cáo...
+
+1112
+01:36:52,620 --> 01:36:54,320
+chúng tôi đang thoát khỏi đây.
+
+1113
+01:36:55,500 --> 01:36:57,620
+<i>Kén thoát hiểm bị hỏng.</i>
+
+1114
+01:37:03,770 --> 01:37:05,970
+Xin lỗi!
+
+1115
+01:37:07,330 --> 01:37:10,980
+Vì điều gì?
+Ta phải cứu thế giới.
+
+1116
+01:37:13,030 --> 01:37:14,990
+Cha anh hẳn sẽ tự hào!
+
+1117
+01:37:19,590 --> 01:37:24,140
+Scrapper, tới đây.
+Nhanh lên.
+
+1118
+01:37:25,030 --> 01:37:26,320
+Đi nào.
+
+1119
+01:37:26,330 --> 01:37:30,210
+Còn 20km là va chạm.
+ Ra khỏi đó đi.
+
+1120
+01:37:30,820 --> 01:37:32,160
+Đi, đi.
+
+1121
+01:37:39,350 --> 01:37:41,310
+Chúng tôi đã vào trong. 
+Đóng cửa lại.
+
+1122
+01:37:48,210 --> 01:37:50,240
+- Giữ chặt
+- Đang giữ chặt đây.
+
+1123
+01:37:50,250 --> 01:37:51,650
+Giữ chặt hơn.
+
+1124
+01:38:57,790 --> 01:39:01,420
+Được rồi, biết gì không? Kế hoạch B.
+Lúc nào cũng có kế hoạch B.
+
+1125
+01:39:05,150 --> 01:39:09,000
+Có ai nghe không,
+đây là Lambert.
+
+1126
+01:39:09,010 --> 01:39:12,960
+- Chú ý là đã bắt được Newt.
+- Nghe rõ.
+
+1127
+01:39:12,970 --> 01:39:15,820
+Cậu đây rồi. Mừng là cậu ổn!
+
+1128
+01:39:15,830 --> 01:39:18,680
+Tôi cũng thấy thế.
+Tôi biết là cậu làm được mà.
+
+1129
+01:39:18,700 --> 01:39:21,840
+Có một chút trợ giúp đấy!
+
+1130
+01:39:23,370 --> 01:39:25,830
+Làm tốt lắm, Namani.
+- Cám ơn sếp.
+
+1131
+01:39:31,040 --> 01:39:33,030
+Em chưa bao giờ thấy tuyết cả!
+
+1132
+01:39:33,040 --> 01:39:35,940
+Đó là những gì em biết
+kể từ khi em biết đến tuyết à.
+
+1133
+01:39:36,210 --> 01:39:39,450
+Con Kaiju to xác đã chết ở kia
+và anh không biết...
+
+1134
+01:39:39,470 --> 01:39:42,560
+Có phải anh sắp đọc diễn văn ngớ ngẩn
+cho em nghe không?
+
+1135
+01:39:42,590 --> 01:39:44,550
+Phải chăng ai cũng cho là ngớ ngẩn
+hay chỉ là ý kiến của em thôi?
+
+1136
+01:39:44,570 --> 01:39:46,530
+Anh thực hành bao nhiêu lần trước gương rồi?
+
+1137
+01:39:46,550 --> 01:39:48,950
+Nghe động viên lắm. 
+Em sẽ là người em muốn!
+
+1138
+01:39:50,060 --> 01:39:51,830
+- Bắn này.
+- Được rồi. Giờ chơi trò này sao?
+
+1139
+01:39:51,850 --> 01:39:55,380
+- Em sống tự nhiên mà. Nghỉ ngơi tý nào.
+- Không đâu, em không là người như thế!
+
+1140
+01:39:57,580 --> 01:39:59,790
+Bùm này.
+
+1141
+01:40:02,280 --> 01:40:04,210
+Ta đã làm được.
+
+1142
+01:40:25,450 --> 01:40:29,260
+Mày nghĩ là xong rồi ư?
+Mày nghĩ là đã cứu thế giới rác rưởi này của mày à?
+
+1143
+01:40:29,850 --> 01:40:31,820
+Chúng tao sẽ tiếp tục.
+
+1144
+01:40:32,700 --> 01:40:34,260
+Sẽ không bao giờ dừng lại,
+
+1145
+01:40:34,290 --> 01:40:38,770
+sớm hay muộn mày cũng chả
+còn may mắn thế đâu.
+
+1146
+01:40:43,200 --> 01:40:46,520
+Có gì trong đầu mày thế, kẻ xâm nhập?
+
+1147
+01:40:47,120 --> 01:40:49,320
+Bảo chúng là bọn tao không sợ đâu.
+
+1148
+01:40:49,330 --> 01:40:50,850
+Bảo chúng là lần tới...
+
+1149
+01:40:50,860 --> 01:40:53,350
+chúng mày cần lo cho thân chúng mày đi.
+
+1150
+01:40:53,840 --> 01:40:56,010
+Vì bọn tao sẽ tự tới gặp chúng mày.
+
+1151
+01:41:00,030 --> 02:41:00,030
+Bản Việt hóa thực hiện bởi World Translations
+FB.com/WorldTrans - Wtranz@hotmail.com
+
