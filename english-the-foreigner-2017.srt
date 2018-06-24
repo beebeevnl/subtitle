@@ -1,5030 +1,5901 @@
 ﻿1
-00:01:12,960 --> 00:01:14,300
+00:01:21,164 --> 00:01:23,750
+(INDISTINCT CHATTER)
+
+2
+00:01:32,967 --> 00:01:34,302
 - You like it?
 - All right.
 
-2
-00:01:14,380 --> 00:01:15,760
+3
+00:01:34,385 --> 00:01:35,762
 I need to go. My dad's here.
 
-3
-00:01:15,840 --> 00:01:17,300
+4
+00:01:35,845 --> 00:01:37,305
 - I'll see you tonight.
 - Yeah.
 
-4
-00:01:25,350 --> 00:01:27,270
+5
+00:01:39,599 --> 00:01:41,184
+(CAR ENGINE STARTS)
+
+6
+00:01:45,355 --> 00:01:47,273
 This is the dress. Do you like it?
 
-5
-00:01:27,350 --> 00:01:30,480
+7
+00:01:47,357 --> 00:01:50,485
 We've got to hurry. Everyone's going.
 There's only two left in my size.
 
-6
-00:01:32,900 --> 00:01:34,440
+8
+00:01:52,904 --> 00:01:54,447
 Come on, Dad, let's go.
 
-7
-00:01:43,790 --> 00:01:45,200
-When do I meet him?
-
-8
-00:01:46,500 --> 00:01:47,790
-His name's Chappy.
-
 9
-00:01:47,870 --> 00:01:48,870
-On the football team and very...
+00:01:57,492 --> 00:01:59,828
+(CHILDREN PLAYING)
 
 10
-00:01:48,960 --> 00:01:50,920
+00:02:03,790 --> 00:02:05,208
+When do I meet him?
+
+11
+00:02:06,501 --> 00:02:07,794
+His name's Chappy.
+
+12
+00:02:07,877 --> 00:02:08,878
+On the football team and very...
+
+13
+00:02:08,962 --> 00:02:10,922
 - Chubby?
 - Chappy.
 
-11
-00:01:51,710 --> 00:01:53,460
+14
+00:02:11,714 --> 00:02:13,466
 You'll meet when he picks me up
 for the dance.
 
-12
-00:01:54,090 --> 00:01:55,050
+15
+00:02:14,092 --> 00:02:15,051
 Not before?
 
-13
-00:01:55,130 --> 00:01:57,300
+16
+00:02:15,135 --> 00:02:17,303
 Dad, you really need to go faster.
 
-14
-00:01:59,630 --> 00:02:01,260
+17
+00:02:19,639 --> 00:02:21,266
 Will he drive you to the dance?
 
-15
-00:02:01,640 --> 00:02:03,140
+18
+00:02:21,641 --> 00:02:23,143
 He's rented a limo.
 
-16
-00:02:04,060 --> 00:02:05,430
+19
+00:02:24,060 --> 00:02:25,436
 So he won't drive you?
 
-17
-00:02:05,890 --> 00:02:09,480
+20
+00:02:25,895 --> 00:02:29,482
 Limos come with drivers. So stop worrying.
 
-18
-00:02:15,690 --> 00:02:18,610
+21
+00:02:35,697 --> 00:02:38,616
 It's a nice dress. You'll be very pretty.
 
-19
-00:02:19,030 --> 00:02:20,450
+22
+00:02:39,033 --> 00:02:40,451
 I want you to like it.
 
-20
-00:02:44,550 --> 00:02:46,260
+23
+00:03:04,559 --> 00:03:06,269
 - I'm getting out.
 - No, no, no. Wait until I park.
 
-21
-00:02:46,350 --> 00:02:47,770
+24
+00:03:06,352 --> 00:03:07,770
 Everyone's already inside.
 
-22
-00:02:48,930 --> 00:02:51,690
+25
+00:03:08,938 --> 00:03:11,691
 Fan, careful crossing the street!
 
-23
-00:03:27,260 --> 00:03:28,100
-You stupid...
-
-24
-00:04:37,630 --> 00:04:39,170
-Metro desk, Ian Wood.
-
-25
-00:04:39,250 --> 00:04:40,880
-Listen carefully.
-
 26
-00:04:40,960 --> 00:04:42,630
-An action wing of the Authentic IRA
+00:03:25,079 --> 00:03:26,164
+(CAR ENGINE STARTS)
 
 27
-00:04:42,710 --> 00:04:45,680
+00:03:47,268 --> 00:03:48,102
+You stupid...
+
+28
+00:04:12,126 --> 00:04:14,128
+(HIGH-PITCHED RINGING)
+
+29
+00:04:23,012 --> 00:04:25,974
+(MUFFLED ALARMS BLARING)
+
+30
+00:04:49,914 --> 00:04:52,083
+- (INDISTINCT CHATTER)
+- (PHONES RINGING)
+
+31
+00:04:55,461 --> 00:04:57,505
+(PHONE RINGS)
+
+32
+00:04:57,630 --> 00:04:59,173
+Metro desk, Ian Wood.
+
+33
+00:04:59,257 --> 00:05:00,883
+(MAN THROUGH PHONE) Listen carefully.
+
+34
+00:05:00,967 --> 00:05:02,635
+An action wing of the Authentic IRA
+
+35
+00:05:02,719 --> 00:05:05,680
 has just exploded a bomb
 at the OBT Bank in Knightsbridge.
 
-28
-00:04:46,760 --> 00:04:48,300
+36
+00:05:06,764 --> 00:05:08,308
 The code word is "Phoenix."
 
-29
-00:04:49,010 --> 00:04:51,180
+37
+00:05:09,017 --> 00:05:11,185
 Britain's banks are now targets
 for the Authentic IRA.
 
-30
-00:04:51,930 --> 00:04:55,140
+38
+00:05:11,936 --> 00:05:15,148
 The bombings will continue as long as
 Britain's financial criminal institutions
 
-31
-00:04:55,230 --> 00:04:58,650
+39
+00:05:15,231 --> 00:05:18,651
 persist in their support of the illegal
 occupation of Northern Ireland.
 
-32
-00:05:06,070 --> 00:05:08,570
+40
+00:05:26,075 --> 00:05:28,578
 A bomb just went off,
 an OBT Bank in Knightsbridge.
 
-33
-00:05:08,660 --> 00:05:11,330
+41
+00:05:28,661 --> 00:05:31,330
 A group called the Authentic IRA just
 phoned it in. They're claiming credit.
 
-34
-00:05:11,530 --> 00:05:12,740
+42
+00:05:31,539 --> 00:05:32,749
 Who's the Authentic IRA?
 
-35
-00:05:12,910 --> 00:05:14,080
+43
+00:05:32,915 --> 00:05:34,083
 No idea. Never heard of them.
 
-36
-00:05:15,290 --> 00:05:19,080
+44
+00:05:35,293 --> 00:05:39,088
 Christ. There goes the Peace Accord
 right back in the shit.
 
-37
-00:05:19,960 --> 00:05:22,960
+45
+00:05:39,964 --> 00:05:42,967
 Listen up. A bank has just
 been bombed in Knightsbridge.
 
-38
-00:05:23,050 --> 00:05:26,720
+46
+00:05:43,051 --> 00:05:46,721
 A group calling itself
 the Authentic IRA just phoned it in.
 
-39
-00:05:26,800 --> 00:05:28,800
+47
+00:05:46,804 --> 00:05:48,806
 I want to know who they are,
 who's behind them.
 
-40
-00:05:28,890 --> 00:05:30,800
+48
+00:05:48,890 --> 00:05:50,808
 Call the Met, Sinn Fein,
 monitor the blogs.
 
-41
-00:05:30,890 --> 00:05:34,020
+49
+00:05:50,892 --> 00:05:54,020
 Is it the IRA or is it something else?
 ISIS? Al-Qaeda?
 
-42
-00:05:34,720 --> 00:05:36,100
+50
+00:05:54,729 --> 00:05:56,105
 What are you waiting for? Get over there.
 
-43
-00:05:49,200 --> 00:05:51,320
-...have asked
+51
+00:05:57,523 --> 00:05:59,817
+- (SIRENS WAILING)
+- (INDISTINCT RADIO CHATTER)
+
+52
+00:05:59,901 --> 00:06:01,652
+(HELICOPTER BLADES WHIRRING)
+
+53
+00:06:09,202 --> 00:06:11,329
+(REPORTER) ...have asked
 a number of police officials
 
-44
-00:05:51,410 --> 00:05:53,240
+54
+00:06:11,412 --> 00:06:13,247
 for current estimates
 on the dead and wounded...
 
-45
-00:06:44,880 --> 00:06:47,340
-This is a major incident
+55
+00:06:13,372 --> 00:06:14,457
+(CONTINUES INDISTINCTLY)
+
+56
+00:06:14,707 --> 00:06:15,541
+(CAMERA SHUTTER CLICKING)
+
+57
+00:06:22,340 --> 00:06:23,883
+(WOMAN SOBBING)
+
+58
+00:07:04,882 --> 00:07:07,343
+(FEMALE ANCHOR) This is a major incident
 that they're treating
 
-46
-00:06:47,420 --> 00:06:49,550
+59
+00:07:07,427 --> 00:07:09,554
 as a possible terrorist attack.
 
-47
-00:06:49,630 --> 00:06:51,840
-The bomb went off at exactly...
+60
+00:07:09,637 --> 00:07:11,848
+- The bomb went off at exactly...
+- (KNOCKING ON DOOR)
 
-48
-00:06:51,930 --> 00:06:54,010
+61
+00:07:11,931 --> 00:07:14,016
 ...4:15 GMT in Knightsbridge.
 
-49
-00:06:54,100 --> 00:06:56,180
+62
+00:07:14,100 --> 00:07:16,185
 One theory on the cause of the blast
 
-50
-00:06:56,260 --> 00:06:59,060
+63
+00:07:16,269 --> 00:07:19,063
 was that it may have been
 a gasoline explosion underground.
 
-51
-00:06:59,980 --> 00:07:02,060
+64
+00:07:19,981 --> 00:07:22,066
 How many? How many I get?
 
-52
-00:07:02,850 --> 00:07:05,480
+65
+00:07:22,859 --> 00:07:25,486
 Twelve dead so far,
 three times as many injured.
 
-53
-00:07:05,570 --> 00:07:08,860
+66
+00:07:25,570 --> 00:07:28,865
 The explosion was centered
 at the OBT Bank Branch in Knightsbridge.
 
-54
-00:07:08,940 --> 00:07:11,650
+67
+00:07:28,948 --> 00:07:31,659
 There was no warning and police
 were taken completely by surprise.
 
-55
-00:07:11,740 --> 00:07:13,570
+68
+00:07:31,742 --> 00:07:33,578
 Fuck warnings. That'll teach 'em.
 
-56
-00:07:16,870 --> 00:07:18,120
+69
+00:07:36,873 --> 00:07:38,124
 Any problems?
 
-57
-00:07:20,710 --> 00:07:23,000
+70
+00:07:40,710 --> 00:07:43,004
 - No.
 - We should be moving.
 
-58
-00:07:23,460 --> 00:07:24,460
+71
+00:07:43,463 --> 00:07:44,464
 That's normal procedure.
 
-59
-00:07:24,540 --> 00:07:28,210
+72
+00:07:44,547 --> 00:07:48,217
 Every cop, hotel, and landlady in London
 is now looking for the Irishman.
 
-60
-00:07:29,010 --> 00:07:32,970
+73
+00:07:49,010 --> 00:07:52,972
 This place is safe,
 so long as we stay put.
 
-61
-00:07:53,450 --> 00:07:55,740
+74
+00:08:00,855 --> 00:08:02,857
+(CELL PHONE VIBRATING)
+
+75
+00:08:13,451 --> 00:08:15,745
 Could I go to jail
 if I murdered your phone?
 
-62
-00:07:57,490 --> 00:08:02,330
+76
+00:08:17,497 --> 00:08:22,335
 Destruction of government property?
 Absolutely.
 
-63
-00:08:02,410 --> 00:08:06,000
+77
+00:08:22,418 --> 00:08:26,005
+(CHUCKLES SOFTLY)
 Too bad. What's the time?
 
-64
-00:08:06,420 --> 00:08:08,920
+78
+00:08:26,422 --> 00:08:28,925
 Almost 10:00. Ten more minutes.
 
-65
-00:08:09,460 --> 00:08:11,630
+79
+00:08:29,467 --> 00:08:31,636
 Um, I'll miss my flight.
 
-66
-00:08:12,510 --> 00:08:17,890
+80
+00:08:32,512 --> 00:08:37,892
 Let's stay here,
 door locked, blinds down...
 
-67
-00:08:18,550 --> 00:08:20,260
+81
+00:08:38,559 --> 00:08:40,269
 Room service for a week.
 
-68
-00:08:21,520 --> 00:08:22,520
+82
+00:08:41,521 --> 00:08:42,522
 Sound good?
 
-69
-00:08:22,890 --> 00:08:24,640
+83
+00:08:42,897 --> 00:08:44,649
 And your work, Deputy Minister?
 
-70
-00:08:26,020 --> 00:08:28,020
+84
+00:08:46,025 --> 00:08:48,027
 An acute case of food poisoning.
 
-71
-00:08:30,900 --> 00:08:33,070
+85
+00:08:48,110 --> 00:08:49,570
+(MAGGIE CHUCKLES)
+
+86
+00:08:50,905 --> 00:08:53,074
 You need to work on your excuses, darling.
 
-72
-00:08:56,470 --> 00:08:58,510
+87
+00:09:02,333 --> 00:09:03,626
+(CELL PHONE VIBRATES)
+
+88
+00:09:05,294 --> 00:09:06,254
+(SIGHS)
+
+89
+00:09:16,472 --> 00:09:18,516
 Jesus Christ.
 
-73
-00:08:59,050 --> 00:09:01,180
+90
+00:09:19,058 --> 00:09:21,185
 There's been an IRA bombing in London.
 
-74
-00:09:02,310 --> 00:09:03,890
+91
+00:09:22,311 --> 00:09:23,896
 Scores dead and injured.
 
-75
-00:09:12,440 --> 00:09:14,070
+92
+00:09:23,980 --> 00:09:25,147
+(CELL PHONE VIBRATING)
+
+93
+00:09:32,446 --> 00:09:34,073
 - Yes?
 - Jesus, Liam.
 
-76
-00:09:14,190 --> 00:09:17,530
+94
+00:09:34,198 --> 00:09:37,535
 Half the world's trying to find you.
 Do you even know what's happened?
 
-77
-00:09:17,610 --> 00:09:18,860
+95
+00:09:37,618 --> 00:09:38,869
 Yes, yes, yes, I heard.
 
-78
-00:09:18,950 --> 00:09:21,280
-I've been trying you for hours.
+96
+00:09:38,953 --> 00:09:41,289
+(MARY) I've been trying you for hours.
 Where've you been?
 
-79
-00:09:22,160 --> 00:09:23,080
+97
+00:09:42,164 --> 00:09:43,082
 Meetings.
 
-80
-00:09:23,160 --> 00:09:25,160
+98
+00:09:43,165 --> 00:09:45,167
 - Meetings?
-- Aye.
+- (LIAM) Aye.
 
-81
-00:09:26,410 --> 00:09:28,000
+99
+00:09:45,251 --> 00:09:46,335
+(DOG BARKING)
+
+100
+00:09:46,419 --> 00:09:48,004
 And last night?
 
-82
-00:09:28,710 --> 00:09:30,710
+101
+00:09:48,713 --> 00:09:50,715
 You didn't come home. I was worried.
 
-83
-00:09:31,630 --> 00:09:36,170
-Came in late, left early.
+102
+00:09:51,632 --> 00:09:56,178
+(LIAM) Came in late, left early.
 Lot of work to catch up on.
 
-84
-00:09:38,050 --> 00:09:39,890
+103
+00:09:58,055 --> 00:09:59,890
 But the guest room wasn't slept in.
 
-85
-00:09:39,970 --> 00:09:41,510
-Who said I slept?
+104
+00:09:59,974 --> 00:10:01,517
+(LIAM) Who said I slept?
 
-86
-00:09:41,600 --> 00:09:42,760
+105
+00:10:01,601 --> 00:10:02,768
 Oh, cut the crap, Liam.
 
-87
-00:09:43,260 --> 00:09:44,890
+106
+00:10:03,269 --> 00:10:04,895
 You didn't come home, plain and simple.
 
-88
-00:09:44,970 --> 00:09:46,480
+107
+00:10:04,979 --> 00:10:06,480
 And what if I didn't!
 
-89
-00:09:47,100 --> 00:09:49,980
+108
+00:10:07,106 --> 00:10:09,984
 Look, I've got a lot to deal with, OK?
 
-90
-00:09:50,270 --> 00:09:52,320
+109
+00:10:10,276 --> 00:10:12,320
 So, don't wait up, and don't be worried.
 
-91
-00:09:54,190 --> 00:09:57,530
+110
+00:10:14,196 --> 00:10:17,533
 Sunday is the 20th anniversary
 of my brother's death.
 
-92
-00:09:59,240 --> 00:10:01,990
+111
+00:10:19,243 --> 00:10:21,996
 Saint Mary's is dedicating
 a mass to him, so...
 
-93
-00:10:02,070 --> 00:10:04,950
+112
+00:10:22,079 --> 00:10:24,957
 I'll have Beth put it in the calendar, OK?
 We'll talk later.
 
-94
-00:10:06,830 --> 00:10:07,870
+113
+00:10:26,834 --> 00:10:27,877
 Oh, Jesus.
 
-95
-00:11:40,590 --> 00:11:43,180
+114
+00:10:35,885 --> 00:10:37,428
+(INDISTINCT CHATTER)
+
+115
+00:12:00,594 --> 00:12:03,180
 Yes, I understand
 the need for swift action.
 
-96
-00:11:43,260 --> 00:11:46,300
+116
+00:12:03,264 --> 00:12:06,308
 But until we can identify the threat,
 there's not much we can do.
 
-97
-00:11:46,800 --> 00:11:49,220
+117
+00:12:06,809 --> 00:12:09,228
 Well, you have your finger
 on the pulse over there, Liam.
 
-98
-00:11:49,310 --> 00:11:50,520
+118
+00:12:09,311 --> 00:12:10,521
 We're depending on you.
 
-99
-00:11:50,600 --> 00:11:53,980
+119
+00:12:10,604 --> 00:12:13,983
 Anything you can provide, anything at all,
 would be a tremendous help.
 
-100
-00:11:54,190 --> 00:11:55,690
+120
+00:12:14,191 --> 00:12:15,693
 I'm meeting the Council now.
 
-101
-00:11:55,770 --> 00:11:58,610
+121
+00:12:15,776 --> 00:12:18,612
 I'll shake the trees as hard
 as I can and see what falls.
 
-102
-00:11:58,690 --> 00:12:00,730
+122
+00:12:18,696 --> 00:12:20,739
 But, Kate, this is crucial.
 
-103
-00:12:00,820 --> 00:12:03,360
+123
+00:12:20,823 --> 00:12:23,367
 We've managed to keep the lid on this
 for 19 years now.
 
-104
-00:12:03,700 --> 00:12:07,700
+124
+00:12:23,701 --> 00:12:27,705
 But there are new upstarts in the ranks
 pressing for the way things were.
 
-105
-00:12:07,780 --> 00:12:09,080
+125
+00:12:27,788 --> 00:12:29,081
 I could use something now.
 
-106
-00:12:09,830 --> 00:12:11,830
+126
+00:12:29,832 --> 00:12:31,834
 And you know what I'm referring to.
 
-107
-00:12:12,960 --> 00:12:14,460
+127
+00:12:32,960 --> 00:12:34,462
 The Royal Pardons.
 
-108
-00:12:15,920 --> 00:12:19,090
+128
+00:12:35,921 --> 00:12:39,091
 I remember your list, the 40 "On-the-Runs."
 Are we really back to that?
 
-109
-00:12:19,170 --> 00:12:21,340
+129
+00:12:39,175 --> 00:12:41,343
 My cousin's on that list.
 
-110
-00:12:21,460 --> 00:12:24,550
+130
+00:12:41,469 --> 00:12:44,555
 He hasn't even been convicted
 of any paramilitary offenses.
 
-111
-00:12:24,630 --> 00:12:28,260
+131
+00:12:44,638 --> 00:12:48,267
 These people are suspects
 in many things, including murder.
 
-112
-00:12:28,350 --> 00:12:31,640
+132
+00:12:48,350 --> 00:12:51,645
 These people are critical
 to holding the peace together now.
 
-113
-00:12:32,520 --> 00:12:35,810
+133
+00:12:52,521 --> 00:12:55,816
 A few letters of pardon
 would be a small gesture.
 
-114
-00:12:35,900 --> 00:12:38,110
-We keep it quiet.
+134
+00:12:55,900 --> 00:12:58,110
+- (ELEVATOR BELL CHIMES)
+- We keep it quiet.
 
-115
-00:12:38,190 --> 00:12:40,520
+135
+00:12:58,194 --> 00:13:00,529
 But knowing it's been considered,
 gives me leeway
 
-116
-00:12:40,610 --> 00:12:43,190
+136
+00:13:00,613 --> 00:13:03,199
 to press certain men
 for something in return.
 
-117
-00:12:43,990 --> 00:12:45,740
+137
+00:13:03,991 --> 00:13:05,743
 As Irish Deputy Minister,
 
-118
-00:12:45,860 --> 00:12:47,660
+138
+00:13:05,868 --> 00:13:07,661
 you have served the British
 government honorably,
 
-119
-00:12:47,740 --> 00:12:49,370
+139
+00:13:07,745 --> 00:13:09,371
 which hasn't always been easy.
 
-120
-00:12:49,450 --> 00:12:51,660
+140
+00:13:09,455 --> 00:13:11,665
 But appeasement is a dangerous thing.
 
-121
-00:12:51,740 --> 00:12:54,000
-These are longstanding issues.
+141
+00:13:11,749 --> 00:13:14,001
+(LIAM) These are longstanding issues.
 
-122
-00:12:54,080 --> 00:12:55,960
-That if addressed now
+142
+00:13:14,084 --> 00:13:15,961
+(DAVIES) That if addressed now
 would smack of appeasement.
 
-123
-00:12:56,040 --> 00:12:57,580
+143
+00:13:16,045 --> 00:13:17,588
 I need something, Kate.
 
-124
-00:12:57,710 --> 00:13:01,000
+144
+00:13:17,713 --> 00:13:21,008
 The newer members haven't
 lived the bloodshed and are easily swayed.
 
-125
-00:13:01,090 --> 00:13:03,210
+145
+00:13:21,091 --> 00:13:23,219
 I'm trying to hold this together.
 
-126
-00:13:03,300 --> 00:13:06,930
+146
+00:13:23,302 --> 00:13:26,931
 A gesture is all.
 It would make a difference.
 
-127
-00:13:07,640 --> 00:13:08,840
+147
+00:13:27,640 --> 00:13:28,849
 I'll consider it.
 
-128
-00:13:11,140 --> 00:13:14,480
+148
+00:13:31,143 --> 00:13:34,480
 But I want something first,
 something real.
 
-129
-00:13:15,850 --> 00:13:16,850
+149
+00:13:35,856 --> 00:13:36,857
 Understood.
 
-130
-00:13:43,300 --> 00:13:44,300
+150
+00:13:54,833 --> 00:13:55,876
+(BELL JINGLES)
+
+151
+00:14:03,300 --> 00:14:04,301
 Hello?
 
-131
-00:13:51,350 --> 00:13:53,510
+152
+00:14:04,385 --> 00:14:05,719
+(SIZZLING)
+
+153
+00:14:11,350 --> 00:14:13,519
 We're closed. We open at 12:00.
 
-132
-00:13:53,600 --> 00:13:56,430
+154
+00:14:13,602 --> 00:14:16,438
 Uh, we're looking for the owner,
 a Mr. Quin Minh?
 
-133
-00:13:57,640 --> 00:13:58,770
+155
+00:14:17,648 --> 00:14:18,774
 Quan.
 
-134
-00:13:59,270 --> 00:14:00,400
+156
+00:14:19,275 --> 00:14:20,401
 Upstairs.
 
-135
-00:14:03,360 --> 00:14:06,780
-They were found on site,
+157
+00:14:23,362 --> 00:14:26,782
+(LEVETT) They were found on site,
 not far from your daughter's body.
 
-136
-00:14:07,320 --> 00:14:09,610
+158
+00:14:27,324 --> 00:14:29,618
 Can you positively identify them as hers?
 
-137
-00:14:11,410 --> 00:14:12,660
+159
+00:14:31,412 --> 00:14:32,663
 Who did this?
 
-138
-00:14:13,700 --> 00:14:16,290
+160
+00:14:33,706 --> 00:14:36,292
 As of now, sir, we don't know,
 but we're going to find out.
 
-139
-00:14:18,080 --> 00:14:19,330
+161
+00:14:38,085 --> 00:14:39,336
 Why my daughter?
 
-140
-00:14:21,670 --> 00:14:23,420
+162
+00:14:41,672 --> 00:14:43,424
 Is there someone we can call
 
-141
-00:14:23,500 --> 00:14:25,340
+163
+00:14:43,507 --> 00:14:45,342
 to come and be with you, Mr. Quan?
 
-142
-00:14:30,840 --> 00:14:32,300
+164
+00:14:50,848 --> 00:14:52,308
 I have no more family.
 
-143
-00:14:38,230 --> 00:14:40,850
+165
+00:14:58,230 --> 00:15:00,858
 These bombers, will you catch them?
 
-144
-00:14:40,940 --> 00:14:41,770
+166
+00:15:00,941 --> 00:15:01,775
 Yes.
 
-145
-00:14:43,270 --> 00:14:44,940
+167
+00:15:03,277 --> 00:15:04,945
 Will they get punished?
 
-146
-00:14:45,020 --> 00:14:46,780
-Yes, they certainly will.
+168
+00:15:05,029 --> 00:15:06,780
+(BARRIE) Yes, they certainly will.
 
-147
-00:14:47,820 --> 00:14:49,530
-We'll let ourselves out.
+169
+00:15:07,823 --> 00:15:09,533
+(LEVETT) We'll let ourselves out.
 
-148
-00:15:06,960 --> 00:15:09,130
+170
+00:15:16,707 --> 00:15:17,833
+(DOOR CLOSES)
+
+171
+00:15:19,919 --> 00:15:22,338
+(VOICES ECHOING)
+
+172
+00:15:26,967 --> 00:15:29,136
 Ah, good morning, Hugh. Thanks for coming.
 
-149
-00:15:09,210 --> 00:15:10,300
+173
+00:15:29,219 --> 00:15:30,304
 Been a long time, Liam.
 
-150
-00:15:10,380 --> 00:15:13,090
+174
+00:15:30,387 --> 00:15:33,098
 It's been a long time, indeed.
 Go on, take a chair, there.
 
-151
-00:15:13,800 --> 00:15:14,850
-All right, Hugh?
+175
+00:15:33,807 --> 00:15:34,850
+(MAN) All right, Hugh?
 
-152
-00:15:15,350 --> 00:15:16,970
+176
+00:15:35,351 --> 00:15:36,977
 Now that we're all here,
 
-153
-00:15:17,680 --> 00:15:20,810
+177
+00:15:37,686 --> 00:15:40,814
 does anyone know
 who this Authentic IRA is?
 
-154
-00:15:22,770 --> 00:15:24,650
+178
+00:15:42,775 --> 00:15:44,652
 Are they even part of the IRA?
 
-155
-00:15:25,730 --> 00:15:30,240
+179
+00:15:45,736 --> 00:15:50,240
 Some new upstarts
 or something else entirely? Hmm?
 
-156
-00:15:31,400 --> 00:15:35,200
+180
+00:15:51,408 --> 00:15:55,204
 They're trying to undermine everything
 we've achieved over the last 19 years.
 
-157
-00:15:35,280 --> 00:15:36,620
+181
+00:15:55,287 --> 00:15:56,622
 Well, I won't have it.
 
-158
-00:15:36,950 --> 00:15:40,580
+182
+00:15:56,956 --> 00:16:00,584
 They don't have the support of the people
 who said no to the violence.
 
-159
-00:15:41,160 --> 00:15:43,120
+183
+00:16:01,168 --> 00:16:03,128
 Our mandate's to uphold that choice
 
-160
-00:15:43,210 --> 00:15:45,420
+184
+00:16:03,212 --> 00:16:05,422
 and maintain the Peace Accord
 no matter what.
 
-161
-00:15:45,500 --> 00:15:46,590
+185
+00:16:05,506 --> 00:16:06,590
 Are we in agreement?
 
-162
-00:15:46,670 --> 00:15:49,460
+186
+00:16:06,674 --> 00:16:09,468
 There's a lot of support for their actions
 amongst the younger ranks.
 
-163
-00:15:49,590 --> 00:15:50,760
+187
+00:16:09,593 --> 00:16:10,761
 Hotheads.
 
-164
-00:15:51,260 --> 00:15:54,220
+188
+00:16:11,261 --> 00:16:14,223
 Hotheads who don't remember
 or know any better.
 
-165
-00:15:54,300 --> 00:15:56,640
+189
+00:16:14,306 --> 00:16:16,642
 You were once one of those hotheads, Liam.
 
-166
-00:15:57,010 --> 00:15:57,970
+190
+00:16:17,017 --> 00:16:17,977
 Aye.
 
-167
-00:15:58,470 --> 00:16:00,520
+191
+00:16:18,477 --> 00:16:20,521
 Long ago, when it was the only way.
 
-168
-00:16:00,600 --> 00:16:01,890
+192
+00:16:20,604 --> 00:16:21,897
 And what did it give us?
 
-169
-00:16:02,270 --> 00:16:04,600
+193
+00:16:22,272 --> 00:16:24,608
 More graves than I care to remember.
 
-170
-00:16:05,190 --> 00:16:08,190
+194
+00:16:25,192 --> 00:16:28,195
 This bombing rivals Omagh
 with its civilian deaths.
 
-171
-00:16:08,360 --> 00:16:12,110
+195
+00:16:28,362 --> 00:16:32,116
 It's unacceptable, anytime, anywhere!
 
-172
-00:16:12,190 --> 00:16:14,360
+196
+00:16:32,199 --> 00:16:34,368
 And do you think the bombers
 come from our ranks?
 
-173
-00:16:14,450 --> 00:16:16,490
+197
+00:16:34,451 --> 00:16:36,495
 The Brits ID'd the explosive.
 
-174
-00:16:17,700 --> 00:16:20,240
+198
+00:16:37,705 --> 00:16:40,249
 Czech-made Semtex from our dumps.
 
-175
-00:16:20,830 --> 00:16:23,120
-They also used our code word.
+199
+00:16:40,833 --> 00:16:43,127
+- (ELEVATOR BELL CHIMES)
+- They also used our code word.
 
-176
-00:16:23,540 --> 00:16:26,040
+200
+00:16:43,544 --> 00:16:46,046
 Which means they have
 a contact in our command.
 
-177
-00:16:26,580 --> 00:16:28,500
+201
+00:16:46,588 --> 00:16:48,507
 Maybe someone in this room.
 
-178
-00:16:32,760 --> 00:16:34,760
+202
+00:16:52,761 --> 00:16:54,763
 They're trying to divide us,
 
-179
-00:16:34,840 --> 00:16:38,390
+203
+00:16:54,847 --> 00:16:58,392
 put the Brits back on the streets again,
 stir up the troubles all over again.
 
-180
-00:16:38,470 --> 00:16:39,760
+204
+00:16:58,475 --> 00:16:59,768
 Well, I won't have it!
 
-181
-00:16:39,850 --> 00:16:43,270
+205
+00:16:59,852 --> 00:17:03,272
 I want a complete check
 of all the arms dumps here and abroad,
 
-182
-00:16:43,350 --> 00:16:44,640
+206
+00:17:03,355 --> 00:17:04,648
 everything verified,
 
-183
-00:16:44,730 --> 00:16:47,270
+207
+00:17:04,732 --> 00:17:07,276
 guns, Semtex, the whole fuckin' lot.
 
-184
-00:16:47,350 --> 00:16:50,360
-- Jesus, you can't be serious.
+208
+00:17:07,359 --> 00:17:10,362
+- (PATTY) Jesus, you can't be serious.
 - Never been more so, Patty.
 
-185
-00:16:50,690 --> 00:16:52,820
+209
+00:17:10,696 --> 00:17:12,823
 We check 'em, and if something's missing,
 
-186
-00:16:52,900 --> 00:16:55,400
+210
+00:17:12,906 --> 00:17:15,409
 we trace it back
 to those who knew the location.
 
-187
-00:16:56,450 --> 00:16:58,990
+211
+00:17:16,452 --> 00:17:18,996
 And then we deal with this internally.
 
-188
-00:16:59,240 --> 00:17:01,620
+212
+00:17:19,246 --> 00:17:21,623
 Unless someone here's got a better idea.
 
-189
-00:17:01,870 --> 00:17:03,330
+213
+00:17:21,874 --> 00:17:23,333
 What do we get in return?
 
-190
-00:17:03,750 --> 00:17:04,870
+214
+00:17:23,751 --> 00:17:24,877
 Peace.
 
-191
-00:17:06,620 --> 00:17:08,130
+215
+00:17:26,628 --> 00:17:28,130
 Is that so bad, Brennan?
 
-192
-00:17:08,920 --> 00:17:11,420
+216
+00:17:28,922 --> 00:17:31,425
 Haven't you paid enough in family blood?
 
-193
-00:17:13,170 --> 00:17:15,800
+217
+00:17:33,177 --> 00:17:35,804
 So, unless you all
 want to trash what we have,
 
-194
-00:17:15,880 --> 00:17:18,640
+218
+00:17:35,888 --> 00:17:38,640
 I need your full support and respect.
 
-195
-00:17:18,720 --> 00:17:21,600
+219
+00:17:38,724 --> 00:17:41,602
 I want a complete list
 of all the stocks within the week,
 
-196
-00:17:21,680 --> 00:17:24,730
+220
+00:17:41,685 --> 00:17:44,730
 along with their locations,
 and everyone who knows where they are.
 
-197
-00:17:24,810 --> 00:17:26,810
+221
+00:17:44,813 --> 00:17:46,815
 And no fuckin' exceptions!
 
-198
-00:17:40,280 --> 00:17:41,370
+222
+00:17:52,112 --> 00:17:53,864
+(INDISTINCT CHATTER)
+
+223
+00:18:00,287 --> 00:18:01,371
 Show me.
 
-199
-00:17:41,870 --> 00:17:45,580
+224
+00:18:01,872 --> 00:18:05,584
 We backtracked 47 minutes.
 Clearly anticipated the CCTV.
 
-200
-00:17:45,660 --> 00:17:48,210
+225
+00:18:05,667 --> 00:18:08,212
 He circled London for quite some time
 prior to the bombing.
 
-201
-00:17:48,290 --> 00:17:50,290
+226
+00:18:08,295 --> 00:18:10,297
 Now, this is the first
 CC feed we have on him.
 
-202
-00:17:50,790 --> 00:17:54,300
+227
+00:18:10,798 --> 00:18:14,301
 Heading southbound on the A413
 near Wendover at 10:53 a.m.
 
-203
-00:17:54,880 --> 00:17:57,420
+228
+00:18:14,885 --> 00:18:17,429
 We retrieved the serial number
 from the bike's frame.
 
-204
-00:17:57,510 --> 00:18:00,220
+229
+00:18:17,513 --> 00:18:20,224
 It was reported stolen
 in Reading the night before.
 
-205
-00:18:00,300 --> 00:18:03,470
+230
+00:18:20,307 --> 00:18:23,477
 The license plates were also stolen
 from another bike in Reading.
 
-206
-00:18:03,560 --> 00:18:05,180
+231
+00:18:23,560 --> 00:18:25,187
 What about phone calls?
 
-207
-00:18:05,270 --> 00:18:07,430
+232
+00:18:25,270 --> 00:18:27,439
 Assuming that the bomb
 was phone-activated,
 
-208
-00:18:07,520 --> 00:18:09,850
+233
+00:18:27,523 --> 00:18:29,858
 we've dumped the five closest towers
 to the blast zone
 
-209
-00:18:09,940 --> 00:18:11,400
+234
+00:18:29,942 --> 00:18:31,401
 trying to ID any call terminating
 
-210
-00:18:11,610 --> 00:18:12,650
-at the time of the incident.
+235
+00:18:31,610 --> 00:18:32,653
+- at the time of the incident.
+- (PHONE RINGING)
 
-211
-00:18:12,730 --> 00:18:13,860
+236
+00:18:32,736 --> 00:18:33,862
 Sorry. Excuse me.
 
-212
-00:18:14,270 --> 00:18:15,190
+237
+00:18:34,279 --> 00:18:35,197
 Yup.
 
-213
-00:18:16,860 --> 00:18:17,990
+238
+00:18:36,865 --> 00:18:37,991
 For you.
 
-214
-00:18:18,490 --> 00:18:20,530
+239
+00:18:38,492 --> 00:18:40,536
 - Bromley.
-- He's here again, sir.
+- (OFFICER) He's here again, sir.
 
-215
-00:18:20,660 --> 00:18:22,830
+240
+00:18:40,661 --> 00:18:42,830
 - The Chinese man.
-- What?
+- (BROMLEY) What?
 
-216
-00:18:22,910 --> 00:18:25,700
+241
+00:18:42,913 --> 00:18:45,707
 The Chinaman.
 It's five days in a row, now.
 
-217
-00:18:25,790 --> 00:18:27,790
+242
+00:18:45,791 --> 00:18:47,793
 Christ. Tell him I'm busy.
 
-218
-00:18:27,870 --> 00:18:30,580
+243
+00:18:47,876 --> 00:18:50,587
 I did, and he said he'd wait, again.
 
-219
-00:18:32,040 --> 00:18:36,130
-I assure you, this investigation
+244
+00:18:52,047 --> 00:18:56,135
+(BROMLEY) I assure you, this investigation
 is our top priority, Mr. Quan.
 
-220
-00:18:37,050 --> 00:18:39,590
+245
+00:18:57,052 --> 00:18:59,596
 And we're doing all we can
 and pursuing every possible lead
 
-221
-00:18:39,680 --> 00:18:40,930
+246
+00:18:59,680 --> 00:19:00,931
 to find those who killed your daughter.
 
-222
-00:18:46,350 --> 00:18:48,430
+247
+00:19:06,353 --> 00:19:08,438
 But they're a difficult people to catch.
 
-223
-00:18:49,310 --> 00:18:50,730
+248
+00:19:09,314 --> 00:19:10,732
 And it may take some time.
 
-224
-00:18:51,520 --> 00:18:53,190
+249
+00:19:11,525 --> 00:19:13,193
 I need you to understand that.
 
-225
-00:18:53,270 --> 00:18:55,860
+250
+00:19:13,277 --> 00:19:15,863
 You must catch these men,
 Commander Bromley.
 
-226
-00:18:55,940 --> 00:18:58,570
+251
+00:19:15,946 --> 00:19:18,574
 Again, it's our top priority.
 
-227
-00:19:05,660 --> 00:19:07,450
+252
+00:19:25,664 --> 00:19:27,457
 Twenty thousand pound.
 
-228
-00:19:09,290 --> 00:19:12,750
+253
+00:19:29,293 --> 00:19:32,754
 All I have for the names of the bombers.
 
-229
-00:19:15,250 --> 00:19:18,460
+254
+00:19:35,257 --> 00:19:38,468
 - I'm sorry, but we can't take this.
 - Then please tell me...
 
-230
-00:19:19,260 --> 00:19:22,050
+255
+00:19:39,261 --> 00:19:42,055
 Just give me the name
 of someone in the IRA.
 
-231
-00:19:22,130 --> 00:19:26,600
+256
+00:19:42,139 --> 00:19:46,602
 To be clear, these are vicious men
 who take pride in their atrocities.
 
-232
-00:19:27,260 --> 00:19:30,730
+257
+00:19:47,269 --> 00:19:50,731
 Any attempt by you to contact them
 is likely to end very badly.
 
-233
-00:19:31,390 --> 00:19:33,100
+258
+00:19:51,398 --> 00:19:53,108
 This is our work, not yours.
 
-234
-00:19:34,060 --> 00:19:35,480
+259
+00:19:54,067 --> 00:19:55,485
 You need to be patient.
 
-235
-00:19:42,200 --> 00:19:44,160
+260
+00:20:02,201 --> 00:20:04,161
 How long have you been
 in this country, Mr. Quan?
 
-236
-00:19:45,820 --> 00:19:49,040
+261
+00:20:05,829 --> 00:20:09,041
 Since 1984. I'm a British citizen.
 
-237
-00:19:49,660 --> 00:19:51,910
+262
+00:20:09,666 --> 00:20:11,919
 You were born in Guangxi, China.
 
-238
-00:19:54,250 --> 00:19:56,840
+263
+00:20:14,254 --> 00:20:16,840
 Yes. I'm Chinese Nung.
 
-239
-00:19:56,920 --> 00:19:59,300
+264
+00:20:16,924 --> 00:20:19,301
 I work in Saigon after the war.
 
-240
-00:19:59,380 --> 00:20:00,880
+265
+00:20:19,384 --> 00:20:20,886
 We escaped to Singapore.
 
-241
-00:20:01,800 --> 00:20:03,590
+266
+00:20:21,803 --> 00:20:23,597
 Then we immigrate here.
 
-242
-00:20:05,640 --> 00:20:07,850
-You had two daughters
+267
+00:20:25,641 --> 00:20:27,851
+(BROMLEY) You had two daughters
 before Fan.
 
-243
-00:20:08,760 --> 00:20:10,850
+268
+00:20:28,769 --> 00:20:30,854
 Both killed during the escape.
 
-244
-00:20:11,430 --> 00:20:12,850
-And your wife?
+269
+00:20:31,438 --> 00:20:32,856
+- And your wife?
+- (SIGHS)
 
-245
-00:20:13,310 --> 00:20:14,390
+270
+00:20:33,315 --> 00:20:34,399
 Where is she now?
 
-246
-00:20:17,190 --> 00:20:19,440
+271
+00:20:37,194 --> 00:20:39,446
+(VOICE BREAKING)
 She died, giving birth to Fan.
 
-247
-00:20:22,740 --> 00:20:24,570
-I'm truly sorry for your loss.
+272
+00:20:42,741 --> 00:20:44,576
+(BROMLEY) I'm truly sorry for your loss.
 
-248
-00:20:27,280 --> 00:20:30,040
+273
+00:20:47,287 --> 00:20:50,040
 But you mustn't keep coming here
 on a daily basis.
 
-249
-00:20:30,490 --> 00:20:35,290
+274
+00:20:50,499 --> 00:20:55,295
 It doesn't help, and diverts time
 and resources from our investigation.
 
-250
-00:20:38,130 --> 00:20:39,340
+275
+00:20:58,131 --> 00:20:59,341
 Do you understand?
 
-251
-00:20:42,880 --> 00:20:45,630
+276
+00:21:02,886 --> 00:21:05,639
 Yes. I understand.
 
-252
-00:20:48,720 --> 00:20:51,850
+277
+00:21:08,725 --> 00:21:11,853
 Thank you for seeing me,
 Commander Bromley.
 
-253
-00:21:03,030 --> 00:21:05,240
-After three weeks
+278
+00:21:20,570 --> 00:21:21,571
+(DOOR OPENS AND CLOSES)
+
+279
+00:21:23,031 --> 00:21:25,242
+(MALE ANCHOR) After three weeks
 of investigations,
 
-254
-00:21:05,320 --> 00:21:08,120
+280
+00:21:25,325 --> 00:21:28,120
 there's little in the way
 of solid leads that I'm aware of.
 
-255
-00:21:08,200 --> 00:21:10,370
+281
+00:21:28,203 --> 00:21:30,372
 The public is looking for reassurance.
 
-256
-00:21:10,830 --> 00:21:14,160
+282
+00:21:30,831 --> 00:21:34,167
 One leading politician
 who somberly may have answers,
 
-257
-00:21:14,250 --> 00:21:17,170
+283
+00:21:34,251 --> 00:21:37,170
 lies uncomfortably
 at the center of this storm.
 
-258
-00:21:17,250 --> 00:21:19,840
+284
+00:21:37,254 --> 00:21:39,840
 We go now to an interview
 I recorded earlier in Belfast
 
-259
-00:21:19,920 --> 00:21:21,710
+285
+00:21:39,923 --> 00:21:41,717
 with Deputy Minister Liam Hennessy.
 
-260
-00:21:23,260 --> 00:21:24,590
+286
+00:21:43,260 --> 00:21:44,594
 Deputy Minister Hennessy,
 
-261
-00:21:24,670 --> 00:21:26,630
+287
+00:21:44,678 --> 00:21:46,638
 you've publicly condemned the bombings.
 
-262
-00:21:26,720 --> 00:21:28,550
+288
+00:21:46,722 --> 00:21:48,557
 Yet, as a former leader of Sinn Fein
 
-263
-00:21:28,640 --> 00:21:30,220
+289
+00:21:48,640 --> 00:21:50,225
 and a member of the IRA,
 
-264
-00:21:30,300 --> 00:21:32,850
+290
+00:21:50,309 --> 00:21:52,853
 you took part in similar events years ago.
 
-265
-00:21:32,930 --> 00:21:37,230
+291
+00:21:52,936 --> 00:21:57,232
 What's the essential difference between
 those acts you were involved in then
 
-266
-00:21:37,310 --> 00:21:39,400
+292
+00:21:57,316 --> 00:21:59,401
 and what's happened in London recently?
 
-267
-00:21:39,480 --> 00:21:43,280
+293
+00:21:59,484 --> 00:22:03,280
 Hope. We had none,
 just years of vengeance.
 
-268
-00:21:44,530 --> 00:21:46,490
+294
+00:22:03,363 --> 00:22:04,448
+(KNOCKING ON DOOR)
+
+295
+00:22:04,531 --> 00:22:06,491
 We needed to break the cycle,
 
-269
-00:21:46,570 --> 00:21:49,700
+296
+00:22:06,575 --> 00:22:09,703
 so we committed
 to a political path which lead to...
 
-270
-00:21:49,780 --> 00:21:50,950
-I've made you tea.
+297
+00:22:09,786 --> 00:22:10,954
+(SPEAKS CHINESE) I've made you tea.
 
-271
-00:21:52,370 --> 00:21:53,950
-So, if you say "hope,"
+298
+00:22:12,372 --> 00:22:13,957
+(ANCHOR) So, if you say "hope,"
 
-272
-00:21:54,040 --> 00:21:57,370
+299
+00:22:14,041 --> 00:22:17,377
 why are these IRA men,
 who come from your own ranks,
 
-273
-00:21:57,460 --> 00:21:59,370
+300
+00:22:17,461 --> 00:22:19,379
 returning to the bombings?
 
-274
-00:21:59,460 --> 00:22:04,000
-I can say with reasonable certainty
+301
+00:22:19,463 --> 00:22:24,009
+(LIAM) I can say with reasonable certainty
 that the IRA are not behind this.
 
-275
-00:22:04,210 --> 00:22:07,340
+302
+00:22:24,217 --> 00:22:27,345
 They stand firmly behind
 the agreement and the promises...
 
-276
-00:22:07,420 --> 00:22:09,130
+303
+00:22:27,429 --> 00:22:29,139
+(SPEAKS CHINESE)
 You can't be like this anymore.
 
-277
-00:22:09,220 --> 00:22:10,760
+304
+00:22:29,222 --> 00:22:30,766
 You should eat something.
 
-278
-00:22:12,850 --> 00:22:14,390
+305
+00:22:31,850 --> 00:22:32,768
+(SIGHS)
+
+306
+00:22:32,851 --> 00:22:34,394
 I'm getting you some noodles.
 
-279
-00:22:17,730 --> 00:22:20,350
-So, you're saying
+307
+00:22:37,731 --> 00:22:40,358
+(ANCHOR) So, you're saying
 possibly it's a financial problem
 
-280
-00:22:20,440 --> 00:22:21,940
+308
+00:22:40,442 --> 00:22:41,943
 rather than a political one.
 
-281
-00:22:22,690 --> 00:22:25,980
+309
+00:22:42,694 --> 00:22:45,989
 People look for scapegoats, for a way out.
 
-282
-00:22:26,070 --> 00:22:28,030
+310
+00:22:46,073 --> 00:22:48,033
 And for some, they are more than happy
 
-283
-00:22:28,110 --> 00:22:31,320
+311
+00:22:48,116 --> 00:22:51,328
 to resort to violence,
 to upset the status quo.
 
-284
-00:22:38,330 --> 00:22:42,500
+312
+00:22:58,335 --> 00:23:02,506
 Prepared for your signature.
 They absolutely must be signed now.
 
-285
-00:22:42,580 --> 00:22:45,130
-What's the latest reaction
+313
+00:23:02,589 --> 00:23:05,133
+(CLEARS THROAT) What's the latest reaction
 on social media?
 
-286
-00:22:45,210 --> 00:22:47,590
+314
+00:23:05,217 --> 00:23:07,594
 Same as before. Fear and anger.
 
-287
-00:22:47,670 --> 00:22:49,010
+315
+00:23:07,677 --> 00:23:09,012
 Anger directed at whom?
 
-288
-00:22:49,090 --> 00:22:51,130
+316
+00:23:09,096 --> 00:23:11,139
 From the Prime Minister on down.
 
-289
-00:22:51,640 --> 00:22:53,930
+317
+00:23:11,640 --> 00:23:13,934
 CNN and The Irish Times
 want interviews with you.
 
-290
-00:22:54,100 --> 00:22:56,010
+318
+00:23:14,101 --> 00:23:16,019
 You can do tonight
 or tomorrow morning at 8:00.
 
-291
-00:22:56,100 --> 00:22:58,310
+319
+00:23:16,103 --> 00:23:18,313
 Tomorrow morning by phone. What else?
 
-292
-00:22:58,730 --> 00:23:00,480
+320
+00:23:18,730 --> 00:23:20,482
 You've a call waitin' on Line Two.
 
-293
-00:23:00,560 --> 00:23:02,810
+321
+00:23:20,565 --> 00:23:22,818
 - Waiting?
 - For 30 minutes now.
 
-294
-00:23:02,900 --> 00:23:05,770
+322
+00:23:22,901 --> 00:23:25,779
 A Mr. Quan from London, very insistent.
 
-295
-00:23:05,860 --> 00:23:09,070
+323
+00:23:25,862 --> 00:23:29,074
 - What does he want?
 - His daughter was killed in the bombing.
 
-296
-00:23:09,150 --> 00:23:12,240
+324
+00:23:29,157 --> 00:23:32,244
 I tried my best to console him,
 but he really just wants to speak to you.
 
-297
-00:23:12,320 --> 00:23:15,330
+325
+00:23:32,327 --> 00:23:35,330
 - He saw ya on TV.
 - Oh, Christ, Beth.
 
-298
-00:23:15,410 --> 00:23:17,790
+326
+00:23:35,413 --> 00:23:37,791
 Civic duty. Take it and be done.
 
-299
-00:23:23,130 --> 00:23:25,840
+327
+00:23:39,251 --> 00:23:41,128
+- (SIGHS)
+- (DOOR SHUTS)
+
+328
+00:23:41,211 --> 00:23:42,045
+(CLEARS THROAT)
+
+329
+00:23:43,130 --> 00:23:45,841
 This is Liam Hennessy. How may I help you?
 
-300
-00:23:25,920 --> 00:23:29,260
-Mr. Hennessy,
+330
+00:23:45,924 --> 00:23:49,261
+(QUAN) Mr. Hennessy,
 tell me who killed my daughter?
 
-301
-00:23:29,510 --> 00:23:32,720
+331
+00:23:49,511 --> 00:23:52,722
 What on Earth makes you think
 I know who killed your daughter?
 
-302
-00:23:33,340 --> 00:23:35,850
+332
+00:23:53,348 --> 00:23:55,851
 Because, you are the First Deputy Minister
 
-303
-00:23:36,010 --> 00:23:39,640
+333
+00:23:56,017 --> 00:23:59,646
 and advisor to Sinn Fein,
 and a former IRA member.
 
-304
-00:23:40,520 --> 00:23:44,350
+334
+00:24:00,522 --> 00:24:04,359
 I am truly sad for your loss, Mr. Quan.
 I have a daughter myself.
 
-305
-00:23:44,440 --> 00:23:47,440
+335
+00:24:04,442 --> 00:24:07,445
 And I condemn these acts of violence,
 but I can't help you.
 
-306
-00:23:47,770 --> 00:23:49,230
+336
+00:24:07,779 --> 00:24:09,239
 Then please tell me someone
 
-307
-00:23:49,320 --> 00:23:52,610
+337
+00:24:09,322 --> 00:24:12,617
 who might know the names of the bombers,
 someone I can talk to.
 
-308
-00:23:53,740 --> 00:23:56,990
+338
+00:24:13,743 --> 00:24:16,997
 I don't have any connections
 to those sorts of people. I'm sorry.
 
-309
-00:23:57,080 --> 00:23:59,160
+339
+00:24:17,080 --> 00:24:19,166
 I don't believe you, Mr. Hennessy.
 
-310
-00:23:59,240 --> 00:24:01,250
+340
+00:24:19,249 --> 00:24:21,251
 You are very powerful man.
 
-311
-00:24:01,330 --> 00:24:04,670
+341
+00:24:21,334 --> 00:24:24,671
 Well, I work for the government
 and our elected officials.
 
-312
-00:24:04,750 --> 00:24:06,670
+342
+00:24:24,754 --> 00:24:26,673
 I do not work for terrorists.
 
-313
-00:24:07,130 --> 00:24:11,460
+343
+00:24:27,132 --> 00:24:31,469
 IRA politics and terrorism
 are different ends of the same snake.
 
-314
-00:24:12,050 --> 00:24:14,340
+344
+00:24:32,053 --> 00:24:34,347
 Whichever end you grab,
 you still grab a snake.
 
-315
-00:24:14,550 --> 00:24:17,050
+345
+00:24:34,556 --> 00:24:37,058
 It makes a great deal
 of difference which end you grab,
 
-316
-00:24:17,140 --> 00:24:18,850
+346
+00:24:37,142 --> 00:24:38,852
 because one end will bite.
 
-317
-00:24:19,640 --> 00:24:23,560
+347
+00:24:39,644 --> 00:24:43,565
 Again, I'm sorry for your loss, Mr. Quan.
 
-318
-00:24:23,640 --> 00:24:24,640
+348
+00:24:43,648 --> 00:24:44,649
 Good day.
 
-319
-00:25:16,110 --> 00:25:17,320
-What are you doing?
+349
+00:25:29,402 --> 00:25:30,403
+(KNOCK ON DOOR)
 
-320
-00:25:19,240 --> 00:25:21,160
+350
+00:25:30,487 --> 00:25:31,738
+(DOOR OPENS)
+
+351
+00:25:36,117 --> 00:25:37,327
+(SPEAKS CHINESE) What are you doing?
+
+352
+00:25:39,246 --> 00:25:41,164
 You have to stop this.
 
-321
-00:25:24,620 --> 00:25:26,330
+353
+00:25:44,626 --> 00:25:46,336
 This wasn't your fault.
 
-322
-00:25:28,580 --> 00:25:30,590
-I failed them.
+354
+00:25:48,588 --> 00:25:50,590
+(SPEAKS CHINESE) I failed them.
 
-323
-00:25:36,340 --> 00:25:37,720
+355
+00:25:56,346 --> 00:25:57,722
 What's this?
 
-324
-00:25:38,050 --> 00:25:40,850
+356
+00:25:58,056 --> 00:26:00,850
+(SPEAKS CHINESE)
 The restaurant is now yours.
 
-325
-00:25:41,550 --> 00:25:44,720
+357
+00:26:01,559 --> 00:26:04,729
 You've been a good friend to me, Lam.
 
-326
-00:25:46,230 --> 00:25:47,640
+358
+00:26:06,231 --> 00:26:07,649
 No more of this talk.
 
-327
-00:25:48,980 --> 00:25:50,060
+359
+00:26:08,984 --> 00:26:10,068
 Look at me.
 
-328
-00:25:54,190 --> 00:25:57,240
+360
+00:26:14,197 --> 00:26:17,242
 I'm not going home. I'm staying the night.
 I will sleep on the couch.
 
-329
-00:25:57,450 --> 00:25:59,860
+361
+00:26:17,450 --> 00:26:19,869
 And on Monday,
 I'm taking you to see someone.
 
-330
-00:25:59,990 --> 00:26:02,910
+362
+00:26:19,995 --> 00:26:22,914
 Someone to help you.
 But no more of this talk. OK?
 
-331
-00:26:07,620 --> 00:26:10,790
-Quan!
+363
+00:26:27,627 --> 00:26:30,797
+- Quan!
+- (CAR ENGINE STARTS)
 
-332
-00:27:17,940 --> 00:27:21,030
-I've been calling you
+364
+00:26:46,730 --> 00:26:48,231
+(CELL PHONE RINGING)
+
+365
+00:27:37,947 --> 00:27:41,034
+(SPEAKS CHINESE) I've been calling you
 all night. Where were you?
 
-333
-00:27:21,400 --> 00:27:22,860
+366
+00:27:41,409 --> 00:27:42,869
 What are you going to do?
 
-334
-00:27:24,910 --> 00:27:26,120
+367
+00:27:43,995 --> 00:27:44,829
+(ENGINE STARTS)
+
+368
+00:27:44,913 --> 00:27:46,122
 When will you come back?
 
-335
-00:28:36,560 --> 00:28:37,940
+369
+00:28:56,568 --> 00:28:57,944
 You have a room?
 
-336
-00:28:38,020 --> 00:28:41,110
+370
+00:28:58,027 --> 00:29:01,114
 These are important documents
 that we must have today.
 
-337
-00:28:41,940 --> 00:28:43,780
+371
+00:29:01,948 --> 00:29:03,783
 Yes, I will keep trying
 the sender because,
 
-338
-00:28:43,860 --> 00:28:46,610
+372
+00:29:03,867 --> 00:29:06,619
 apparently there's nothing else I can do,
 which I find strange
 
-339
-00:28:46,700 --> 00:28:49,240
+373
+00:29:06,703 --> 00:29:09,247
 and certainly not the service
 I've come to expect.
 
-340
-00:28:50,290 --> 00:28:54,460
+374
+00:29:10,290 --> 00:29:14,461
 Yes, 329174-N for November.
 
-341
-00:28:55,620 --> 00:28:57,960
+375
+00:29:15,628 --> 00:29:17,964
 You tell your supervisor
 I'll be calling back.
 
-342
-00:28:58,170 --> 00:28:59,170
+376
+00:29:18,173 --> 00:29:19,174
 Good day.
 
-343
-00:29:00,670 --> 00:29:02,170
+377
+00:29:20,675 --> 00:29:22,177
 Yes? May I help you?
 
-344
-00:29:02,550 --> 00:29:04,970
+378
+00:29:22,552 --> 00:29:24,971
 Please, I would like to
 speak to Mr. Hennessy.
 
-345
-00:29:05,130 --> 00:29:07,340
+379
+00:29:25,138 --> 00:29:27,348
 - And your name?
 - Ngoc Minh Quan.
 
-346
-00:29:08,260 --> 00:29:09,470
+380
+00:29:28,266 --> 00:29:29,476
 You're the one who's been phoning.
 
-347
-00:29:09,930 --> 00:29:11,560
-Yes. I phoned many times.
+381
+00:29:29,934 --> 00:29:31,561
+(QUAN) Yes. I phoned many times.
 
-348
-00:29:12,560 --> 00:29:15,270
+382
+00:29:32,562 --> 00:29:35,273
 I'm afraid the Deputy Minister is busy
 and won't be able to see you.
 
-349
-00:29:16,520 --> 00:29:19,110
+383
+00:29:36,524 --> 00:29:39,110
 - I will wait.
 - No, you must leave.
 
-350
-00:29:19,690 --> 00:29:21,360
+384
+00:29:39,694 --> 00:29:41,362
 Best do as the lady says.
 
-351
-00:29:21,940 --> 00:29:24,280
+385
+00:29:41,946 --> 00:29:44,282
 He's been phoning up
 at all hours asking for Liam.
 
-352
-00:29:24,400 --> 00:29:25,280
+386
+00:29:44,407 --> 00:29:45,283
 He won't take no for an answer.
 
-353
-00:29:25,360 --> 00:29:26,400
+387
+00:29:45,366 --> 00:29:46,409
 Just groceries.
 
-354
-00:29:28,620 --> 00:29:31,280
+388
+00:29:48,620 --> 00:29:51,289
 Go now, before we make ya.
 
-355
-00:29:33,160 --> 00:29:35,290
+389
+00:29:53,166 --> 00:29:55,293
 - No. I'm wait.
-- Right.
+- (KAVANAGH) Right.
 
-356
-00:29:41,960 --> 00:29:44,210
+390
+00:30:01,966 --> 00:30:04,219
 It's the man who's been
 phoning you from London.
 
-357
-00:29:44,300 --> 00:29:47,180
+391
+00:30:04,302 --> 00:30:07,180
 He's got a knife on him.
 One of those Swiss Army types.
 
-358
-00:29:48,430 --> 00:29:50,390
+392
+00:30:08,431 --> 00:30:10,391
 Well, take it off him.
 
-359
-00:29:50,800 --> 00:29:53,850
+393
+00:30:10,809 --> 00:30:13,853
 Jesus, how much damage
 can he do with you two around?
 
-360
-00:29:54,180 --> 00:29:55,270
+394
+00:30:14,187 --> 00:30:15,271
 Let him be.
 
-361
-00:29:56,140 --> 00:29:57,600
-As I explained before...
+395
+00:30:16,147 --> 00:30:17,607
+- (LIAM) As I explained before...
+- (DOOR CLOSES)
 
-362
-00:29:57,690 --> 00:29:59,770
+396
+00:30:17,690 --> 00:30:19,776
 ...I don't know who the bombers are.
 
-363
-00:29:59,850 --> 00:30:02,690
+397
+00:30:19,859 --> 00:30:22,695
 I realize you're angry,
 but there's not much I can do.
 
-364
-00:30:02,940 --> 00:30:05,320
+398
+00:30:22,946 --> 00:30:25,323
 It's also very dangerous
 for you to be here.
 
-365
-00:30:06,440 --> 00:30:09,990
+399
+00:30:26,449 --> 00:30:29,994
 People in Belfast
 won't take kindly to your accusations.
 
-366
-00:30:10,740 --> 00:30:12,490
+400
+00:30:30,745 --> 00:30:32,497
 If you do not know who they are,
 
-367
-00:30:13,540 --> 00:30:15,290
+401
+00:30:33,540 --> 00:30:35,291
 I would like you to please find out.
 
-368
-00:30:21,130 --> 00:30:23,840
+402
+00:30:38,378 --> 00:30:40,088
+(LIAM SIGHS)
+
+403
+00:30:41,130 --> 00:30:43,842
 I haven't been affiliated
 with the IRA for 30 years.
 
-369
-00:30:23,920 --> 00:30:27,050
+404
+00:30:43,925 --> 00:30:47,053
 When I was,
 I fought hard against the violence.
 
-370
-00:30:27,130 --> 00:30:29,340
+405
+00:30:47,136 --> 00:30:49,347
 I went to prison
 for what I did and paid my debt.
 
-371
-00:30:30,130 --> 00:30:32,890
+406
+00:30:50,139 --> 00:30:52,892
 Now I serve the politics of both sides,
 
-372
-00:30:32,970 --> 00:30:35,390
+407
+00:30:52,976 --> 00:30:55,395
 trying to heal the wounds
 and bridge the divide.
 
-373
-00:30:36,720 --> 00:30:42,150
+408
+00:30:56,729 --> 00:31:02,151
 Again, my sincere condolences,
 but there's nothing I can do.
 
-374
-00:30:42,900 --> 00:30:45,900
+409
+00:31:02,902 --> 00:31:05,905
 What if your wife and daughter
 were killed by bomb?
 
-375
-00:30:48,530 --> 00:30:51,280
+410
+00:31:08,533 --> 00:31:11,286
 I'd do everything in my power
 to get justice.
 
-376
-00:30:51,660 --> 00:30:55,030
+411
+00:31:11,661 --> 00:31:15,039
 So, I've chosen you, Mr. Hennessy.
 
-377
-00:30:55,620 --> 00:30:57,950
+412
+00:31:15,623 --> 00:31:17,959
 You will tell me who killed my child.
 
-378
-00:30:58,040 --> 00:31:01,370
+413
+00:31:18,042 --> 00:31:21,379
 Again, I don't know.
 
-379
-00:31:05,000 --> 00:31:06,550
+414
+00:31:25,008 --> 00:31:26,551
 You will change your mind.
 
-380
-00:31:10,050 --> 00:31:13,050
+415
+00:31:30,054 --> 00:31:33,057
 Thank you for seeing me,
 First Minister Hennessy.
 
-381
-00:32:28,170 --> 00:32:30,670
+416
+00:31:38,229 --> 00:31:42,400
+(DOOR OPENS AND CLOSES)
+
+417
+00:32:13,348 --> 00:32:14,390
+(BLOWS)
+
+418
+00:32:46,422 --> 00:32:47,382
+(DOOR OPENS)
+
+419
+00:32:48,174 --> 00:32:50,677
 I'm sorry, Liam. He took me by surprise.
 
-382
-00:32:40,470 --> 00:32:43,140
+420
+00:32:57,850 --> 00:32:59,477
+(FIRE ALARM RINGING)
+
+421
+00:33:00,478 --> 00:33:03,147
 You're OK, Beth. OK, you're OK.
 
-383
-00:32:43,230 --> 00:32:44,940
-Take her, take her.
+422
+00:33:03,231 --> 00:33:04,941
+- Take her, take her.
+- (BETH GASPING)
 
-384
-00:32:45,020 --> 00:32:47,610
+423
+00:33:05,024 --> 00:33:07,610
 - Murphy, have the boys check the building.
-- Right.
+- (MURPHY) Right.
 
-385
-00:32:47,980 --> 00:32:48,980
+424
+00:33:07,986 --> 00:33:08,987
 Jesus.
 
-386
-00:33:01,910 --> 00:33:03,660
+425
+00:33:15,076 --> 00:33:17,078
+(INDISTINCT RADIO CHATTER)
+
+426
+00:33:18,454 --> 00:33:19,539
+(CAMERA SHUTTER CLICKS)
+
+427
+00:33:21,916 --> 00:33:23,668
 Would you like a whiskey, Inspector?
 
-387
-00:33:04,250 --> 00:33:05,920
+428
+00:33:24,252 --> 00:33:25,920
 No, thank you.
 
-388
-00:33:09,500 --> 00:33:12,590
+429
+00:33:29,507 --> 00:33:32,593
 I suppose it would be a waste of time
 asking who might've done this.
 
-389
-00:33:13,970 --> 00:33:15,720
+430
+00:33:33,970 --> 00:33:35,722
 No one comes to mind.
 
-390
-00:33:17,050 --> 00:33:20,720
+431
+00:33:37,056 --> 00:33:40,727
 Well, it appears to have been
 nothing more than a warning.
 
-391
-00:33:21,100 --> 00:33:23,060
+432
+00:33:41,102 --> 00:33:43,062
 Fortunately, it wasn't a serious bomb.
 
-392
-00:33:23,770 --> 00:33:26,100
+433
+00:33:43,771 --> 00:33:46,107
 If it had been, we wouldn't
 be here talking, would we?
 
-393
-00:33:27,850 --> 00:33:31,860
+434
+00:33:47,859 --> 00:33:51,863
 Feel free to reach out,
 should you have the unexpected urge.
 
-394
-00:33:33,070 --> 00:33:35,650
+435
+00:33:53,072 --> 00:33:55,658
 I'll feed the press a gas leak story
 in the meantime.
 
-395
-00:33:36,240 --> 00:33:38,950
+436
+00:33:56,242 --> 00:33:58,953
 Fair enough. Thanks very much, Inspector.
 
-396
-00:33:41,700 --> 00:33:42,700
+437
+00:33:59,787 --> 00:34:01,622
+(PHONE RINGING)
+
+438
+00:34:01,706 --> 00:34:02,707
 Hello?
 
-397
-00:33:45,500 --> 00:33:46,500
+439
+00:34:05,501 --> 00:34:06,502
 It's him.
 
-398
-00:33:52,670 --> 00:33:55,470
+440
+00:34:12,675 --> 00:34:15,470
 You come to my office
 and plant a fucking bomb?
 
-399
-00:33:55,720 --> 00:33:57,930
+441
+00:34:15,720 --> 00:34:17,930
 - Have you changed your mind?
-- Changed my mind?
+- (LIAM) Changed my mind?
 
-400
-00:33:58,010 --> 00:34:00,090
+442
+00:34:18,014 --> 00:34:20,099
 Are you out of your fuckin' tree?
 
-401
-00:34:00,180 --> 00:34:02,310
+443
+00:34:20,183 --> 00:34:22,310
 You have no idea who you're dealing with.
 
-402
-00:34:02,390 --> 00:34:03,600
+444
+00:34:22,393 --> 00:34:23,603
 But you'll soon find out.
 
-403
-00:34:03,680 --> 00:34:04,850
+445
+00:34:23,686 --> 00:34:24,854
 Give me the names.
 
-404
-00:34:04,930 --> 00:34:07,480
-I'll tell you what.
+446
+00:34:24,937 --> 00:34:27,482
+(LIAM) I'll tell you what.
 Let's meet face-to-face.
 
-405
-00:34:07,560 --> 00:34:08,390
+447
+00:34:27,565 --> 00:34:28,399
 We'll settle...
 
-406
-00:34:10,400 --> 00:34:12,900
+448
+00:34:30,401 --> 00:34:32,904
 The fuckin' wanker
 threatened me and hung up.
 
-407
-00:34:16,070 --> 00:34:18,820
+449
+00:34:36,074 --> 00:34:38,826
 Right. Let's check all the hotels
 and guest houses.
 
-408
-00:34:18,910 --> 00:34:20,360
+450
+00:34:38,910 --> 00:34:40,369
 He won't be hard to find.
 
-409
-00:34:22,950 --> 00:34:23,990
+451
+00:34:42,955 --> 00:34:43,998
 Fuckin' Chinaman.
 
-410
-00:34:28,290 --> 00:34:30,000
+452
+00:34:44,082 --> 00:34:45,708
+(CELL PHONE RINGING)
+
+453
+00:34:48,294 --> 00:34:50,004
 Uncle Liam? What's up?
 
-411
-00:34:35,250 --> 00:34:36,260
+454
+00:34:50,880 --> 00:34:53,091
+(SIREN WAILS)
+
+455
+00:34:55,259 --> 00:34:56,260
 I'll be there.
 
-412
-00:35:47,870 --> 00:35:50,370
+456
+00:35:10,942 --> 00:35:12,151
+(BREATHING HEAVILY)
+
+457
+00:35:12,443 --> 00:35:13,903
+(GRUNTS)
+
+458
+00:35:13,986 --> 00:35:16,072
+(BREATHING HEAVILY)
+
+459
+00:35:18,533 --> 00:35:19,867
+(EXHALES FORCEFULLY)
+
+460
+00:35:47,937 --> 00:35:49,647
+(CELL PHONE CHIMES)
+
+461
+00:35:49,730 --> 00:35:52,233
+- (TIRES SCREECH)
+- (CAR UNLOCKS)
+
+462
+00:36:07,874 --> 00:36:10,376
 Stop! Hold it, hold it,
 hold it! Don't move!
 
-413
-00:35:50,450 --> 00:35:53,670
+463
+00:36:10,459 --> 00:36:13,671
 Don't move! She's wired to blow!
 
-414
-00:36:32,000 --> 00:36:34,290
-Two sets of wires
+464
+00:36:14,839 --> 00:36:16,966
+(EXHALES)
+
+465
+00:36:49,582 --> 00:36:50,583
+(EXHALES)
+
+466
+00:36:52,001 --> 00:36:54,295
+(KAVANAGH) Two sets of wires
 ten-foot long,
 
-415
-00:36:34,370 --> 00:36:37,080
+467
+00:36:54,378 --> 00:36:57,089
 soldered to that light bulb
 and covered with ground-up match heads.
 
-416
-00:36:37,920 --> 00:36:39,710
+468
+00:36:57,924 --> 00:36:59,717
 Gives an extra kick.
 
-417
-00:36:40,090 --> 00:36:42,170
+469
+00:37:00,092 --> 00:37:02,178
 Not needed, but a nice touch.
 
-418
-00:36:42,670 --> 00:36:44,800
+470
+00:37:02,678 --> 00:37:04,805
 Crude, effective, and easy to spot.
 
-419
-00:36:44,880 --> 00:36:46,470
+471
+00:37:04,889 --> 00:37:06,474
 So, he wanted us to see it.
 
-420
-00:36:46,640 --> 00:36:48,760
-Well, it wasn't in the tank,
+472
+00:37:06,641 --> 00:37:08,768
+(KAVANAGH) Well, it wasn't in the tank,
 so it wouldn't have worked.
 
-421
-00:36:49,220 --> 00:36:51,020
+473
+00:37:09,227 --> 00:37:11,020
 He just wants you to know
 he can get to ya.
 
-422
-00:36:53,560 --> 00:36:54,560
+474
+00:37:11,103 --> 00:37:12,355
+(CELL PHONE RINGING)
+
+475
+00:37:13,564 --> 00:37:14,565
 Micky.
 
-423
-00:36:55,900 --> 00:36:58,940
+476
+00:37:15,900 --> 00:37:18,945
 We found him.
 A B&amp;B in Wellington Park.
 
-424
-00:36:59,730 --> 00:37:01,400
-- They found him.
+477
+00:37:19,737 --> 00:37:21,405
+- (KAVANAGH) They found him.
 - Grab him.
 
-425
-00:37:01,480 --> 00:37:04,780
+478
+00:37:21,489 --> 00:37:24,784
 Drag him out of Belfast.
 Discourage him from returning.
 
-426
-00:37:05,280 --> 00:37:06,570
-Wait for me. I'm on my way.
+479
+00:37:25,284 --> 00:37:26,577
+(KAVANAGH) Wait for me. I'm on my way.
 
-427
-00:37:08,570 --> 00:37:10,240
-Hello.
+480
+00:37:26,661 --> 00:37:27,912
+(CELL PHONE VIBRATING)
 
-428
-00:37:10,330 --> 00:37:12,540
-I hear your office was bombed.
+481
+00:37:28,579 --> 00:37:30,248
+(SIGHS) Hello.
 
-429
-00:37:12,620 --> 00:37:16,000
-Hardly.
+482
+00:37:30,331 --> 00:37:32,541
+(DAVIES) I hear your office was bombed.
+
+483
+00:37:32,625 --> 00:37:36,003
+(LAUGHS) Hardly.
 It was the toilet in the hall.
 
-430
-00:37:16,330 --> 00:37:18,750
+484
+00:37:36,337 --> 00:37:38,756
 An Asian man in his 60s with a grudge.
 
-431
-00:37:19,000 --> 00:37:20,250
+485
+00:37:39,006 --> 00:37:40,258
 It's all being taken care of.
 
-432
-00:37:20,460 --> 00:37:21,460
+486
+00:37:40,466 --> 00:37:41,467
 Why'd he do it?
 
-433
-00:37:21,550 --> 00:37:25,130
-His child died in the bank bombing.
+487
+00:37:41,550 --> 00:37:45,137
+(LIAM) His child died in the bank bombing.
 He thinks I know who did it.
 
-434
-00:37:25,220 --> 00:37:27,090
+488
+00:37:45,221 --> 00:37:47,098
 He's not the only one of that mind.
 
-435
-00:37:27,390 --> 00:37:30,890
+489
+00:37:47,390 --> 00:37:50,893
 - So, where are we with the pardons?
-- Lots of resistance.
+- (DAVIES) Lots of resistance.
 
-436
-00:37:31,060 --> 00:37:34,520
+490
+00:37:51,060 --> 00:37:54,522
 But, if you give us something useful,
 things might turn in your favor.
 
-437
-00:37:34,680 --> 00:37:37,350
+491
+00:37:54,689 --> 00:37:57,358
 I may have a lead. I'm pursuing it.
 
-438
-00:37:38,850 --> 00:37:41,940
+492
+00:37:58,859 --> 00:38:01,946
 Well, let's hope it bears fruit.
 People here want heads.
 
-439
-00:37:42,400 --> 00:37:44,740
+493
+00:38:02,405 --> 00:38:04,740
 The dogs won't stay leashed much longer.
 
-440
-00:37:56,660 --> 00:37:58,000
+494
+00:38:06,742 --> 00:38:07,785
+(TIRES SCREECH)
+
+495
+00:38:08,244 --> 00:38:09,370
+(CAR DOOR OPENS AND SHUT)
+
+496
+00:38:16,669 --> 00:38:18,004
 Top floor on the right.
 
-441
-00:40:05,040 --> 00:40:06,540
-Fuckin' get him!
+497
+00:38:33,644 --> 00:38:34,770
+(FOOTSTEPS)
 
-442
-00:40:32,280 --> 00:40:35,200
-Christ Almighty,
+498
+00:38:41,402 --> 00:38:42,403
+(MAN GRUNTS)
+
+499
+00:38:46,115 --> 00:38:47,408
+(GRUNTING)
+
+500
+00:38:50,494 --> 00:38:52,705
+- (SLAMMING DOOR)
+- (BREATHING HEAVILY)
+
+501
+00:38:57,043 --> 00:38:58,169
+(GLASS BREAKS)
+
+502
+00:39:05,426 --> 00:39:07,345
+(BOTH GRUNTING)
+
+503
+00:39:13,351 --> 00:39:14,352
+(SCREAMS)
+
+504
+00:39:18,856 --> 00:39:19,857
+(GRUNTS)
+
+505
+00:39:20,691 --> 00:39:23,527
+(GROANS)
+
+506
+00:39:31,285 --> 00:39:32,995
+(GRUNTING)
+
+507
+00:39:37,166 --> 00:39:38,709
+(GROANS)
+
+508
+00:39:39,668 --> 00:39:41,212
+(GROANS)
+
+509
+00:39:44,048 --> 00:39:45,049
+(GROANS)
+
+510
+00:39:48,219 --> 00:39:49,428
+(QUAN GRUNTING)
+
+511
+00:39:52,181 --> 00:39:53,182
+(QUAN YELLS)
+
+512
+00:39:55,101 --> 00:39:57,520
+(ALL GRUNTING)
+
+513
+00:40:11,450 --> 00:40:13,619
+(SCREAMS, GROANS)
+
+514
+00:40:15,329 --> 00:40:17,790
+(GROANING)
+
+515
+00:40:25,047 --> 00:40:26,549
+(MCMAHON) Fuckin' get him!
+
+516
+00:40:29,635 --> 00:40:30,636
+(QUAN YELLS)
+
+517
+00:40:33,848 --> 00:40:35,433
+(GRUNTING)
+
+518
+00:40:46,735 --> 00:40:50,072
+(KAVANAGH PANTING)
+
+519
+00:40:52,283 --> 00:40:55,202
+(LIAM) Christ Almighty,
 are you dumb and blind?
 
-443
-00:40:35,490 --> 00:40:37,660
+520
+00:40:55,494 --> 00:40:57,663
 An old man making fools
 out of the lot of you
 
-444
-00:40:37,740 --> 00:40:40,450
+521
+00:40:57,746 --> 00:41:00,458
 and he's still running around
 out there, for God's sake.
 
-445
-00:40:40,540 --> 00:40:42,790
+522
+00:41:00,541 --> 00:41:02,793
 You are four men. Four.
 
-446
-00:40:42,870 --> 00:40:44,830
+523
+00:41:02,877 --> 00:41:04,837
 We had him cornered,
 then he jumped off the roof
 
-447
-00:40:44,920 --> 00:40:46,670
+524
+00:41:04,920 --> 00:41:06,672
 and slid down like some fuckin' monkey.
 
-448
-00:40:46,750 --> 00:40:47,790
-What is goin' on?
+525
+00:41:06,755 --> 00:41:07,798
+(MARY) What is goin' on?
 
-449
-00:40:50,500 --> 00:40:53,010
+526
+00:41:08,549 --> 00:41:09,467
+(LIAM BREATHES HEAVILY)
+
+527
+00:41:10,509 --> 00:41:13,012
 Pack your bag. You're going to the farm.
 
-450
-00:40:54,430 --> 00:40:55,430
+528
+00:41:14,430 --> 00:41:15,431
 Go on.
 
-451
-00:40:56,010 --> 00:40:57,180
+529
+00:41:16,015 --> 00:41:17,183
 Get your things.
 
-452
-00:41:01,770 --> 00:41:03,560
-- You all right, Sean?
+530
+00:41:17,266 --> 00:41:19,518
+(DOORBELL RINGS)
+
+531
+00:41:20,603 --> 00:41:21,687
+(DOOR OPENS)
+
+532
+00:41:21,770 --> 00:41:23,564
+- (CHRISTY) You all right, Sean?
 - Hi, Christy.
 
-453
-00:41:03,850 --> 00:41:05,270
+533
+00:41:23,856 --> 00:41:25,274
 Go on through, he's expecting ya.
 
-454
-00:41:09,570 --> 00:41:12,570
+534
+00:41:29,570 --> 00:41:32,573
 Beat ya up. Come on in
 and have a drink, for God's sake.
 
-455
-00:41:12,650 --> 00:41:14,200
+535
+00:41:32,656 --> 00:41:34,200
 Well, look at ya.
 
-456
-00:41:14,280 --> 00:41:16,160
+536
+00:41:34,283 --> 00:41:36,160
 - Jesus, the place looks well.
 - It's not bad, is it?
 
-457
-00:41:16,240 --> 00:41:18,200
-- No.
-- You're a sight for sore eyes.
+537
+00:41:36,243 --> 00:41:38,204
+- (SEAN) No.
+- (LIAM) You're a sight for sore eyes.
 
-458
-00:41:18,280 --> 00:41:19,780
+538
+00:41:38,287 --> 00:41:39,788
 So, how is New York treatin' ya?
 
-459
-00:41:19,870 --> 00:41:22,950
-- Ah, it's cold.
-- Uh-huh.
+539
+00:41:39,872 --> 00:41:42,958
+- (SEAN) Ah, it's cold.
+- (LIAM) Uh-huh.
 
-460
-00:41:23,620 --> 00:41:26,920
+540
+00:41:43,626 --> 00:41:46,921
 Look, Murphy filled me in, there.
 That bloody Chinaman.
 
-461
-00:41:27,000 --> 00:41:29,460
-He set off a bomb in my office,
+541
+00:41:47,004 --> 00:41:49,465
+(CHUCKLES) He set off a bomb in my office,
 
-462
-00:41:29,540 --> 00:41:32,130
+542
+00:41:49,548 --> 00:41:52,134
 put one in my Jag, and beat the bejesus
 out of Mick and Jimmy.
 
-463
-00:41:32,210 --> 00:41:37,800
-- Do you want me to handle him?
+543
+00:41:52,218 --> 00:41:57,806
+- (SEAN) Do you want me to handle him?
 - No. That's Kavanagh's problem.
 
-464
-00:41:39,680 --> 00:41:42,600
+544
+00:41:59,683 --> 00:42:02,603
 I need your help with the London bombing.
 
-465
-00:41:44,230 --> 00:41:45,980
+545
+00:42:04,230 --> 00:42:05,981
 Any idea who's behind it yet?
 
-466
-00:41:48,270 --> 00:41:49,270
+546
+00:42:08,275 --> 00:42:09,276
 Not at all.
 
-467
-00:41:50,440 --> 00:41:52,570
+547
+00:42:10,444 --> 00:42:12,571
 - Well, the Yanks aren't happy, Liam.
-- Mm...
+- (LIAM) Mm...
 
-468
-00:41:52,650 --> 00:41:54,280
-Dead women and kids
+548
+00:42:12,655 --> 00:42:14,281
+(SEAN) Dead women and kids
 all over the news.
 
-469
-00:41:54,360 --> 00:41:55,900
+549
+00:42:14,365 --> 00:42:15,908
 Any fundraising now is impossible.
 
-470
-00:41:55,990 --> 00:41:58,820
+550
+00:42:15,991 --> 00:42:18,827
 Yeah, this is not about fundraising, Sean.
 
-471
-00:41:58,910 --> 00:42:01,160
+551
+00:42:18,911 --> 00:42:21,163
 I need you to go to London
 and meet someone...
 
-472
-00:42:02,240 --> 00:42:05,750
+552
+00:42:22,248 --> 00:42:25,751
 A Richard Bromley in SO15.
 
-473
-00:42:07,120 --> 00:42:08,170
+553
+00:42:27,127 --> 00:42:28,170
 SO15?
 
-474
-00:42:08,250 --> 00:42:10,500
+554
+00:42:28,254 --> 00:42:30,506
 He needs to know the bombings aren't ours,
 
-475
-00:42:10,580 --> 00:42:13,710
+555
+00:42:30,589 --> 00:42:33,717
 and that we're working the problem hard,
 but we need his help.
 
-476
-00:42:13,960 --> 00:42:14,800
+556
+00:42:33,968 --> 00:42:34,802
 Why me?
 
-477
-00:42:14,880 --> 00:42:17,720
+557
+00:42:34,885 --> 00:42:37,721
 You're a decorated Ranger
 in the Royal Irish Regiment.
 
-478
-00:42:18,340 --> 00:42:22,260
+558
+00:42:38,347 --> 00:42:42,268
 Bromley will respect you as much
 as he's capable of respecting any of us.
 
-479
-00:42:23,100 --> 00:42:26,680
+559
+00:42:43,102 --> 00:42:46,689
 Should anyone find out
 that we're talking to the Brits,
 
-480
-00:42:26,770 --> 00:42:29,850
+560
+00:42:46,772 --> 00:42:49,858
 to go after one of our own, rogue or not,
 
-481
-00:42:30,520 --> 00:42:32,020
+561
+00:42:50,526 --> 00:42:52,027
 there'll be the devil to pay.
 
-482
-00:42:33,980 --> 00:42:35,780
+562
+00:42:53,988 --> 00:42:55,781
 So, can I count on you, Sean...
 
-483
-00:42:36,360 --> 00:42:38,030
+563
+00:42:56,365 --> 00:42:58,033
 to be discreet?
 
-484
-00:42:39,570 --> 00:42:40,820
+564
+00:42:59,577 --> 00:43:00,828
 Of course.
 
-485
-00:43:26,870 --> 00:43:28,200
-Right this way, sir.
+565
+00:43:02,162 --> 00:43:04,415
+(CAR RADIO PLAYING)
 
-486
-00:43:28,290 --> 00:43:29,290
+566
+00:43:13,340 --> 00:43:14,508
+(GRUNTS)
+
+567
+00:43:29,315 --> 00:43:30,357
+(TIRES SCREECH)
+
+568
+00:43:46,874 --> 00:43:48,208
+(MAÃ®TRE D') Right this way, sir.
+
+569
+00:43:48,292 --> 00:43:49,293
 Thank you very much.
 
-487
-00:43:40,590 --> 00:43:41,720
+570
+00:44:00,596 --> 00:44:01,722
 You took your time.
 
-488
-00:43:42,800 --> 00:43:45,680
+571
+00:44:02,806 --> 00:44:05,684
 I just had to put out
 the odd fire here and there.
 
-489
-00:43:52,810 --> 00:43:53,940
+572
+00:44:12,816 --> 00:44:13,942
 I'll be back in a minute.
 
-490
-00:43:54,020 --> 00:43:55,020
+573
+00:44:14,026 --> 00:44:15,027
 I'll be right here.
 
-491
-00:44:08,990 --> 00:44:09,870
+574
+00:44:19,406 --> 00:44:21,116
+(CELL PHONE CHIMES)
+
+575
+00:44:28,999 --> 00:44:29,875
 Jesus.
 
-492
-00:44:38,400 --> 00:44:39,440
+576
+00:44:29,958 --> 00:44:31,627
+(CELL PHONE CHIMES)
+
+577
+00:44:58,404 --> 00:44:59,446
 Mr. Morrison.
 
-493
-00:44:43,280 --> 00:44:44,660
+578
+00:45:03,283 --> 00:45:04,660
 Commander Bromley.
 
-494
-00:44:46,990 --> 00:44:49,160
-- We're not responsible.
-- Really?
+579
+00:45:06,995 --> 00:45:09,164
+- (SEAN) We're not responsible.
+- (BROMLEY) Really?
 
-495
-00:44:49,240 --> 00:44:52,160
+580
+00:45:09,248 --> 00:45:12,167
 Forensic evidence and the use
 of your code word suggests otherwise.
 
-496
-00:44:52,290 --> 00:44:54,960
+581
+00:45:12,292 --> 00:45:14,962
 It's a renegade unit.
 We don't know who they are yet.
 
-497
-00:44:55,040 --> 00:44:56,880
+582
+00:45:15,045 --> 00:45:16,880
 You're telling me
 there's an active IRA unit
 
-498
-00:44:56,960 --> 00:44:58,210
+583
+00:45:16,964 --> 00:45:18,215
 on the loose you know nothing about?
 
-499
-00:44:58,290 --> 00:44:59,250
+584
+00:45:18,298 --> 00:45:19,258
 Yes, I am.
 
-500
-00:44:59,590 --> 00:45:00,880
-And the Semtex?
+585
+00:45:19,591 --> 00:45:20,884
+(BROMLEY) And the Semtex?
 
-501
-00:45:01,380 --> 00:45:02,630
-They're raiding our dumps.
+586
+00:45:21,385 --> 00:45:22,636
+(SEAN) They're raiding our dumps.
 
-502
-00:45:02,710 --> 00:45:04,760
-Dumps that were
+587
+00:45:22,719 --> 00:45:24,763
+(BROMLEY) Dumps that were
 all given up for the Accord?
 
-503
-00:45:05,380 --> 00:45:06,800
+588
+00:45:25,389 --> 00:45:26,807
 And your code word?
 
-504
-00:45:06,890 --> 00:45:09,850
+589
+00:45:26,890 --> 00:45:29,852
 They're being helped by someone
 in our command, Belfast or Dublin.
 
-505
-00:45:09,930 --> 00:45:11,470
+590
+00:45:29,935 --> 00:45:31,478
 So, what do you want, Mr. Morrison?
 
-506
-00:45:12,470 --> 00:45:13,770
+591
+00:45:32,479 --> 00:45:33,772
 We've a plan.
 
-507
-00:45:13,850 --> 00:45:16,270
+592
+00:45:33,856 --> 00:45:36,275
 Different codes will be given
 to each member of command.
 
-508
-00:45:16,400 --> 00:45:18,230
+593
+00:45:36,400 --> 00:45:38,235
 When the bombers claim credit
 for the next attack,
 
-509
-00:45:18,310 --> 00:45:20,150
+594
+00:45:38,318 --> 00:45:40,154
 you'll tell us which word they use.
 
-510
-00:45:20,650 --> 00:45:22,360
+595
+00:45:40,654 --> 00:45:42,364
 Then we'll know who gave
 the orders and then we end it.
 
-511
-00:45:22,440 --> 00:45:24,030
+596
+00:45:42,448 --> 00:45:44,032
 Who else is involved in this plan?
 
-512
-00:45:24,280 --> 00:45:25,570
+597
+00:45:44,283 --> 00:45:45,576
 Liam Hennessy.
 
-513
-00:45:25,860 --> 00:45:28,120
+598
+00:45:45,868 --> 00:45:48,120
 So, you can appreciate
 the need for discretion.
 
-514
-00:45:28,200 --> 00:45:29,910
+599
+00:45:48,203 --> 00:45:49,913
 Only Liam knows
 who will be given which word.
 
-515
-00:45:29,990 --> 00:45:32,830
+600
+00:45:49,997 --> 00:45:52,833
 So, Hennessy will personally work with us
 to take out an IRA cell?
 
-516
-00:45:32,910 --> 00:45:35,160
+601
+00:45:52,916 --> 00:45:55,169
 - A rogue cell.
-- Your people, nonetheless.
+- (BROMLEY) Your people, nonetheless.
 
-517
-00:45:37,710 --> 00:45:39,040
+602
+00:45:57,713 --> 00:45:59,047
 I've one condition.
 
-518
-00:45:41,130 --> 00:45:43,710
+603
+00:46:01,133 --> 00:46:03,719
 When Hennessy finds the bombers,
 he tells me directly.
 
-519
-00:45:44,050 --> 00:45:46,550
+604
+00:46:04,052 --> 00:46:06,555
 Then we take them down. Not you.
 
-520
-00:45:47,680 --> 00:45:49,260
+605
+00:46:07,681 --> 00:46:09,266
 This is non-negotiable.
 
-521
-00:46:14,160 --> 00:46:15,620
+606
+00:46:34,166 --> 00:46:35,626
 We found some plastic bags in his room.
 
-522
-00:46:16,410 --> 00:46:18,920
+607
+00:46:36,418 --> 00:46:38,921
 Based on what I saw,
 he's brewed up some nitroglycerin,
 
-523
-00:46:19,000 --> 00:46:22,290
+608
+00:46:39,004 --> 00:46:42,299
 mixed it with weed killer, packed it
 into some plastic plumbing pipes.
 
-524
-00:46:22,590 --> 00:46:24,130
+609
+00:46:42,591 --> 00:46:44,134
 How much damage can he do?
 
-525
-00:46:24,210 --> 00:46:27,630
+610
+00:46:44,218 --> 00:46:47,638
 I'm guessing he's made four bombs,
 each enough to blow up a lorry.
 
-526
-00:46:27,720 --> 00:46:28,720
+611
+00:46:47,721 --> 00:46:48,722
 Jesus.
 
-527
-00:46:28,800 --> 00:46:31,760
-Knows what he's doing.
+612
+00:46:48,805 --> 00:46:51,767
+(KAVANAGH) Knows what he's doing.
 I've half the city looking for him.
 
-528
-00:46:31,850 --> 00:46:34,390
+613
+00:46:51,850 --> 00:46:54,394
 When he surfaces in Belfast,
 we'll find him.
 
-529
-00:46:35,270 --> 00:46:36,560
+614
+00:46:55,270 --> 00:46:56,563
 You'll be safe here.
 
-530
-00:46:37,390 --> 00:46:41,100
+615
+00:46:57,397 --> 00:47:01,109
 Aye. I wouldn't count on it.
 
-531
-00:48:48,440 --> 00:48:49,440
+616
+00:48:35,912 --> 00:48:37,539
+(BREATHING HEAVILY)
+
+617
+00:48:41,752 --> 00:48:44,504
+(DOG BARKING)
+
+618
+00:48:50,052 --> 00:48:51,178
+(TIMER BEEPS)
+
+619
+00:49:08,445 --> 00:49:09,446
 Benny!
 
-532
-00:50:01,890 --> 00:50:03,810
-Jesus Christ!
+620
+00:49:09,780 --> 00:49:10,822
+(GASPING)
 
-533
-00:50:05,890 --> 00:50:07,520
-Move it! Move it!
+621
+00:49:21,708 --> 00:49:24,169
+(PANTING)
 
-534
-00:50:19,240 --> 00:50:23,740
+622
+00:49:44,272 --> 00:49:45,607
+(GRUNTING)
+
+623
+00:49:46,441 --> 00:49:47,693
+(MUFFLED GROANING)
+
+624
+00:50:17,723 --> 00:50:19,516
+(ALARMS RINGING)
+
+625
+00:50:21,893 --> 00:50:23,812
+- (MEN SHOUTING)
+- (LIAM) Jesus Christ!
+
+626
+00:50:25,897 --> 00:50:27,524
+(MAN) Move it! Move it!
+
+627
+00:50:28,316 --> 00:50:31,153
+(MEN CONTINUE SHOUTING)
+
+628
+00:50:39,244 --> 00:50:43,749
 Jesus. He roughed up Benny and Sean.
 They'll be fine.
 
-535
-00:50:24,080 --> 00:50:26,160
+629
+00:50:44,082 --> 00:50:46,168
 Get more men from Belfast.
 
-536
-00:50:26,410 --> 00:50:29,710
+630
+00:50:46,418 --> 00:50:49,713
 I've underestimated him.
 It won't happen again.
 
-537
-00:50:42,850 --> 00:50:44,180
+631
+00:51:02,851 --> 00:51:04,186
 It's another warning, Liam?
 
-538
-00:50:44,260 --> 00:50:47,100
-Aye. Nothing I can't handle.
+632
+00:51:04,269 --> 00:51:07,105
+(LIAM) Aye. Nothing I can't handle.
 
-539
-00:50:47,430 --> 00:50:49,600
+633
+00:51:07,439 --> 00:51:09,608
 First Belfast, now here.
 
-540
-00:50:49,690 --> 00:50:51,560
+634
+00:51:09,691 --> 00:51:11,568
 How in God's name
 are you handling anything?
 
-541
-00:50:51,810 --> 00:50:53,360
+635
+00:51:11,818 --> 00:51:13,361
 The problem's being dealt with.
 
-542
-00:50:54,110 --> 00:50:56,230
-He is destroying our farmhouse,
+636
+00:51:14,112 --> 00:51:16,239
+(MARY) He is destroying our farmhouse,
 
-543
-00:50:56,320 --> 00:50:59,280
+637
+00:51:16,323 --> 00:51:19,284
 intent on God knows what,
 and you're calling it a problem?
 
-544
-00:51:00,030 --> 00:51:02,490
+638
+00:51:20,035 --> 00:51:22,496
 God, you can be so pompous sometimes.
 
-545
-00:51:02,570 --> 00:51:05,120
+639
+00:51:22,579 --> 00:51:25,123
 I'm leaving for London.
 Gonna stay at Keri's.
 
-546
-00:51:05,200 --> 00:51:06,580
+640
+00:51:25,207 --> 00:51:26,583
 I'm not sure that's a good idea.
 
-547
-00:51:06,660 --> 00:51:09,080
+641
+00:51:26,666 --> 00:51:29,085
 Well, I wasn't asking for your permission.
 
-548
-00:51:09,160 --> 00:51:12,080
+642
+00:51:29,169 --> 00:51:32,088
 He's hardly likely to know
 about our daughter's flat, and besides,
 
-549
-00:51:12,170 --> 00:51:13,590
+643
+00:51:32,172 --> 00:51:33,590
 it's you he's after, not me.
 
-550
-00:51:13,670 --> 00:51:15,550
+644
+00:51:33,673 --> 00:51:35,550
 Well, the point is,
 if he knows about the farmhouse,
 
-551
-00:51:15,630 --> 00:51:18,260
+645
+00:51:35,634 --> 00:51:38,261
 I assume he knows about Keri's flat.
 
-552
-00:51:18,340 --> 00:51:19,510
+646
+00:51:38,345 --> 00:51:39,513
 It's not worth the risk.
 
-553
-00:51:19,590 --> 00:51:21,970
+647
+00:51:39,596 --> 00:51:41,973
 Well then, you're just gonna
 have to handle it, like you said.
 
-554
-00:51:23,970 --> 00:51:27,600
+648
+00:51:43,975 --> 00:51:47,604
 I remember a time when you would've
 dealt with this, properly,
 
-555
-00:51:27,680 --> 00:51:29,100
+649
+00:51:47,687 --> 00:51:49,105
 and other things, too.
 
-556
-00:51:30,140 --> 00:51:31,600
+650
+00:51:50,148 --> 00:51:51,608
 But those days are gone.
 
-557
-00:52:04,390 --> 00:52:06,470
+651
+00:51:54,027 --> 00:51:55,028
+(SWITCH CLICKS)
+
+652
+00:52:17,008 --> 00:52:18,552
+(DOOR OPENS)
+
+653
+00:52:24,391 --> 00:52:26,476
 Weighs a bit more,
 but shouldn't be noticeable.
 
-558
-00:52:07,600 --> 00:52:10,600
+654
+00:52:27,602 --> 00:52:30,605
 All I'm adding is the Semtex,
 a micro-chip and a few inches of wire.
 
-559
-00:52:11,600 --> 00:52:12,440
+655
+00:52:31,606 --> 00:52:32,440
 It looks good.
 
-560
-00:52:12,560 --> 00:52:16,360
+656
+00:52:32,566 --> 00:52:36,361
 Tricky part will be getting it through
 the scanner, but, we'll find a way.
 
-561
-00:52:16,690 --> 00:52:17,820
+657
+00:52:36,695 --> 00:52:37,821
 And if it's turned on?
 
-562
-00:52:18,650 --> 00:52:21,280
+658
+00:52:38,655 --> 00:52:41,283
 Shorter battery life,
 but it'll work, no problem.
 
-563
-00:52:21,360 --> 00:52:22,610
+659
+00:52:41,366 --> 00:52:42,617
 Any idea which plane yet?
 
-564
-00:52:22,700 --> 00:52:26,280
+660
+00:52:42,701 --> 00:52:46,288
 No. We don't want to hit a flight
 with any Irish on board.
 
-565
-00:52:26,530 --> 00:52:29,910
+661
+00:52:46,538 --> 00:52:49,916
 One in the queen's fleet'd be best.
 We just need the right mule.
 
-566
-00:52:34,290 --> 00:52:35,920
+662
+00:52:50,000 --> 00:52:51,585
+(CELL PHONE VIBRATES AND CHIMES)
+
+663
+00:52:54,296 --> 00:52:55,922
 Code word has changed...
 
-567
-00:52:36,920 --> 00:52:38,250
+664
+00:52:56,923 --> 00:52:58,258
 As of tonight.
 
-568
-00:52:41,260 --> 00:52:43,340
-My news editor's a complete twat.
+665
+00:53:01,261 --> 00:53:03,346
+(IAN) My news editor's a complete twat.
 
-569
-00:52:43,430 --> 00:52:47,100
+666
+00:53:03,430 --> 00:53:07,100
 Spends as much on a pair of shoes as I get
 for eight hours writing crap like this.
 
-570
-00:52:47,180 --> 00:52:48,180
+667
+00:53:07,183 --> 00:53:08,184
 Makes perfect sense.
 
-571
-00:52:48,970 --> 00:52:51,310
+668
+00:53:08,977 --> 00:53:11,313
 Who doesn't like a new pair of sexy shoes?
 
-572
-00:52:51,810 --> 00:52:55,350
+669
+00:53:11,813 --> 00:53:15,358
 You should try a real whiskey.
 Two Jamesons, single malt.
 
-573
-00:52:58,440 --> 00:53:01,440
+670
+00:53:18,445 --> 00:53:21,448
 "Wife Attacks
 Husband's Transgender Lover."
 
-574
-00:53:01,610 --> 00:53:03,360
+671
+00:53:21,615 --> 00:53:23,366
 Some serious news you're writing there.
 
-575
-00:53:03,820 --> 00:53:06,910
+672
+00:53:23,825 --> 00:53:26,912
 Well, if it pays, I'll write it.
 
-576
-00:53:06,990 --> 00:53:08,450
+673
+00:53:26,995 --> 00:53:28,455
 Beats being knee-deep
 in a bloody bomb site.
 
-577
-00:53:09,780 --> 00:53:12,290
+674
+00:53:29,789 --> 00:53:32,292
 - So, what do you do?
 - Wealth management.
 
-578
-00:53:21,800 --> 00:53:22,840
+675
+00:53:41,801 --> 00:53:42,844
 I'm Maggie.
 
-579
-00:53:23,050 --> 00:53:24,170
+676
+00:53:43,053 --> 00:53:44,179
 Ian.
 
-580
-00:53:29,100 --> 00:53:31,010
-All right.
+677
+00:53:45,263 --> 00:53:46,806
+(INDISTINCT CONVERSATION)
+
+678
+00:53:49,100 --> 00:53:51,019
+(KAVANAGH) All right.
 I'll call if we need more.
 
-581
-00:53:31,140 --> 00:53:32,680
+679
+00:53:51,144 --> 00:53:52,687
 - Thanks, Mary.
-- All right, thanks. Bye.
+- (KAVANAGH) All right, thanks. Bye.
 
-582
-00:53:35,020 --> 00:53:37,350
+680
+00:53:55,023 --> 00:53:57,359
 Six more men
 are on their way from Belfast.
 
-583
-00:53:37,440 --> 00:53:39,560
+681
+00:53:57,442 --> 00:53:59,569
 When they get here, they'll relieve
 the fellas who've been up all night.
 
-584
-00:53:39,650 --> 00:53:40,730
+682
+00:53:59,653 --> 00:54:00,737
 Is it enough to secure the farm?
 
-585
-00:53:40,820 --> 00:53:44,240
+683
+00:54:00,820 --> 00:54:04,240
 Secure as it can be.
 It's 20 total working two shifts.
 
-586
-00:53:45,650 --> 00:53:48,240
+684
+00:54:05,659 --> 00:54:08,244
 All right. You're flying
 to London today with Mary.
 
-587
-00:53:48,320 --> 00:53:49,910
+685
+00:54:08,328 --> 00:54:09,913
 - Right, yeah.
 - That's completely unnecessary.
 
-588
-00:53:49,990 --> 00:53:52,580
+686
+00:54:09,996 --> 00:54:12,582
 Get her into Keri's flat,
 then move them into a hotel.
 
-589
-00:53:52,660 --> 00:53:54,080
+687
+00:54:12,666 --> 00:54:14,084
 I can manage this, all right?
 
-590
-00:53:54,160 --> 00:53:55,660
+688
+00:54:14,167 --> 00:54:15,669
 I'll not be debating this!
 
-591
-00:53:56,460 --> 00:53:58,290
+689
+00:54:16,461 --> 00:54:18,296
 Nick's gonna fill up the Jag.
 
-592
-00:53:58,380 --> 00:53:59,830
-You're leaving...
+690
+00:54:18,380 --> 00:54:19,839
+- You're leaving...
+- (EXPLOSION)
 
-593
-00:54:18,440 --> 00:54:19,520
-Take him to the hospital.
+691
+00:54:32,477 --> 00:54:34,604
+(MEN SPEAKING INDISTINCTLY)
 
-594
-00:54:19,980 --> 00:54:22,360
+692
+00:54:38,441 --> 00:54:39,526
+(LIAM) Take him to the hospital.
+
+693
+00:54:39,985 --> 00:54:42,362
 - Get Mary to the airport. Go.
 - Right.
 
-595
-00:54:28,820 --> 00:54:31,370
+694
+00:54:46,241 --> 00:54:47,242
+(SNIFFS)
+
+695
+00:54:48,827 --> 00:54:51,371
 Buried nitro bomb, detonated by remote.
 
-596
-00:54:33,120 --> 00:54:34,660
+696
+00:54:53,123 --> 00:54:54,666
 He needed a line of sight.
 
-597
-00:54:35,620 --> 00:54:37,620
+697
+00:54:55,625 --> 00:54:57,627
 Those woods, that's where I'd be.
 
-598
-00:54:38,580 --> 00:54:41,500
+698
+00:54:58,586 --> 00:55:01,506
 - Go.
 - Sean! Mick! Get in the car.
 
-599
-00:54:41,580 --> 00:54:42,750
+699
+00:55:01,589 --> 00:55:02,757
 Go, go, go!
 
-600
-00:55:04,230 --> 00:55:05,530
+700
+00:55:24,237 --> 00:55:25,530
 Come on. Go, go, go!
 
-601
-00:55:11,990 --> 00:55:15,160
+701
+00:55:27,907 --> 00:55:29,409
+(PANTING)
+
+702
+00:55:31,995 --> 00:55:35,165
 You guys spread out.
 I'll take the high ground.
 
-602
-00:56:06,500 --> 00:56:07,550
-Names!
+703
+00:55:40,587 --> 00:55:41,838
+(MAN SPEAKS INDISTINCTLY)
 
-603
-00:56:34,990 --> 00:56:36,530
-Jesus Christ!
+704
+00:55:58,688 --> 00:56:00,231
+(GRUNTS)
 
-604
-00:56:36,950 --> 00:56:39,410
+705
+00:56:15,038 --> 00:56:18,291
+(SCREAMING)
+
+706
+00:56:21,711 --> 00:56:22,712
+(GROANS)
+
+707
+00:56:26,508 --> 00:56:27,550
+- Names!
+- (GUNSHOT)
+
+708
+00:56:27,634 --> 00:56:29,010
+(GROANS)
+
+709
+00:56:38,686 --> 00:56:39,979
+(GROANS)
+
+710
+00:56:43,149 --> 00:56:44,734
+(KAVANAGH PANTING)
+
+711
+00:56:51,282 --> 00:56:53,076
+(EXHALES)
+
+712
+00:56:54,994 --> 00:56:56,538
+(LIAM) Jesus Christ!
+
+713
+00:56:56,955 --> 00:56:59,415
 One ol' man running circles
 around the lot of us.
 
-605
-00:56:40,620 --> 00:56:41,620
+714
+00:57:00,625 --> 00:57:01,626
 Why is it so hard?
 
-606
-00:56:42,460 --> 00:56:44,580
+715
+00:57:02,460 --> 00:57:04,587
 He's ahead of us every step of the way.
 
-607
-00:56:45,630 --> 00:56:46,500
+716
+00:57:05,630 --> 00:57:06,506
 We need more men.
 
-608
-00:56:47,000 --> 00:56:48,800
-We need 100 more men, at least.
+717
+00:57:07,006 --> 00:57:08,800
+(KAVANAGH) We need 100 more men, at least.
 
-609
-00:56:48,920 --> 00:56:51,710
+718
+00:57:08,925 --> 00:57:11,719
 And if we did that,
 we'd have the whole of Belfast against us.
 
-610
-00:56:54,470 --> 00:56:57,510
+719
+00:57:14,472 --> 00:57:17,517
 Bring in a tracker,
 someone who knows the woods,
 
-611
-00:56:57,600 --> 00:56:59,010
+720
+00:57:17,600 --> 00:57:19,018
 and beat him at his own game.
 
-612
-00:57:00,350 --> 00:57:01,770
+721
+00:57:20,353 --> 00:57:21,771
 My nephew?
 
-613
-00:57:01,850 --> 00:57:04,480
+722
+00:57:21,855 --> 00:57:24,482
 Aye. If you can spare him.
 
-614
-00:57:33,880 --> 00:57:34,970
+723
+00:57:36,953 --> 00:57:38,538
+(DOORBELL RINGING)
+
+724
+00:57:53,887 --> 00:57:54,971
 Come on.
 
-615
-00:57:43,100 --> 00:57:44,810
+725
+00:58:03,104 --> 00:58:04,814
 How's Keri? Where is she?
 
-616
-00:57:44,890 --> 00:57:45,890
+726
+00:58:04,898 --> 00:58:05,899
 Out.
 
-617
-00:57:47,190 --> 00:57:49,020
+727
+00:58:07,192 --> 00:58:09,027
 You're a wee bit early,
 but I'm nearly ready.
 
-618
-00:57:49,690 --> 00:57:51,900
+728
+00:58:09,694 --> 00:58:11,905
 Have you a restaurant in mind?
 
-619
-00:57:51,980 --> 00:57:53,690
+729
+00:58:11,988 --> 00:58:13,698
 Haven't given it much thought.
 
-620
-00:57:55,950 --> 00:57:59,030
+730
+00:58:15,950 --> 00:58:19,037
 So, what urgencies
 bring my nephew all the way to London?
 
-621
-00:58:00,490 --> 00:58:01,620
+731
+00:58:20,497 --> 00:58:21,623
 A few personal matters.
 
-622
-00:58:02,950 --> 00:58:04,750
+732
+00:58:22,957 --> 00:58:24,751
 I'm glad I made the list.
 
-623
-00:58:07,500 --> 00:58:09,750
+733
+00:58:27,504 --> 00:58:29,756
 Mm. I think that works.
 
-624
-00:58:10,420 --> 00:58:11,710
+734
+00:58:30,423 --> 00:58:31,716
 What do you think?
 
-625
-00:58:36,820 --> 00:58:38,700
+735
+00:58:36,262 --> 00:58:38,056
+(BREATHING HEAVILY)
+
+736
+00:58:43,144 --> 00:58:44,437
+(MARY MOANS)
+
+737
+00:58:47,357 --> 00:58:49,025
+(CELL PHONE RINGING)
+
+738
+00:58:51,027 --> 00:58:52,529
+(BOTH BREATHING HEAVILY)
+
+739
+00:58:56,824 --> 00:58:58,701
 You've gotta be kiddin'.
 
-626
-00:58:43,740 --> 00:58:46,910
+740
+00:59:03,748 --> 00:59:06,918
 - Liam?
 - Tell Bromley I'll accept his terms.
 
-627
-00:58:47,410 --> 00:58:48,540
+741
+00:59:07,418 --> 00:59:08,545
 I'll pass it on.
 
-628
-00:58:48,620 --> 00:58:51,170
-I've given out the code words.
+742
+00:59:08,628 --> 00:59:11,172
+(LIAM) I've given out the code words.
 Now we wait.
 
-629
-00:58:52,960 --> 00:58:54,670
-Quan hit us again.
+743
+00:59:12,966 --> 00:59:14,676
+(SIGHS) Quan hit us again.
 
-630
-00:58:55,630 --> 00:58:57,920
+744
+00:59:15,635 --> 00:59:17,929
 Blew up the Jag,
 put Billy in the hospital.
 
-631
-00:58:58,170 --> 00:58:59,800
+745
+00:59:18,179 --> 00:59:19,806
 Kavanagh and the boys went after him.
 
-632
-00:59:00,050 --> 00:59:04,180
+746
+00:59:20,056 --> 00:59:24,185
 The wee shitey injured three more men.
 Punji sticks, if you can believe that.
 
-633
-00:59:04,260 --> 00:59:07,520
+747
+00:59:24,269 --> 00:59:27,522
 Liam, it sounds like he's trained.
 Maybe Special Forces.
 
-634
-00:59:07,600 --> 00:59:09,020
-Which brings me to the point.
+748
+00:59:27,605 --> 00:59:29,023
+(LIAM) Which brings me to the point.
 
-635
-00:59:09,230 --> 00:59:12,810
+749
+00:59:29,232 --> 00:59:32,819
 I need a tracker, Sean.
 Can you give us a hand?
 
-636
-00:59:13,690 --> 00:59:15,940
+750
+00:59:33,695 --> 00:59:35,947
 - I'll take a morning flight.
-- Good man.
+- (LIAM) Good man.
 
-637
-00:59:24,280 --> 00:59:28,450
-Hey. How'd he sound?
+751
+00:59:44,289 --> 00:59:48,459
+(MARY) Hey. How'd he sound?
 
-638
-00:59:30,210 --> 00:59:31,290
+752
+00:59:50,211 --> 00:59:51,296
 Worried.
 
-639
-00:59:33,040 --> 00:59:34,090
+753
+00:59:53,047 --> 00:59:54,090
 He's got a lot going on.
 
-640
-00:59:34,340 --> 00:59:36,340
+754
+00:59:54,340 --> 00:59:56,342
 Well, if he doesn't
 find the bombers, the Accord's dead.
 
-641
-00:59:36,750 --> 00:59:38,460
+755
+00:59:56,759 --> 00:59:58,469
 And politically, so's he.
 
-642
-00:59:41,050 --> 00:59:42,510
+756
+01:00:01,055 --> 01:00:02,515
 Do you think he'll find them?
 
-643
-00:59:43,720 --> 00:59:45,050
+757
+01:00:03,725 --> 01:00:05,059
 Yeah, if there's another blast.
 
-644
-00:59:47,270 --> 00:59:49,310
+758
+01:00:07,270 --> 01:00:09,314
 The code word will lead us to
 who's running them.
 
-645
-00:59:49,390 --> 00:59:51,980
+759
+01:00:09,397 --> 01:00:11,983
 He's finished.
 The code word won't save him.
 
-646
-00:59:53,230 --> 00:59:55,480
+760
+01:00:13,234 --> 01:00:15,486
 What the Council needs is new blood...
 
-647
-00:59:56,190 --> 00:59:58,400
+761
+01:00:16,195 --> 01:00:18,406
 someone stronger, like you.
 
-648
-00:59:59,740 --> 01:00:01,740
+762
+01:00:19,741 --> 01:00:21,743
 He's afraid to use his power.
 
-649
-01:00:01,820 --> 01:00:05,200
+763
+01:00:21,826 --> 01:00:25,204
 He's just a washed-up old man
 trying to hold onto whatever he can.
 
-650
-01:00:10,580 --> 01:00:13,330
+764
+01:00:30,585 --> 01:00:33,338
 I've never forgiven him
 for my brother Patrick.
 
-651
-01:00:14,460 --> 01:00:16,380
+765
+01:00:34,464 --> 01:00:36,382
 Liam found out who killed him.
 
-652
-01:00:17,920 --> 01:00:21,670
+766
+01:00:37,925 --> 01:00:41,679
 A UVF death squad. Four men.
 
-653
-01:00:23,800 --> 01:00:27,510
+767
+01:00:43,806 --> 01:00:47,518
 I told Liam to kill them
 before they got to court.
 
-654
-01:00:27,600 --> 01:00:29,100
+768
+01:00:47,602 --> 01:00:49,103
 But he said no.
 
-655
-01:00:29,970 --> 01:00:32,310
+769
+01:00:49,979 --> 01:00:52,315
 That the time for revenge is past.
 
-656
-01:00:33,850 --> 01:00:36,900
+770
+01:00:53,858 --> 01:00:56,903
 So, my Patrick is dead and buried,
 
-657
-01:00:36,980 --> 01:00:40,190
+771
+01:00:56,986 --> 01:01:00,198
 and they're sitting in jail now,
 all four of them,
 
-658
-01:00:40,280 --> 01:00:42,490
+772
+01:01:00,281 --> 01:01:02,492
 taking classes at the open university.
 
-659
-01:00:43,740 --> 01:00:47,910
-It's not right. It's not.
+773
+01:01:03,743 --> 01:01:07,914
+(CRYING) It's not right. It's not.
 
-660
-01:03:27,440 --> 01:03:29,030
+774
+01:01:16,339 --> 01:01:17,632
+(THUNDER RUMBLES)
+
+775
+01:01:39,487 --> 01:01:41,447
+(FLESH SIZZLING)
+
+776
+01:01:58,297 --> 01:02:01,008
+- (GUNFIRE)
+- (PEOPLE SHOUTING)
+
+777
+01:02:01,092 --> 01:02:02,218
+(SPEAKS MANDARIN)
+
+778
+01:02:04,846 --> 01:02:07,598
+(GUNFIRE CONTINUES)
+
+779
+01:02:08,808 --> 01:02:10,143
+- (WOMEN SCREAMING)
+- (QUAN GRUNTS)
+
+780
+01:02:13,312 --> 01:02:14,647
+(INDISTINCT SHOUTING)
+
+781
+01:02:19,110 --> 01:02:20,236
+(GRUNTS)
+
+782
+01:02:26,325 --> 01:02:28,494
+(GIRLS SCREAMING)
+
+783
+01:02:36,753 --> 01:02:37,795
+(GROANS)
+
+784
+01:02:40,965 --> 01:02:43,009
+- (GIRLS SCREAMING)
+- (CRIES OUT)
+
+785
+01:03:45,279 --> 01:03:46,322
+(KNOCKING ON DOOR)
+
+786
+01:03:47,448 --> 01:03:49,033
 Hugh McGrath's here.
 
-661
-01:03:36,040 --> 01:03:38,080
+787
+01:03:56,040 --> 01:03:58,084
 I heard you're checking my dumps.
 
-662
-01:03:38,160 --> 01:03:41,210
+788
+01:03:58,167 --> 01:04:01,212
 We're checking everyone's. No exceptions.
 
-663
-01:03:41,580 --> 01:03:43,880
+789
+01:04:01,587 --> 01:04:03,881
 Four came up short. Two were yours.
 
-664
-01:03:44,340 --> 01:03:46,000
+790
+01:04:04,340 --> 01:04:06,008
 Ten kilos of Semtex missing.
 
-665
-01:03:46,090 --> 01:03:49,630
+791
+01:04:06,092 --> 01:04:09,637
 What in God's name are you doing?
 My dumps were off-limits.
 
-666
-01:03:49,720 --> 01:03:51,010
+792
+01:04:09,720 --> 01:04:11,013
 We were clear in that. Remember?
 
-667
-01:03:51,090 --> 01:03:52,340
+793
+01:04:11,097 --> 01:04:12,348
 You were at the meeting.
 
-668
-01:03:52,890 --> 01:03:54,850
+794
+01:04:12,890 --> 01:04:14,851
 If you knew they were short,
 you should've handled it.
 
-669
-01:03:54,930 --> 01:03:58,520
+795
+01:04:14,934 --> 01:04:18,521
 They were in perfect order.
 I checked 'em myself, and that's a fact.
 
-670
-01:04:01,480 --> 01:04:04,440
+796
+01:04:21,482 --> 01:04:24,443
 Christ, Liam, so the committee
 knows it's my Semtex?
 
-671
-01:04:08,780 --> 01:04:11,990
+797
+01:04:28,781 --> 01:04:31,993
 Don't know who we can
 trust anymore. Do we?
 
-672
-01:04:12,490 --> 01:04:13,990
+798
+01:04:32,493 --> 01:04:33,995
 Trust, or fear?
 
-673
-01:04:15,160 --> 01:04:17,290
+799
+01:04:35,162 --> 01:04:37,290
 In your case, mostly fear.
 
-674
-01:04:17,740 --> 01:04:19,700
+800
+01:04:37,748 --> 01:04:39,709
 Simple and brutal, like my da taught me.
 
-675
-01:04:21,710 --> 01:04:25,630
+801
+01:04:41,711 --> 01:04:45,631
 Look, we have an opportunity here, Liam,
 if you take the lead.
 
-676
-01:04:25,840 --> 01:04:27,250
+802
+01:04:45,840 --> 01:04:47,258
 This Chinaman isn't helping matters,
 
-677
-01:04:27,340 --> 01:04:28,840
+803
+01:04:47,341 --> 01:04:48,843
 but let me get some locals
 to hunt him down.
 
-678
-01:04:28,920 --> 01:04:30,840
+804
+01:04:48,926 --> 01:04:50,845
 - How much do you know?
 - Plenty.
 
-679
-01:04:30,920 --> 01:04:33,380
+805
+01:04:50,928 --> 01:04:53,389
 Bomb in your office. Your farm. Your car.
 
-680
-01:04:33,470 --> 01:04:36,430
+806
+01:04:53,472 --> 01:04:56,434
 Mary and your daughter hiding out
 in a London hotel, a bloody mess, it is.
 
-681
-01:04:36,510 --> 01:04:39,850
+807
+01:04:56,517 --> 01:04:59,854
 And the men sense weakness, as do the UVF.
 
-682
-01:04:39,930 --> 01:04:43,600
+808
+01:04:59,937 --> 01:05:03,608
 You should be back in Belfast,
 out in front, taking charge.
 
-683
-01:04:43,900 --> 01:04:46,650
+809
+01:05:03,900 --> 01:05:06,652
 - Look, I'm no politician...
 - What're you trying to say?
 
-684
-01:04:47,520 --> 01:04:48,770
+810
+01:05:07,528 --> 01:05:08,779
 The bombing.
 
-685
-01:04:50,190 --> 01:04:53,700
+811
+01:05:10,197 --> 01:05:13,701
 A few quiet words of encouragement
 would soothe the ranks.
 
-686
-01:04:53,990 --> 01:04:55,200
+812
+01:05:13,993 --> 01:05:15,202
 "Encouragement"?
 
-687
-01:04:55,410 --> 01:04:56,950
+813
+01:05:15,411 --> 01:05:16,954
 They kill civilians by the buckets.
 
-688
-01:04:57,030 --> 01:05:01,250
+814
+01:05:17,038 --> 01:05:21,250
 They went a bit far, I know,
 but they have given us real momentum.
 
-689
-01:05:01,330 --> 01:05:02,710
+815
+01:05:21,334 --> 01:05:22,710
 The Brits are on the ropes.
 
-690
-01:05:02,790 --> 01:05:06,830
+816
+01:05:22,793 --> 01:05:26,839
 Jesus Christ, I said hit a few
 financial targets. That's it.
 
-691
-01:05:06,920 --> 01:05:09,500
+817
+01:05:26,923 --> 01:05:29,508
 No one gets hurt.
 That's what we agreed to.
 
-692
-01:05:09,590 --> 01:05:12,630
+818
+01:05:29,592 --> 01:05:32,637
 - You gave me your word.
 - And by God, I kept it.
 
-693
-01:05:12,720 --> 01:05:16,300
+819
+01:05:32,720 --> 01:05:36,307
 I don't know who they are,
 don't even know who's controlling 'em.
 
-694
-01:05:16,390 --> 01:05:17,680
+820
+01:05:36,390 --> 01:05:37,683
 And that's the way it has to be.
 
-695
-01:05:17,760 --> 01:05:20,810
+821
+01:05:37,767 --> 01:05:40,811
 Because, if something goes wrong,
 they could trace 'em straight back to us.
 
-696
-01:05:20,890 --> 01:05:24,980
+822
+01:05:40,895 --> 01:05:44,982
 Go wrong? This wasn't the fuckin' plan.
 I needed this to get our people back.
 
-697
-01:05:25,190 --> 01:05:29,650
+823
+01:05:45,191 --> 01:05:49,654
 - You and I have spent our whole lifetime...
 - You don't give a shit about those men.
 
-698
-01:05:29,730 --> 01:05:31,940
+824
+01:05:49,737 --> 01:05:51,948
 You needed the bombing
 to shore up the election,
 
-699
-01:05:32,030 --> 01:05:33,900
+825
+01:05:52,031 --> 01:05:53,908
 to prop up your weakness in the ranks.
 
-700
-01:05:33,990 --> 01:05:38,870
+826
+01:05:53,991 --> 01:05:58,871
 Well, guess what?
 In the fog o' war, plans fuckin' change.
 
-701
-01:05:40,120 --> 01:05:44,080
+827
+01:06:00,122 --> 01:06:04,085
 Now, I stood by you
 when you put fire into the lads.
 
-702
-01:05:44,160 --> 01:05:47,290
+828
+01:06:04,168 --> 01:06:07,296
 M62, Aldershot, Mountbatten.
 
-703
-01:05:47,380 --> 01:05:49,590
+829
+01:06:07,380 --> 01:06:09,590
 You were calling for an escalation then,
 right enough.
 
-704
-01:05:49,670 --> 01:05:51,920
+830
+01:06:09,674 --> 01:06:11,926
 Those days are long gone!
 
-705
-01:05:52,960 --> 01:05:55,470
+831
+01:06:12,969 --> 01:06:15,471
 That's not what I heard a few months ago.
 
-706
-01:05:56,590 --> 01:06:01,390
+832
+01:06:16,597 --> 01:06:21,394
 I heard the old Liam,
 a man back on track with a plan.
 
-707
-01:06:03,930 --> 01:06:06,730
+833
+01:06:23,938 --> 01:06:26,732
 You haven't forgotten
 what we're fighting for, have ya?
 
-708
-01:06:07,310 --> 01:06:08,730
+834
+01:06:27,316 --> 01:06:28,734
 You question my loyalty?
 
-709
-01:06:09,560 --> 01:06:13,780
+835
+01:06:29,568 --> 01:06:33,781
 I buried my brother-in-law,
 before that my da and my two cousins.
 
-710
-01:06:13,860 --> 01:06:17,240
+836
+01:06:33,864 --> 01:06:37,243
 We spilt our fair share of blood
 struggling for united Ireland,
 
-711
-01:06:17,320 --> 01:06:19,370
+837
+01:06:37,326 --> 01:06:39,370
 not profiting off a divided one.
 
-712
-01:06:19,450 --> 01:06:22,540
+838
+01:06:39,453 --> 01:06:42,540
 So, don't fucking go asking me again
 if I've forgotten what we're fighting for.
 
-713
-01:06:22,620 --> 01:06:25,040
-If there's anyone profiteering
+839
+01:06:42,623 --> 01:06:45,042
+(MCGRATH) If there's anyone profiteering
 around here, it's you,
 
-714
-01:06:25,160 --> 01:06:29,630
+840
+01:06:45,167 --> 01:06:49,630
 sitting in your fancy houses,
 cozying up to the Brits.
 
-715
-01:06:30,420 --> 01:06:32,040
+841
+01:06:50,423 --> 01:06:52,049
 You're not the Liam I once knew.
 
-716
-01:06:32,130 --> 01:06:33,630
-You want the old me, huh?
+842
+01:06:52,133 --> 01:06:53,634
+(LIAM) You want the old me, huh?
 
-717
-01:06:33,880 --> 01:06:36,550
+843
+01:06:53,884 --> 01:06:56,554
 The Butcher of the Bogside,
 is that what you want?
 
-718
-01:06:36,630 --> 01:06:37,800
+844
+01:06:56,637 --> 01:06:57,805
 Well then, hear this.
 
-719
-01:06:37,880 --> 01:06:40,050
+845
+01:06:57,888 --> 01:07:00,057
 You reel in those fuckin' cunts
 and end it,
 
-720
-01:06:40,140 --> 01:06:42,810
+846
+01:07:00,141 --> 01:07:02,810
 or by God, I'll bury the lot of yas.
 
-721
-01:06:44,770 --> 01:06:47,810
+847
+01:07:04,770 --> 01:07:07,815
 Right. I'm going now.
 
-722
-01:06:48,020 --> 01:06:49,850
+848
+01:07:08,024 --> 01:07:09,859
 I'll be at my farm if you need me.
 
-723
-01:06:51,020 --> 01:06:53,480
+849
+01:07:11,027 --> 01:07:13,487
 And take care of that Committee issue.
 
-724
-01:06:53,570 --> 01:06:57,900
+850
+01:07:13,571 --> 01:07:17,908
 We don't want them jumping to the wrong
 conclusion about that Semtex. Do we?
 
-725
-01:07:04,160 --> 01:07:05,410
+851
+01:07:19,910 --> 01:07:21,412
+(BREATHING HEAVILY)
+
+852
+01:07:24,165 --> 01:07:25,416
 Yeah.
 
-726
-01:07:09,540 --> 01:07:12,290
+853
+01:07:26,083 --> 01:07:27,418
+(EXHALES)
+
+854
+01:07:29,545 --> 01:07:32,298
 Do you or any of the men know
 where Mary's staying in London?
 
-727
-01:07:12,380 --> 01:07:14,300
+855
+01:07:32,381 --> 01:07:34,300
 No. No one, but Murphy.
 
-728
-01:07:14,380 --> 01:07:16,840
+856
+01:07:34,383 --> 01:07:36,844
 Hmm. McGrath knows where she's hiding.
 
-729
-01:07:17,970 --> 01:07:19,590
+857
+01:07:37,970 --> 01:07:39,597
 I wanna know how.
 
-730
-01:07:38,360 --> 01:07:41,200
-What a day, Charlie.
+858
+01:07:52,109 --> 01:07:53,110
+(SIGHS)
 
-731
-01:07:42,410 --> 01:07:44,780
+859
+01:07:58,365 --> 01:08:01,202
+(SCOFFS) What a day, Charlie.
+
+860
+01:08:01,368 --> 01:08:02,328
+(KEYBOARD CLACKING)
+
+861
+01:08:02,411 --> 01:08:04,789
 What a day. Come on now, let's go.
 
-732
-01:07:50,290 --> 01:07:51,750
+862
+01:08:10,294 --> 01:08:11,754
 Come on, Charlie, up you get.
 
-733
-01:07:52,790 --> 01:07:53,630
+863
+01:08:12,797 --> 01:08:13,631
 Charlie.
 
-734
-01:08:25,490 --> 01:08:26,660
+864
+01:08:45,496 --> 01:08:46,664
 You killed my dog?
 
-735
-01:08:26,990 --> 01:08:29,200
+865
+01:08:46,997 --> 01:08:49,208
 Dog's fine. Just sleeping.
 
-736
-01:08:30,290 --> 01:08:31,370
+866
+01:08:50,292 --> 01:08:51,377
 Sit.
 
-737
-01:08:40,300 --> 01:08:41,380
+867
+01:08:52,461 --> 01:08:54,380
+(BREATHING HEAVILY)
+
+868
+01:09:00,302 --> 01:09:01,387
 I'm wearing a bomb.
 
-738
-01:08:42,340 --> 01:08:46,640
+869
+01:09:02,346 --> 01:09:06,642
 Anyone comes in,
 I touch it one, then we die.
 
-739
-01:08:46,720 --> 01:08:47,720
+870
+01:09:06,725 --> 01:09:07,726
 Now, give me the names.
 
-740
-01:08:47,810 --> 01:08:51,600
+871
+01:09:07,810 --> 01:09:11,605
 They claim they're the IRA,
 but I don't know who they really are.
 
-741
-01:08:51,680 --> 01:08:54,310
+872
+01:09:11,689 --> 01:09:14,316
 I'm doing everything I can
 to find out who's responsible.
 
-742
-01:08:54,400 --> 01:08:55,650
+873
+01:09:14,400 --> 01:09:15,651
 You're lying! Who killed my daughter?
 
-743
-01:08:55,730 --> 01:08:58,400
+874
+01:09:15,734 --> 01:09:18,404
 I'm sorry. I truly don't know yet.
 
-744
-01:09:04,990 --> 01:09:07,910
+875
+01:09:19,113 --> 01:09:21,740
+(BREATHING HEAVILY)
+
+876
+01:09:24,994 --> 01:09:27,913
 The explosives the bombers use,
 it's Semtex-H?
 
-745
-01:09:08,280 --> 01:09:11,660
+877
+01:09:28,289 --> 01:09:31,667
 Yes. Yes. You know about Semtex?
 
-746
-01:09:12,710 --> 01:09:14,170
+878
+01:09:32,710 --> 01:09:34,170
 I know Semtex-H.
 
-747
-01:09:14,670 --> 01:09:17,290
+879
+01:09:34,670 --> 01:09:37,298
 During the war,
 Czechs make for the Viet Cong.
 
-748
-01:09:17,380 --> 01:09:18,670
+880
+01:09:37,381 --> 01:09:38,674
 Good for bombs and traps.
 
-749
-01:09:18,750 --> 01:09:20,590
+881
+01:09:38,757 --> 01:09:40,593
 - In Vietnam?
 - Yes.
 
-750
-01:09:21,300 --> 01:09:24,090
+882
+01:09:41,302 --> 01:09:44,096
 Many American people died by Semtex-H.
 
-751
-01:09:24,180 --> 01:09:27,010
+883
+01:09:44,180 --> 01:09:47,016
 Now, IRA use to kill my daughter.
 
-752
-01:09:28,260 --> 01:09:29,470
+884
+01:09:48,267 --> 01:09:49,476
 That's ironic.
 
-753
-01:09:30,720 --> 01:09:34,640
+885
+01:09:50,728 --> 01:09:54,648
 I've read your history.
 We both know about war.
 
-754
-01:09:34,730 --> 01:09:37,980
+886
+01:09:54,732 --> 01:09:57,985
 We've both tried to put it behind us.
 You and me, we're alike.
 
-755
-01:09:39,520 --> 01:09:43,400
+887
+01:09:58,068 --> 01:09:59,445
+- (QUAN GRUNTS)
+- (LIAM GROANS)
+
+888
+01:09:59,528 --> 01:10:03,407
 We are nothing alike. You're nothing!
 You kill women and children! Names!
 
-756
-01:09:43,490 --> 01:09:45,570
-To Almighty God, I don't know!
+889
+01:10:03,490 --> 01:10:05,576
+- To Almighty God, I don't know!
+- (GUN COCKS)
 
-757
-01:09:45,650 --> 01:09:48,620
+890
+01:10:05,659 --> 01:10:08,621
 Wait! Wait. I've set a trap for them
 when they use the next bomb.
 
-758
-01:09:48,780 --> 01:09:51,290
+891
+01:10:08,787 --> 01:10:11,290
 When they claim responsibility
 for the next bombing,
 
-759
-01:09:51,370 --> 01:09:54,960
+892
+01:10:11,373 --> 01:10:14,960
 they'll use a code word,
 telling the police they're IRA.
 
-760
-01:09:55,960 --> 01:09:57,880
+893
+01:10:15,961 --> 01:10:17,880
 I've changed that code word.
 
-761
-01:09:57,960 --> 01:10:00,840
+894
+01:10:17,963 --> 01:10:20,841
 So, when they use it, I'll know.
 
-762
-01:10:07,890 --> 01:10:09,140
+895
+01:10:27,890 --> 01:10:29,141
 You have one day.
 
-763
-01:10:11,510 --> 01:10:13,100
+896
+01:10:31,518 --> 01:10:33,103
 What if they don't set off a bomb by then?
 
-764
-01:10:14,890 --> 01:10:16,230
+897
+01:10:34,897 --> 01:10:36,232
 Twenty-four hours.
 
-765
-01:10:19,480 --> 01:10:23,360
+898
+01:10:39,485 --> 01:10:43,364
 Oh, Jesus. Oh, Jesus. Sweet Jesus.
 
-766
-01:10:26,450 --> 01:10:27,610
-We missed it the first time...
+899
+01:10:46,450 --> 01:10:47,618
+(MIRA) We missed it the first time...
 
-767
-01:10:28,490 --> 01:10:30,450
+900
+01:10:48,494 --> 01:10:50,454
 But ran a reconfiguration through RAPTOR,
 
-768
-01:10:30,530 --> 01:10:33,490
+901
+01:10:50,537 --> 01:10:53,499
 and the image's anomalies
 and architecture became more apparent.
 
-769
-01:10:33,830 --> 01:10:36,660
+902
+01:10:53,832 --> 01:10:56,669
 Now there, look, the back of his hand.
 
-770
-01:10:36,750 --> 01:10:39,210
-- Hmm.
+903
+01:10:56,752 --> 01:10:59,213
+- (BROMLEY) Hmm.
 - Looks like a burn or a birthmark.
 
-771
-01:10:39,540 --> 01:10:40,830
+904
+01:10:59,546 --> 01:11:00,839
 We're running comparatives now.
 
-772
-01:10:40,920 --> 01:10:43,670
+905
+01:11:00,923 --> 01:11:03,676
 So, it's a bit more time,
 but we'll get it.
 
-773
-01:10:48,510 --> 01:10:51,220
+906
+01:11:07,471 --> 01:11:08,430
+(BELL TOLLING)
+
+907
+01:11:08,514 --> 01:11:11,225
 Come on. Come on.
 
-774
-01:11:00,980 --> 01:11:01,900
-OK.
+908
+01:11:20,985 --> 01:11:21,902
+(WOMAN) OK.
 
-775
-01:11:01,980 --> 01:11:03,110
+909
+01:11:21,986 --> 01:11:23,112
 There you go.
 
-776
-01:12:08,550 --> 01:12:11,380
-- Good morning, Sean. Thanks for coming.
-- Are you all right?
+910
+01:11:30,619 --> 01:11:34,331
+(BUS ENGINE STARTS)
 
-777
-01:12:11,470 --> 01:12:14,220
+911
+01:11:47,052 --> 01:11:48,762
+(PEOPLE SCREAMING)
+
+912
+01:11:50,431 --> 01:11:51,849
+(CONTINUE SCREAMING)
+
+913
+01:12:11,076 --> 01:12:13,203
+(BROMLEY PANTING)
+
+914
+01:12:28,552 --> 01:12:31,388
+- Good morning, Sean. Thanks for coming.
+- (SEAN) Are you all right?
+
+915
+01:12:31,472 --> 01:12:34,224
 Well, I've been better.
 There's been another bombing.
 
-778
-01:12:14,300 --> 01:12:16,640
+916
+01:12:34,308 --> 01:12:36,643
 - Yeah, I just heard.
-- Aye, a London bus.
+- (LIAM) Aye, a London bus.
 
-779
-01:12:16,810 --> 01:12:18,890
+917
+01:12:36,810 --> 01:12:38,896
 - Has Bromley phoned?
 - No. Not yet.
 
-780
-01:12:19,140 --> 01:12:21,560
+918
+01:12:39,146 --> 01:12:41,565
 McGrath's on his way with some locals.
 They'll give ya a hand.
 
-781
-01:12:21,850 --> 01:12:24,650
+919
+01:12:41,857 --> 01:12:44,651
 No, I don't need them. I'll handle it.
 
-782
-01:12:24,730 --> 01:12:25,730
-Good man.
+920
+01:12:44,735 --> 01:12:45,736
+(LIAM) Good man.
 
-783
-01:12:44,040 --> 01:12:44,920
+921
+01:12:55,829 --> 01:12:57,456
+(CELL PHONE VIBRATING)
+
+922
+01:13:04,046 --> 01:13:04,922
 Hennessy.
 
-784
-01:12:45,000 --> 01:12:48,590
+923
+01:13:05,005 --> 01:13:08,592
 They called, but didn't give a code word.
 What the hell's going on?
 
-785
-01:12:48,960 --> 01:12:50,510
+924
+01:13:08,967 --> 01:13:10,511
 Maybe it wasn't them.
 
-786
-01:12:50,880 --> 01:12:52,970
+925
+01:13:10,886 --> 01:13:12,971
 Press Association took the call.
 
-787
-01:12:53,050 --> 01:12:55,640
+926
+01:13:13,055 --> 01:13:15,641
 A man with an Irish accent said
 there'd be no more fuckin' cooperation
 
-788
-01:12:55,720 --> 01:12:57,220
+927
+01:13:15,724 --> 01:13:17,226
 with the Brits and no more code words.
 
-789
-01:12:57,510 --> 01:13:00,100
+928
+01:13:17,518 --> 01:13:20,104
 He knew exactly which bus
 and how much explosive was used.
 
-790
-01:13:00,180 --> 01:13:02,310
+929
+01:13:20,187 --> 01:13:22,314
 And it's been ID'd as your Semtex again.
 
-791
-01:13:02,390 --> 01:13:05,810
+930
+01:13:22,398 --> 01:13:25,818
 Either someone talked,
 warned them off, or you're playing me.
 
-792
-01:13:05,900 --> 01:13:10,940
+931
+01:13:25,901 --> 01:13:30,948
 Only two people knew what was happening...
 Myself and Morrison.
 
-793
-01:13:11,280 --> 01:13:13,320
+932
+01:13:31,281 --> 01:13:33,325
 Like I said, one of you can't be trusted.
 
-794
-01:13:13,740 --> 01:13:16,410
+933
+01:13:33,742 --> 01:13:36,412
 Send me a number where
 I can reach you day or night.
 
-795
-01:13:17,570 --> 01:13:19,870
+934
+01:13:37,579 --> 01:13:39,873
 I'll call the moment I have something.
 
-796
-01:13:20,290 --> 01:13:21,700
+935
+01:13:40,290 --> 01:13:41,708
 It better be soon,
 
-797
-01:13:21,790 --> 01:13:24,290
+936
+01:13:41,792 --> 01:13:44,294
 or you'll feel a backlash the likes
 of which you've never felt before.
 
-798
-01:13:29,090 --> 01:13:30,500
-A bus now.
+937
+01:13:49,091 --> 01:13:50,509
+(DAVIES) A bus now.
 
-799
-01:13:30,590 --> 01:13:33,260
+938
+01:13:50,592 --> 01:13:53,262
 For God's sake,
 16 dead, twice that injured.
 
-800
-01:13:33,340 --> 01:13:34,800
-I'm sorry.
+939
+01:13:53,345 --> 01:13:54,805
+(LIAM) I'm sorry.
 
-801
-01:13:35,180 --> 01:13:37,970
+940
+01:13:55,180 --> 01:13:57,975
 I had a plan to nail the bastards.
 Didn't work.
 
-802
-01:13:38,260 --> 01:13:41,010
-I've just come
+941
+01:13:58,267 --> 01:14:01,019
+(SIGHS) I've just come
 from Downing Street.
 
-803
-01:13:41,560 --> 01:13:42,980
+942
+01:14:01,562 --> 01:14:02,980
 The PM will consider the pardons,
 
-804
-01:13:43,060 --> 01:13:45,440
+943
+01:14:03,063 --> 01:14:05,441
 but only if you give up
 the bombers immediately.
 
-805
-01:13:45,640 --> 01:13:47,860
+944
+01:14:05,649 --> 01:14:07,860
 And how in God's name do I do that?
 
-806
-01:13:47,940 --> 01:13:49,400
-Find a way.
+945
+01:14:07,943 --> 01:14:09,403
+(DAVIES) Find a way.
 
-807
-01:13:49,480 --> 01:13:53,150
+946
+01:14:09,486 --> 01:14:13,157
 Plans are afoot to put the paratroops
 back on your streets in 48 hours.
 
-808
-01:13:53,440 --> 01:13:55,030
+947
+01:14:13,449 --> 01:14:15,033
 Belfast will erupt.
 
-809
-01:13:55,110 --> 01:13:57,570
+948
+01:14:15,117 --> 01:14:17,578
 You'll give the bombers
 exactly what they want.
 
-810
-01:13:57,660 --> 01:14:00,490
+949
+01:14:17,661 --> 01:14:20,497
 Well, it's out of my hands now.
 Call when you have something.
 
-811
-01:14:00,870 --> 01:14:02,410
+950
+01:14:20,873 --> 01:14:22,416
 I'm heading for a conference
 in Rome tomorrow.
 
-812
-01:14:02,490 --> 01:14:04,250
+951
+01:14:22,499 --> 01:14:24,251
 I'll have my cell at all times.
 
-813
-01:14:23,520 --> 01:14:26,440
+952
+01:14:36,263 --> 01:14:38,182
+(LIAM SIGHS)
+
+953
+01:14:43,520 --> 01:14:46,440
 How was London? Is Mary OK?
 
-814
-01:14:27,600 --> 01:14:29,860
+954
+01:14:47,608 --> 01:14:49,860
 You said to keep an eye on her,
 
-815
-01:14:30,270 --> 01:14:32,570
+955
+01:14:50,277 --> 01:14:52,571
 and make sure she and Keri were kept safe.
 
-816
-01:14:36,400 --> 01:14:40,240
+956
+01:14:56,408 --> 01:15:00,245
 I spent some time in her hotel lobby
 watching the comings and goings, you know?
 
-817
-01:14:40,620 --> 01:14:42,120
+957
+01:15:00,621 --> 01:15:02,122
 She had no idea I was there.
 
-818
-01:14:43,990 --> 01:14:45,410
+958
+01:15:03,999 --> 01:15:05,417
 And your nephew turns up.
 
-819
-01:14:47,330 --> 01:14:48,870
+959
+01:15:07,336 --> 01:15:08,879
 He spent two hours in her room.
 
-820
-01:14:51,130 --> 01:14:54,380
+960
+01:15:11,131 --> 01:15:14,384
 - He spent two hours in Mary's room?
-- Aye.
+- (MURPHY) Aye.
 
-821
-01:14:54,880 --> 01:14:55,880
+961
+01:15:14,885 --> 01:15:15,886
 And after he goes,
 
-822
-01:14:57,380 --> 01:14:58,840
+962
+01:15:17,387 --> 01:15:18,847
 Mary comes down,
 
-823
-01:14:59,720 --> 01:15:01,930
+963
+01:15:19,723 --> 01:15:21,934
 and calls Hugh McGrath on the lobby phone.
 
-824
-01:15:24,540 --> 01:15:25,700
+964
+01:15:36,907 --> 01:15:39,493
+(RUSTLING)
+
+965
+01:15:41,119 --> 01:15:42,246
+(SIGHS)
+
+966
+01:15:44,540 --> 01:15:45,707
 It's done.
 
-825
-01:15:32,250 --> 01:15:35,840
+967
+01:15:52,256 --> 01:15:55,842
 Unless they take it apart,
 there's no way to know it's been modified.
 
-826
-01:15:35,960 --> 01:15:38,170
+968
+01:15:55,968 --> 01:15:58,178
 Fuckin' brilliant. What'll set it off?
 
-827
-01:15:38,260 --> 01:15:39,470
+969
+01:15:58,262 --> 01:15:59,471
 The internal clock.
 
-828
-01:15:39,550 --> 01:15:41,300
+970
+01:15:59,555 --> 01:16:01,306
 I'll input the time
 once we know the flight.
 
-829
-01:15:41,390 --> 01:15:43,850
+971
+01:16:01,390 --> 01:16:03,850
 There's a security conference
 in Rome tomorrow.
 
-830
-01:15:43,930 --> 01:15:47,520
+972
+01:16:03,934 --> 01:16:07,521
 All the top MPs and security people are
 flying there on three lunchtime flights.
 
-831
-01:15:47,600 --> 01:15:49,640
+973
+01:16:07,604 --> 01:16:09,648
 Perfect. What about our mule?
 
-832
-01:15:50,390 --> 01:15:51,850
+974
+01:16:10,399 --> 01:16:11,858
 Sara just confirmed he's going.
 
-833
-01:15:52,900 --> 01:15:55,190
+975
+01:16:12,901 --> 01:16:15,195
 We then ran the burn-mark
 through the database.
 
-834
-01:15:55,270 --> 01:15:57,230
+976
+01:16:15,279 --> 01:16:17,239
 We got a positive hit
 on a Patrick O'Reilly,
 
-835
-01:15:57,320 --> 01:15:59,030
+977
+01:16:17,322 --> 01:16:19,032
 age 29, from Belfast.
 
-836
-01:15:59,610 --> 01:16:03,070
+978
+01:16:19,616 --> 01:16:23,078
 O'Reilly had one prior for a domestic
 abuse incident three years back.
 
-837
-01:16:03,160 --> 01:16:04,700
+979
+01:16:23,161 --> 01:16:24,705
 Did two months in Hydebank.
 
-838
-01:16:05,330 --> 01:16:08,500
+980
+01:16:25,330 --> 01:16:28,500
 We entered O'Reilly
 into the facial rec bank for matches.
 
-839
-01:16:08,580 --> 01:16:09,870
+981
+01:16:28,584 --> 01:16:29,876
 We got a hit.
 
-840
-01:16:12,210 --> 01:16:15,500
+982
+01:16:29,960 --> 01:16:31,253
+(KEYBOARD CLACKING)
+
+983
+01:16:32,212 --> 01:16:35,507
 That's him in a Dublin pub
 with an IRA member four weeks ago.
 
-841
-01:16:15,920 --> 01:16:18,760
+984
+01:16:35,924 --> 01:16:38,760
 It's a known IRA meeting place
 we've had under surveillance for years.
 
-842
-01:16:22,720 --> 01:16:23,840
+985
+01:16:42,723 --> 01:16:43,849
+(PRIME MINISTER)
 And the other two with him?
 
-843
-01:16:24,090 --> 01:16:25,930
-I was about to get to them,
+986
+01:16:44,099 --> 01:16:45,934
+(BROMLEY) I was about to get to them,
 Minister.
 
-844
-01:16:26,010 --> 01:16:28,640
+987
+01:16:46,018 --> 01:16:48,645
 That and a woman we've just ID'd
 at the bus explosion.
 
-845
-01:16:35,690 --> 01:16:36,650
+988
+01:16:48,937 --> 01:16:50,063
+(KEYBOARD CLACKING)
+
+989
+01:16:50,480 --> 01:16:52,316
+(CELL PHONE VIBRATING)
+
+990
+01:16:55,694 --> 01:16:56,653
 Yes.
 
-846
-01:16:37,110 --> 01:16:38,900
+991
+01:16:57,112 --> 01:16:58,905
 Your mole's Hugh McGrath.
 
-847
-01:16:40,990 --> 01:16:42,280
+992
+01:17:00,991 --> 01:17:02,284
 Did you hear me, Hennessy?
 
-848
-01:16:43,200 --> 01:16:44,740
+993
+01:17:03,201 --> 01:17:04,745
 Are you sure now?
 
-849
-01:16:44,910 --> 01:16:45,910
+994
+01:17:04,911 --> 01:17:05,912
 Quite.
 
-850
-01:16:46,950 --> 01:16:50,370
+995
+01:17:06,955 --> 01:17:10,375
 We've ID'd the Knightsbridge bomber
 as Patrick O'Reilly of Belfast.
 
-851
-01:16:50,450 --> 01:16:54,210
+996
+01:17:10,459 --> 01:17:14,212
 Three weeks ago, Mr. O'Reilly was observed
 meeting Hugh McGrath in a Dublin pub.
 
-852
-01:16:55,040 --> 01:16:56,880
+997
+01:17:15,047 --> 01:17:16,882
 Where's McGrath and O'Reilly now?
 
-853
-01:16:58,300 --> 01:16:59,880
+998
+01:17:18,300 --> 01:17:19,885
 I don't know O'Reilly.
 
-854
-01:17:00,960 --> 01:17:02,550
+999
+01:17:20,969 --> 01:17:22,554
 I haven't seen McGrath.
 
-855
-01:17:02,630 --> 01:17:04,340
+1000
+01:17:22,638 --> 01:17:24,348
 Let me help you with McGrath.
 
-856
-01:17:05,550 --> 01:17:09,010
+1001
+01:17:25,557 --> 01:17:29,019
 His phone's GPS puts him
 52 meters south of you.
 
-857
-01:17:09,100 --> 01:17:11,390
+1002
+01:17:29,102 --> 01:17:31,396
 I'm watching him coming up your drive.
 
-858
-01:17:12,310 --> 01:17:13,730
+1003
+01:17:32,314 --> 01:17:33,732
 So, let's cut the shit.
 
-859
-01:17:14,600 --> 01:17:17,480
+1004
+01:17:34,608 --> 01:17:37,486
 There's a Chinook airborne
 right now with a 12-man team.
 
-860
-01:17:17,560 --> 01:17:21,150
+1005
+01:17:37,569 --> 01:17:41,156
 They'll land on your farm in 30 minutes
 to take McGrath into custody.
 
-861
-01:17:21,230 --> 01:17:24,240
+1006
+01:17:41,239 --> 01:17:44,242
 I needn't tell you how that'll go,
 nor how your cozy relationship with him
 
-862
-01:17:24,320 --> 01:17:25,860
+1007
+01:17:44,326 --> 01:17:45,869
 will sink your career...
 
-863
-01:17:26,110 --> 01:17:27,370
+1008
+01:17:46,119 --> 01:17:47,371
 This time for good.
 
-864
-01:17:29,370 --> 01:17:30,370
+1009
+01:17:49,373 --> 01:17:50,374
 Or?
 
-865
-01:17:30,450 --> 01:17:32,700
-Question McGrath your way
+1010
+01:17:50,457 --> 01:17:52,709
+(BROMLEY) Question McGrath your way
 and get what I need.
 
-866
-01:17:33,160 --> 01:17:34,620
+1011
+01:17:53,168 --> 01:17:54,628
 Names and locations of everyone.
 
-867
-01:17:34,960 --> 01:17:37,420
+1012
+01:17:54,961 --> 01:17:57,422
 You can't save him,
 but maybe you can save yourself.
 
-868
-01:17:37,500 --> 01:17:40,630
+1013
+01:17:57,506 --> 01:18:00,634
 Thirty minutes, get what I need,
 I'll turn them around.
 
-869
-01:17:42,760 --> 01:17:43,670
+1014
+01:18:02,761 --> 01:18:03,679
 Jim.
 
-870
-01:17:48,930 --> 01:17:53,270
+1015
+01:18:08,934 --> 01:18:13,271
 Send McGrath's men to the trailhead,
 see if Sean needs any help.
 
-871
-01:18:02,280 --> 01:18:03,650
+1016
+01:18:22,280 --> 01:18:23,657
 Give me your phone.
 
-872
-01:18:03,740 --> 01:18:05,280
-- What the hell?
+1017
+01:18:23,740 --> 01:18:25,283
+- (MCGRATH) What the hell?
 - Give me your phone.
 
-873
-01:18:07,280 --> 01:18:10,080
+1018
+01:18:25,492 --> 01:18:26,910
+(LIAM BREATHES HEAVILY)
+
+1019
+01:18:27,285 --> 01:18:30,080
 Get your ass in that chair there,
 you motherfucker.
 
-874
-01:18:11,990 --> 01:18:14,040
+1020
+01:18:31,998 --> 01:18:34,042
 - A London bus, for Christ sake!
 - Now hold on.
 
-875
-01:18:14,120 --> 01:18:15,410
+1021
+01:18:34,126 --> 01:18:35,419
 Not even fuckin' warnings!
 
-876
-01:18:16,000 --> 01:18:17,540
+1022
+01:18:36,002 --> 01:18:37,546
 Sixteen dead.
 
-877
-01:18:17,620 --> 01:18:20,340
+1023
+01:18:37,629 --> 01:18:40,340
 You stabbed me in the back
 and sanctioned this bloodbath
 
-878
-01:18:20,500 --> 01:18:21,880
+1024
+01:18:40,507 --> 01:18:41,883
 to get your war back on.
 
-879
-01:18:21,960 --> 01:18:24,630
+1025
+01:18:41,967 --> 01:18:44,636
 The plan had no balls.
 
-880
-01:18:24,720 --> 01:18:26,800
+1026
+01:18:44,720 --> 01:18:46,805
 This wasn't a Bombing Light campaign.
 
-881
-01:18:26,880 --> 01:18:28,840
+1027
+01:18:46,888 --> 01:18:48,849
 You said hurt 'em, and hurt 'em we did.
 
-882
-01:18:28,930 --> 01:18:30,640
+1028
+01:18:48,932 --> 01:18:50,642
 By killing women and children?
 
-883
-01:18:31,390 --> 01:18:33,470
+1029
+01:18:51,393 --> 01:18:53,478
 You can't restrain yourself.
 
-884
-01:18:33,680 --> 01:18:35,310
+1030
+01:18:53,687 --> 01:18:55,313
 You never could. Well, it's over.
 
-885
-01:18:36,810 --> 01:18:39,310
+1031
+01:18:56,815 --> 01:18:59,317
 Their names, aliases, and location.
 
-886
-01:18:39,400 --> 01:18:42,900
-You know I can't do that.
+1032
+01:18:59,401 --> 01:19:02,904
+You know I can't do that. (SCREAMING)
 
-887
-01:18:43,070 --> 01:18:44,820
+1033
+01:19:03,071 --> 01:19:04,823
 That's me being nice.
 
-888
-01:18:44,900 --> 01:18:47,450
+1034
+01:19:04,906 --> 01:19:07,451
 Now write. And it better match
 what I already know.
 
-889
-01:18:47,530 --> 01:18:51,200
+1035
+01:19:07,534 --> 01:19:11,204
 By God, I'll take you apart
 joint by joint!
 
-890
-01:18:51,910 --> 01:18:53,410
-You used me.
+1036
+01:19:11,913 --> 01:19:13,415
+(MCGRATH) You used me.
 
-891
-01:18:53,660 --> 01:18:57,160
+1037
+01:19:13,665 --> 01:19:17,169
 You wanted the pardons
 for your own political gain.
 
-892
-01:18:57,250 --> 01:18:59,290
+1038
+01:19:17,252 --> 01:19:19,296
 You're a disgrace to the cause.
 
-893
-01:19:02,040 --> 01:19:03,340
+1039
+01:19:19,379 --> 01:19:20,630
+(BREATHING HEAVILY)
+
+1040
+01:19:22,048 --> 01:19:23,341
 Four men and a woman.
 
-894
-01:19:07,920 --> 01:19:09,260
+1041
+01:19:27,929 --> 01:19:29,264
 Maggie Dunn?
 
-895
-01:19:09,470 --> 01:19:12,430
+1042
+01:19:29,473 --> 01:19:32,434
 Aye. You call her that.
 
-896
-01:19:13,310 --> 01:19:15,560
+1043
+01:19:33,310 --> 01:19:35,562
 Sara Mackay's her real name.
 
-897
-01:19:18,390 --> 01:19:19,810
+1044
+01:19:38,398 --> 01:19:39,816
 She works for you?
 
-898
-01:19:20,690 --> 01:19:22,230
+1045
+01:19:40,692 --> 01:19:42,235
 Bloody right.
 
-899
-01:19:22,310 --> 01:19:23,650
+1046
+01:19:42,319 --> 01:19:43,653
 Checks and balances.
 
-900
-01:19:27,280 --> 01:19:32,450
+1047
+01:19:43,737 --> 01:19:44,821
+(SCREAMING)
+
+1048
+01:19:47,282 --> 01:19:52,454
 An insurance policy,
 in case you lose your nerve,
 
-901
-01:19:32,530 --> 01:19:36,370
+1049
+01:19:52,537 --> 01:19:56,374
 which you have.
 So now, if they take the lads,
 
-902
-01:19:37,290 --> 01:19:40,420
+1050
+01:19:57,292 --> 01:20:00,420
 she will lead them straight back to you.
 
-903
-01:19:41,040 --> 01:19:43,210
+1051
+01:20:01,046 --> 01:20:03,215
 Not so easy anymore now, is it?
 
-904
-01:19:43,630 --> 01:19:46,920
+1052
+01:20:03,632 --> 01:20:06,927
 SO15 will be here
 in 20 minutes to take you in.
 
-905
-01:19:47,880 --> 01:19:49,800
+1053
+01:20:07,886 --> 01:20:09,805
 We both know that can't happen.
 
-906
-01:19:50,680 --> 01:19:55,220
+1054
+01:20:10,680 --> 01:20:15,227
 You gave me up to the Brits?
 
-907
-01:19:55,560 --> 01:19:58,980
+1055
+01:20:15,560 --> 01:20:18,980
 You tout bastard!
 
-908
-01:19:59,060 --> 01:20:00,640
-You gave yourself up.
+1056
+01:20:19,064 --> 01:20:20,649
+(LIAM) You gave yourself up.
 
-909
-01:20:01,440 --> 01:20:05,150
+1057
+01:20:21,441 --> 01:20:25,153
 They've got surveillance of you
 in an IRA pub with a Pat O'Reilly,
 
-910
-01:20:05,230 --> 01:20:07,280
+1058
+01:20:25,237 --> 01:20:27,280
 who they ID'd as the Knightsbridge bomber.
 
-911
-01:20:07,530 --> 01:20:10,280
+1059
+01:20:27,531 --> 01:20:30,283
 And thanks to your GPS phone,
 they tracked you here.
 
-912
-01:20:14,660 --> 01:20:16,450
+1060
+01:20:32,160 --> 01:20:33,286
+(SCOFFS)
+
+1061
+01:20:34,663 --> 01:20:36,456
 You broke every rule, Hughie.
 
-913
-01:20:18,290 --> 01:20:22,330
+1062
+01:20:38,291 --> 01:20:42,337
 And now I'm left to clean up your mess
 as I have for the past 30 years.
 
-914
-01:20:27,550 --> 01:20:28,590
+1063
+01:20:47,551 --> 01:20:48,593
 A final thing.
 
-915
-01:20:30,970 --> 01:20:31,880
+1064
+01:20:50,971 --> 01:20:51,888
 My wife?
 
-916
-01:20:33,800 --> 01:20:34,800
+1065
+01:20:53,807 --> 01:20:54,808
 What about her?
 
-917
-01:20:40,980 --> 01:20:45,610
+1066
+01:20:55,559 --> 01:20:57,227
+- (GRUNTS)
+- (SCREAMS)
+
+1067
+01:21:00,981 --> 01:21:05,610
 She hates you because of her brother.
 
-918
-01:20:46,480 --> 01:20:48,110
+1068
+01:21:06,486 --> 01:21:08,113
 And so she reached out to me.
 
-919
-01:20:48,320 --> 01:20:51,990
+1069
+01:21:08,321 --> 01:21:11,992
 So, yes, I helped her...
 
-920
-01:20:52,820 --> 01:20:53,990
+1070
+01:21:12,826 --> 01:21:13,994
 And she helped me.
 
-921
-01:21:12,470 --> 01:21:14,550
-- Yes.
-- Bromley.
+1071
+01:21:23,670 --> 01:21:24,963
+(GUNSHOT)
 
-922
-01:21:15,640 --> 01:21:16,970
+1072
+01:21:28,925 --> 01:21:30,969
+(CELL PHONE RINGING)
+
+1073
+01:21:32,470 --> 01:21:34,556
+- Yes.
+- (LIAM) Bromley.
+
+1074
+01:21:35,640 --> 01:21:36,975
 I got your names.
 
-923
-01:21:26,860 --> 01:21:28,940
+1075
+01:21:37,058 --> 01:21:38,059
+(GRUNTS)
+
+1076
+01:21:38,143 --> 01:21:39,728
+(BOTH PANTING)
+
+1077
+01:21:46,860 --> 01:21:48,945
 Oh, shit, I'm late. I've got to go.
 
-924
-01:21:31,190 --> 01:21:32,240
+1078
+01:21:51,197 --> 01:21:52,240
 Did you cum?
 
-925
-01:21:32,360 --> 01:21:35,610
-No.
+1079
+01:21:52,365 --> 01:21:55,619
+No. (CHUCKLES)
 I'm not a three-second wonder like you.
 
-926
-01:22:20,830 --> 01:22:23,950
+1080
+01:21:55,869 --> 01:21:56,953
+(IAN CHUCKLES)
+
+1081
+01:22:00,290 --> 01:22:02,250
+(WATER RUNNING)
+
+1082
+01:22:23,855 --> 01:22:24,940
+(DEVICE BEEPS)
+
+1083
+01:22:26,816 --> 01:22:28,234
+(WATER STOPS)
+
+1084
+01:22:34,866 --> 01:22:36,242
+(GARGLING)
+
+1085
+01:22:40,830 --> 01:22:43,959
 Well, keep wearing that shirt,
 I'll be a two-second wonder.
 
-927
-01:22:24,160 --> 01:22:25,870
+1086
+01:22:44,167 --> 01:22:45,877
 You're gonna have to get used to it.
 
-928
-01:22:29,460 --> 01:22:31,460
+1087
+01:22:49,464 --> 01:22:51,466
 Practice, practice, practice.
 
-929
-01:22:41,890 --> 01:22:42,890
+1088
+01:23:01,893 --> 01:23:02,894
 I'm close.
 
-930
-01:22:43,060 --> 01:22:47,140
-McGrath confessed.
+1089
+01:23:03,061 --> 01:23:07,148
+(LIAM) McGrath confessed.
 It was his op all along.
 
-931
-01:22:47,270 --> 01:22:51,980
+1090
+01:23:07,273 --> 01:23:11,987
 I've got the bombers' names and location.
 I'll text you the info. You may need it.
 
-932
-01:22:52,070 --> 01:22:55,320
+1091
+01:23:12,070 --> 01:23:15,323
 The one that killed Quan's daughter
 is Pat O'Reilly.
 
-933
-01:22:55,400 --> 01:22:57,450
+1092
+01:23:15,407 --> 01:23:17,450
 He's got a burn-mark on his right hand.
 
-934
-01:22:57,530 --> 01:23:02,580
+1093
+01:23:17,534 --> 01:23:22,580
 Either way, Sean, you end this, now.
 
-935
-01:23:03,030 --> 01:23:05,200
+1094
+01:23:23,039 --> 01:23:25,208
 - You hear me?
 - Understood.
 
-936
-01:24:39,340 --> 01:24:41,090
-You know why you're still alive?
+1095
+01:23:57,032 --> 01:23:57,991
+(GRUNTS)
 
-937
-01:24:41,340 --> 01:24:44,260
-You want the names?
+1096
+01:23:58,450 --> 01:23:59,451
+(BOTH GRUNTING)
 
-938
-01:24:45,300 --> 01:24:50,020
-They're in the phone.
+1097
+01:24:06,666 --> 01:24:08,043
+(SEAN GRUNTS)
+
+1098
+01:24:15,175 --> 01:24:17,427
+(BOTH GROAN)
+
+1099
+01:24:28,521 --> 01:24:29,522
+(YELLS)
+
+1100
+01:24:34,360 --> 01:24:35,361
+(SEAN YELLS)
+
+1101
+01:24:37,947 --> 01:24:38,948
+(GROANS)
+
+1102
+01:24:48,541 --> 01:24:50,418
+(SEAN BREATHING DEEPLY)
+
+1103
+01:24:59,344 --> 01:25:01,096
+(QUAN) You know why you're still alive?
+
+1104
+01:25:01,346 --> 01:25:04,265
+- (SEAN) You want the names?
+- (QUAN BREATHING HEAVILY)
+
+1105
+01:25:05,308 --> 01:25:10,021
+(SEAN) They're in the phone.
 The last text, code 7741.
 
-939
-01:24:52,140 --> 01:24:54,150
+1106
+01:25:12,148 --> 01:25:14,150
 Five names and their location in London.
 
-940
-01:24:55,270 --> 01:24:57,570
+1107
+01:25:15,276 --> 01:25:17,570
 O'Reilly set the bomb
 that killed your daughter.
 
-941
-01:24:59,030 --> 01:25:01,150
+1108
+01:25:19,030 --> 01:25:21,157
 He's got a burn-mark on his right hand.
 
-942
-01:25:02,450 --> 01:25:04,200
+1109
+01:25:22,450 --> 01:25:24,202
 You fought in the army.
 
-943
-01:25:04,570 --> 01:25:07,740
+1110
+01:25:24,577 --> 01:25:27,747
 Iraq. Royal Irish Regiment.
 
-944
-01:25:08,990 --> 01:25:10,200
+1111
+01:25:28,998 --> 01:25:30,208
 Two tours, Special Forces.
 
-945
-01:25:13,710 --> 01:25:17,090
+1112
+01:25:33,711 --> 01:25:37,090
 You're Catholic,
 but you fought for British. Why?
 
-946
-01:25:17,170 --> 01:25:18,710
+1113
+01:25:37,173 --> 01:25:38,716
 I fought for the regiment.
 
-947
-01:25:20,300 --> 01:25:23,590
+1114
+01:25:40,301 --> 01:25:43,596
 Out there, religion didn't matter.
 We were all the same. That's it.
 
-948
-01:25:25,760 --> 01:25:26,930
+1115
+01:25:45,765 --> 01:25:46,933
 Family?
 
-949
-01:25:27,510 --> 01:25:28,600
+1116
+01:25:47,517 --> 01:25:48,601
 A brother.
 
-950
-01:25:30,390 --> 01:25:31,810
+1117
+01:25:50,395 --> 01:25:51,813
 The rest have passed away.
 
-951
-01:26:12,430 --> 01:26:14,810
-Come in.
+1118
+01:26:01,614 --> 01:26:03,992
+(QUAN BREATHING HEAVILY)
 
-952
-01:26:18,940 --> 01:26:20,270
+1119
+01:26:28,349 --> 01:26:29,559
+(KNOCKING ON DOOR)
+
+1120
+01:26:31,311 --> 01:26:32,353
+(SIGHS DEEPLY)
+
+1121
+01:26:32,437 --> 01:26:34,814
+- Come in.
+- (DOOR OPENS)
+
+1122
+01:26:38,943 --> 01:26:40,278
 Take a seat, Sean.
 
-953
-01:26:24,240 --> 01:26:27,570
+1123
+01:26:44,240 --> 01:26:47,577
 Aye. You look like
 you've been through the wars.
 
-954
-01:26:27,860 --> 01:26:31,200
+1124
+01:26:47,869 --> 01:26:51,206
 Aye. Quan got the drop on me.
 
-955
-01:26:32,490 --> 01:26:35,160
+1125
+01:26:52,498 --> 01:26:55,168
 I gave him the names,
 he took my things and let me go.
 
-956
-01:26:35,960 --> 01:26:37,960
+1126
+01:26:55,960 --> 01:26:57,962
 When the bombers called in about the bus,
 
-957
-01:26:39,130 --> 01:26:41,250
+1127
+01:26:59,130 --> 01:27:01,257
 they didn't use a code word,
 
-958
-01:26:41,500 --> 01:26:43,250
+1128
+01:27:01,507 --> 01:27:03,259
 because someone tipped them off.
 
-959
-01:26:44,510 --> 01:26:48,090
+1129
+01:27:04,510 --> 01:27:08,097
 Only two people knew
 the reason for the code change.
 
-960
-01:26:48,840 --> 01:26:51,220
+1130
+01:27:08,848 --> 01:27:11,226
 You and me.
 
-961
-01:26:51,300 --> 01:26:54,560
+1131
+01:27:11,309 --> 01:27:14,562
 Liam, I didn't tell anyone. I swear.
 I spoke to Bromley, and that was it.
 
-962
-01:26:55,060 --> 01:26:58,560
+1132
+01:27:15,063 --> 01:27:18,566
 What if I told you I had Murphy stay
 
-963
-01:26:58,650 --> 01:27:00,650
+1133
+01:27:18,650 --> 01:27:20,652
 and watch Mary in London?
 
-964
-01:27:04,690 --> 01:27:06,780
+1134
+01:27:24,697 --> 01:27:26,783
 My own flesh and blood.
 
-965
-01:27:07,240 --> 01:27:08,150
+1135
+01:27:27,242 --> 01:27:28,159
 Liam, I'm so sorry.
 
-966
-01:27:08,240 --> 01:27:10,490
+1136
+01:27:28,243 --> 01:27:30,495
 I don't wanna know
 what happened in that room.
 
-967
-01:27:12,370 --> 01:27:16,040
+1137
+01:27:32,372 --> 01:27:36,042
 All I wanna know is, what was discussed
 
-968
-01:27:16,120 --> 01:27:19,710
+1138
+01:27:36,125 --> 01:27:39,712
 when your sweet Aunt Mary was with you?
 
-969
-01:27:19,790 --> 01:27:22,170
+1139
+01:27:39,796 --> 01:27:42,173
 Did she say she was involved
 with McGrath and the bombers?
 
-970
-01:27:22,250 --> 01:27:23,290
+1140
+01:27:42,257 --> 01:27:43,299
 No. Never.
 
-971
-01:27:24,340 --> 01:27:26,300
+1141
+01:27:44,342 --> 01:27:46,302
 She was upset about her brother
 and kept on about that.
 
-972
-01:27:26,380 --> 01:27:28,800
+1142
+01:27:46,386 --> 01:27:48,805
 When you and I were talking
 about the code word, she asked about 'em,
 
-973
-01:27:28,880 --> 01:27:30,130
+1143
+01:27:48,888 --> 01:27:50,139
 but she never let on about McGrath.
 
-974
-01:27:30,220 --> 01:27:32,390
+1144
+01:27:50,223 --> 01:27:52,392
 Oh, so, she could hear us on the phone?
 
-975
-01:27:32,470 --> 01:27:34,810
+1145
+01:27:52,475 --> 01:27:54,811
 No, it was only after our call
 she mentioned the code word.
 
-976
-01:27:34,890 --> 01:27:37,480
+1146
+01:27:54,894 --> 01:27:57,480
 - She thought they wouldn't be of use.
 - So, she steered the conversation?
 
-977
-01:27:38,100 --> 01:27:39,600
+1147
+01:27:58,106 --> 01:27:59,607
 Well, yes, I guess she did.
 
-978
-01:27:39,690 --> 01:27:42,770
+1148
+01:27:59,691 --> 01:28:02,777
 Ah. A good manipulator, she is.
 
-979
-01:27:42,860 --> 01:27:44,020
+1149
+01:28:02,860 --> 01:28:04,028
 So, she told the bombers?
 
-980
-01:27:44,110 --> 01:27:47,070
+1150
+01:28:04,112 --> 01:28:07,073
 She told McGrath, McGrath told them.
 
-981
-01:27:47,150 --> 01:27:48,650
+1151
+01:28:07,156 --> 01:28:08,658
 Thick as thieves, they were.
 
-982
-01:27:49,400 --> 01:27:52,160
+1152
+01:28:09,409 --> 01:28:12,161
 She tricked the information
 out of ya, Sean.
 
-983
-01:27:53,530 --> 01:27:55,290
+1153
+01:28:13,538 --> 01:28:15,290
 She used you.
 
-984
-01:27:56,080 --> 01:27:57,370
+1154
+01:28:16,082 --> 01:28:17,375
 - Liam, I...
 - Shut up!
 
-985
-01:28:09,920 --> 01:28:11,800
+1155
+01:28:24,215 --> 01:28:25,341
+(LIAM SIGHS)
+
+1156
+01:28:29,929 --> 01:28:31,806
 Bury that pig in the sow-pen.
 
-986
-01:28:13,260 --> 01:28:15,890
+1157
+01:28:33,266 --> 01:28:35,893
 And after that,
 I have one final task for you.
 
-987
-01:28:17,220 --> 01:28:18,640
+1158
+01:28:37,228 --> 01:28:38,646
 And when that's done...
 
-988
-01:28:21,270 --> 01:28:23,020
+1159
+01:28:41,274 --> 01:28:43,026
 go back to New York, son.
 
-989
-01:28:51,920 --> 01:28:52,970
+1160
+01:29:11,929 --> 01:29:12,972
 Thank you.
 
-990
-01:29:02,520 --> 01:29:05,810
+1161
+01:29:14,557 --> 01:29:16,309
+(INDISTINCT CONVERSATION)
+
+1162
+01:29:22,523 --> 01:29:25,818
 Zero, this is Alpha Two.
 Echo One toward target house.
 
-991
-01:29:06,440 --> 01:29:08,940
-Zero. Echo One's
+1163
+01:29:26,444 --> 01:29:28,946
+(ROSS) Zero. Echo One's
 toward the target house. Copy.
 
-992
-01:29:09,650 --> 01:29:12,610
-Echo One has entered
+1164
+01:29:29,655 --> 01:29:32,617
+(ELECTRICIAN) Echo One has entered
 the target house and unsighted to me.
 
-993
-01:29:13,280 --> 01:29:16,240
+1165
+01:29:33,284 --> 01:29:36,245
 Zero. Echo One is in target house
 and unsighted to you. Copy.
 
-994
-01:29:16,320 --> 01:29:17,620
+1166
+01:29:36,329 --> 01:29:37,622
 Thank Christ for that.
 
-995
-01:29:19,040 --> 01:29:22,210
+1167
+01:29:39,040 --> 01:29:42,210
 Sierra call signs. Confirm when Echo One
 is complete in target house.
 
-996
-01:29:22,290 --> 01:29:23,870
+1168
+01:29:42,293 --> 01:29:43,878
 Sierra Two, roger that.
 
-997
-01:29:25,500 --> 01:29:27,040
+1169
+01:29:45,505 --> 01:29:47,048
 Sierra Three, roger that.
 
-998
-01:29:33,880 --> 01:29:35,180
+1170
+01:29:53,888 --> 01:29:55,181
 X-Ray One on balcony.
 
-999
-01:29:39,140 --> 01:29:40,720
-Echo One approaching front door.
+1171
+01:29:59,143 --> 01:30:00,728
+(BROMLEY) Echo One approaching front door.
 
-1000
-01:29:55,820 --> 01:29:56,910
+1172
+01:30:15,827 --> 01:30:16,911
 How'd it go?
 
-1001
-01:29:57,910 --> 01:29:58,910
+1173
+01:30:17,912 --> 01:30:18,913
 It's done.
 
-1002
-01:30:06,540 --> 01:30:09,040
-I have visual. X-Ray One
+1174
+01:30:26,546 --> 01:30:29,048
+(JOKER) I have visual. X-Ray One
 and Echo One have left the room.
 
-1003
-01:30:09,130 --> 01:30:10,590
+1175
+01:30:29,132 --> 01:30:30,591
 All other X-Rays remain.
 
-1004
-01:30:21,760 --> 01:30:22,930
+1176
+01:30:37,056 --> 01:30:39,267
+(INDISTINCT CHATTER)
+
+1177
+01:30:41,769 --> 01:30:42,937
 Zero, this is Alpha Two.
 
-1005
-01:30:23,020 --> 01:30:25,560
+1178
+01:30:43,020 --> 01:30:45,565
 One unknown Echo and two children
 entering the target house.
 
-1006
-01:30:25,730 --> 01:30:26,640
-Roger that.
+1179
+01:30:45,731 --> 01:30:46,649
+(ROSS) Roger that.
 
-1007
-01:30:48,880 --> 01:30:50,130
+1180
+01:31:08,880 --> 01:31:10,131
 He's a slobbering oaf.
 
-1008
-01:30:50,500 --> 01:30:51,420
+1181
+01:31:10,506 --> 01:31:11,424
 It had to be done.
 
-1009
-01:30:52,500 --> 01:30:54,760
+1182
+01:31:12,508 --> 01:31:14,760
 I had to shag him.
 It was fuckin' disgusting.
 
-1010
-01:30:55,380 --> 01:30:57,430
+1183
+01:31:15,386 --> 01:31:17,430
 Look, I know what you
 went through. All right?
 
-1011
-01:30:57,510 --> 01:30:59,140
+1184
+01:31:17,513 --> 01:31:19,140
 Do ya, Denis? Do ya really?
 
-1012
-01:30:59,840 --> 01:31:02,100
+1185
+01:31:19,849 --> 01:31:22,101
 Well, maybe for the next bomb,
 you can set up a gay Magistrate.
 
-1013
-01:31:02,180 --> 01:31:03,430
+1186
+01:31:22,185 --> 01:31:23,436
 How would that be?
 
-1014
-01:31:04,020 --> 01:31:05,390
+1187
+01:31:24,020 --> 01:31:25,396
 Taking a shower.
 
-1015
-01:31:07,850 --> 01:31:08,810
-Next.
+1188
+01:31:27,857 --> 01:31:28,816
+(GUARD) Next.
 
-1016
-01:31:28,160 --> 01:31:29,540
-X-Ray One entering living room.
+1189
+01:31:48,169 --> 01:31:49,545
+(JOKER) X-Ray One entering living room.
 
-1017
-01:31:31,460 --> 01:31:33,790
+1190
+01:31:51,464 --> 01:31:53,799
 All X-Rays now complete in living room.
 
-1018
-01:31:34,590 --> 01:31:36,590
+1191
+01:31:54,592 --> 01:31:56,594
 All call signs
 move to your final rendezvous.
 
-1019
-01:32:16,380 --> 01:32:18,630
+1192
+01:32:18,741 --> 01:32:19,742
+(DOG BARKS)
+
+1193
+01:32:36,384 --> 01:32:38,636
 X-Rays and Echo complete in living room.
 
-1020
-01:32:28,640 --> 01:32:31,270
+1194
+01:32:48,646 --> 01:32:51,274
 We've lost visual.
 Echo One has closed the blinds.
 
-1021
-01:32:31,980 --> 01:32:33,850
+1195
+01:32:51,983 --> 01:32:53,859
 Fox One, you have control.
 
-1022
-01:32:33,940 --> 01:32:35,940
-Roger that. I have control.
+1196
+01:32:53,943 --> 01:32:55,945
+(JOKER) Roger that. I have control.
 
-1023
-01:32:36,020 --> 01:32:37,570
+1197
+01:32:56,028 --> 01:32:57,571
 Standby. Standby.
 
-1024
-01:32:41,820 --> 01:32:43,200
+1198
+01:32:59,407 --> 01:33:01,367
+(DOORBELL RINGING)
+
+1199
+01:33:01,826 --> 01:33:03,202
 Stop, stop, stop!
 
-1025
-01:32:43,320 --> 01:32:44,370
-Wait!
+1200
+01:33:03,327 --> 01:33:04,370
+(DENIS) Wait!
 
-1026
-01:32:51,460 --> 01:32:53,830
+1201
+01:33:11,460 --> 01:33:13,838
 Sierra call signs, report what's going on.
 
-1027
-01:32:53,920 --> 01:32:56,090
-I've two unknowns
+1202
+01:33:13,921 --> 01:33:16,090
+(MI5 TECH) I've two unknowns
 at the front door. Wait.
 
-1028
-01:32:56,170 --> 01:32:58,800
+1203
+01:33:16,173 --> 01:33:18,801
 Sorry for the bother,
 but there's a gas leak in the building,
 
-1029
-01:32:58,880 --> 01:33:01,920
+1204
+01:33:18,884 --> 01:33:21,929
 and the gas man
 needs entry for an inspection.
 
-1030
-01:33:02,050 --> 01:33:05,050
+1205
+01:33:22,054 --> 01:33:25,057
 Our gas works fine. There's no problem.
 
-1031
-01:33:05,890 --> 01:33:07,930
+1206
+01:33:25,891 --> 01:33:27,935
 He needs to inspect
 all the flats, regardless.
 
-1032
-01:33:08,010 --> 01:33:10,680
+1207
+01:33:28,019 --> 01:33:30,688
 He won't take a moment,
 and it is an emergency.
 
-1033
-01:33:15,190 --> 01:33:17,820
+1208
+01:33:33,899 --> 01:33:35,109
+(KNOCKING ON DOOR)
+
+1209
+01:33:35,192 --> 01:33:37,820
 It's quite important, Mr. Upton.
 
-1034
-01:33:17,900 --> 01:33:20,530
+1210
+01:33:37,903 --> 01:33:40,531
 By law, I'm allowed to use my own key.
 
-1035
-01:33:20,610 --> 01:33:23,950
+1211
+01:33:40,614 --> 01:33:43,951
 All right. Just a second.
 
-1036
-01:33:36,960 --> 01:33:39,210
+1212
+01:33:44,452 --> 01:33:45,453
+(MOUTHING)
+
+1213
+01:33:56,964 --> 01:33:59,216
 Come down when you're done,
 and I'll take you to the next flat.
 
-1037
-01:33:39,300 --> 01:33:40,960
+1214
+01:33:59,300 --> 01:34:00,968
 Thank you. I will be very fast.
 
-1038
-01:33:46,720 --> 01:33:47,800
+1215
+01:34:06,724 --> 01:34:07,808
 This way.
 
-1039
-01:34:10,950 --> 01:34:12,330
+1216
+01:34:30,956 --> 01:34:32,333
 Can I see the boiler, please?
 
-1040
-01:34:12,410 --> 01:34:14,540
+1217
+01:34:32,416 --> 01:34:34,543
 Would you mind
 putting your bag on the table?
 
-1041
-01:34:21,590 --> 01:34:22,670
+1218
+01:34:41,592 --> 01:34:42,676
 Open it up.
 
-1042
-01:34:34,020 --> 01:34:34,980
+1219
+01:34:47,348 --> 01:34:48,349
+(BAG OPENING)
+
+1220
+01:34:54,021 --> 01:34:54,980
 All right.
 
-1043
-01:34:55,830 --> 01:34:57,870
+1221
+01:35:13,290 --> 01:35:14,542
+(GRUNTING)
+
+1222
+01:35:15,835 --> 01:35:17,878
 All call signs, standby, standby.
 
-1044
-01:36:40,680 --> 01:36:41,730
+1223
+01:35:33,769 --> 01:35:35,312
+(GROANS)
+
+1224
+01:35:36,439 --> 01:35:37,606
+(GROANS)
+
+1225
+01:35:39,900 --> 01:35:41,527
+(WHIMPERING)
+
+1226
+01:35:53,873 --> 01:35:55,249
+(BOTH GRUNTING)
+
+1227
+01:35:55,332 --> 01:35:56,167
+(SCREAMS)
+
+1228
+01:36:04,091 --> 01:36:05,593
+(BOTH GRUNTING)
+
+1229
+01:36:35,831 --> 01:36:38,501
+(BOTH GRUNTING)
+
+1230
+01:36:40,836 --> 01:36:42,338
+(CHOKING)
+
+1231
+01:36:43,964 --> 01:36:45,174
+(QUAN GRUNTS)
+
+1232
+01:36:52,723 --> 01:36:55,184
+(GRUNTS, PANTING)
+
+1233
+01:37:00,689 --> 01:37:01,732
 All call signs, go!
 
-1045
-01:36:52,910 --> 01:36:54,660
-Get down! Get down!
+1234
+01:37:01,815 --> 01:37:03,692
+- (DEVICE BEEPS)
+- (EXPLOSION)
 
-1046
-01:36:54,740 --> 01:36:57,410
-Get down! Get down! Get down!
+1235
+01:37:12,910 --> 01:37:14,662
+(JOKER) Get down! Get down!
 
-1047
-01:36:59,700 --> 01:37:00,830
-Room clear!
+1236
+01:37:14,745 --> 01:37:17,414
+- Get down! Get down! Get down!
+- (MAGGIE SCREAMING)
 
-1048
-01:37:05,750 --> 01:37:06,710
+1237
+01:37:19,708 --> 01:37:20,834
+(JOKER) Room clear!
+
+1238
+01:37:20,918 --> 01:37:22,920
+- (ELEVATOR BELL DINGS)
+- (DOG WHINING)
+
+1239
+01:37:23,003 --> 01:37:24,004
+(DOOR OPENS)
+
+1240
+01:37:25,756 --> 01:37:26,715
 X-Rays down.
 
-1049
-01:37:06,790 --> 01:37:08,380
-What about Echo?
+1241
+01:37:26,799 --> 01:37:28,384
+(ROSS) What about Echo?
 
-1050
-01:37:08,460 --> 01:37:10,010
+1242
+01:37:28,467 --> 01:37:30,010
 She's alive, under control.
 
-1051
-01:37:11,470 --> 01:37:12,550
+1243
+01:37:31,470 --> 01:37:32,555
 Who planned this?
 
-1052
-01:37:13,260 --> 01:37:14,340
+1244
+01:37:33,264 --> 01:37:34,348
 Go fuck yourself.
 
-1053
-01:37:21,180 --> 01:37:22,810
+1245
+01:37:35,432 --> 01:37:37,434
+(SCREAMING)
+
+1246
+01:37:41,188 --> 01:37:42,815
 What's this, eh? Your next bomb?
 
-1054
-01:37:22,980 --> 01:37:24,100
+1247
+01:37:42,982 --> 01:37:44,108
 Go fuck yourself.
 
-1055
-01:37:29,150 --> 01:37:30,730
+1248
+01:37:44,525 --> 01:37:45,776
+(SCREAMING)
+
+1249
+01:37:49,154 --> 01:37:50,739
 Talk, you rotten slag!
 
-1056
-01:37:39,240 --> 01:37:40,700
+1250
+01:37:50,823 --> 01:37:52,616
+(SCREAMING)
+
+1251
+01:37:53,242 --> 01:37:56,954
+(SOBBING)
+
+1252
+01:37:59,248 --> 01:38:00,708
 It's too late.
 
-1057
-01:37:42,370 --> 01:37:44,920
+1253
+01:38:02,376 --> 01:38:04,920
 Nine minutes it blows. No time to land.
 
-1058
-01:37:45,000 --> 01:37:49,210
-What's that? A plane? Which plane?
+1254
+01:38:05,004 --> 01:38:09,216
+- What's that? A plane? Which plane?
+- (SPITS)
 
-1059
-01:37:49,300 --> 01:37:50,500
+1255
+01:38:09,300 --> 01:38:10,509
 Which plane?
 
-1060
-01:37:51,130 --> 01:37:52,550
-Open her shirt.
+1256
+01:38:11,135 --> 01:38:12,553
+(RICE) Open her shirt.
 
-1061
-01:38:00,310 --> 01:38:01,470
+1257
+01:38:19,059 --> 01:38:20,227
+(ELECTRICITY CRACKLES)
+
+1258
+01:38:20,311 --> 01:38:21,478
 This is how it works.
 
-1062
-01:38:02,890 --> 01:38:06,190
+1259
+01:38:22,896 --> 01:38:26,191
 I ask questions. You answer.
 
-1063
-01:38:06,850 --> 01:38:11,860
+1260
+01:38:26,859 --> 01:38:31,864
 That's right. Flight 136 to Rome.
 Passenger name Ian Wood.
 
-1064
-01:38:11,940 --> 01:38:12,820
+1261
+01:38:31,947 --> 01:38:32,823
 Bomb's in his laptop.
 
-1065
-01:38:13,240 --> 01:38:15,360
+1262
+01:38:33,240 --> 01:38:35,367
 Set to go off at 3:00 p.m. exactly.
 
-1066
-01:38:15,450 --> 01:38:18,070
-Ladies and gentlemen,
+1263
+01:38:35,451 --> 01:38:38,078
+(ANNOUNCER) Ladies and gentlemen,
 please be advised.
 
-1067
-01:38:18,160 --> 01:38:21,580
+1264
+01:38:38,162 --> 01:38:41,582
 Flight 136 to Rome
 has been further delayed.
 
-1068
-01:38:21,660 --> 01:38:23,700
+1265
+01:38:41,665 --> 01:38:43,709
 We apologize for the inconvenience.
 
-1069
-01:38:23,790 --> 01:38:26,120
+1266
+01:38:43,792 --> 01:38:46,128
 Again, Flight 136 to Rome...
 
-1070
-01:38:26,210 --> 01:38:29,130
-Ian Wood!
+1267
+01:38:46,211 --> 01:38:49,131
+(OFFICER) Ian Wood!
 Is there an Ian Wood here?
 
-1071
-01:38:29,210 --> 01:38:31,500
+1268
+01:38:49,214 --> 01:38:51,508
 Ian Wood! Ian Wood?
 
-1072
-01:38:31,590 --> 01:38:34,300
+1269
+01:38:51,592 --> 01:38:54,303
 Is there an Ian Wood here? Ian Wood?
 
-1073
-01:38:35,050 --> 01:38:39,220
+1270
+01:38:55,054 --> 01:38:59,224
 Ian Wood? Ian Wood? Ian Wood?
 
-1074
-01:38:40,640 --> 01:38:42,560
+1271
+01:39:00,643 --> 01:39:02,561
 What's going on? What's going on?
 
-1075
-01:38:42,640 --> 01:38:44,890
+1272
+01:39:02,645 --> 01:39:04,897
 They're looking for someone
 named Ian Wood.
 
-1076
-01:38:44,980 --> 01:38:47,100
+1273
+01:39:04,980 --> 01:39:07,107
 That's me. I'm Ian Wood.
 
-1077
-01:38:47,190 --> 01:38:48,980
-Ian Wood!
+1274
+01:39:07,191 --> 01:39:08,984
+(OFFICER) Ian Wood!
 
-1078
-01:38:49,060 --> 01:38:50,110
+1275
+01:39:09,068 --> 01:39:10,110
 I'm Ian Wood.
 
-1079
-01:38:51,520 --> 01:38:52,980
-- Is that your laptop?
+1276
+01:39:11,528 --> 01:39:12,988
+- (PANTING) Is that your laptop?
 - Yeah.
 
-1080
-01:38:55,110 --> 01:38:57,070
-Move! Move! Move!
+1277
+01:39:15,115 --> 01:39:17,076
+- Move! Move! Move!
+- (PEOPLE SCREAMING)
 
-1081
-01:38:57,150 --> 01:38:59,950
+1278
+01:39:17,159 --> 01:39:19,953
 Get down! Get down! Get down! Get down!
 
-1082
-01:39:00,410 --> 01:39:02,280
+1279
+01:39:20,412 --> 01:39:22,289
 Get down! Get down!
 
-1083
-01:39:02,790 --> 01:39:04,500
+1280
+01:39:22,790 --> 01:39:24,500
 Get down! Get down!
 
-1084
-01:39:04,580 --> 01:39:06,120
+1281
+01:39:24,583 --> 01:39:26,126
 Move! Move!
 
-1085
-01:39:06,210 --> 01:39:07,750
+1282
+01:39:26,210 --> 01:39:27,753
 Get down! Get down! Move!
 
-1086
-01:39:07,830 --> 01:39:12,340
+1283
+01:39:27,836 --> 01:39:32,341
 Get outta the way! Get out!
-Move here! Get out!
+Move here! Get out! (GROANS)
 
-1087
-01:39:13,880 --> 01:39:14,880
+1284
+01:39:33,884 --> 01:39:34,885
 Move!
 
-1088
-01:39:35,780 --> 01:39:39,530
-She said a gas man turned up
+1285
+01:39:39,473 --> 01:39:40,557
+(GRUNTS)
+
+1286
+01:39:55,781 --> 01:39:59,535
+(JOKER) She said a gas man turned up
 with an assault gun, a Chinaman.
 
-1089
-01:39:39,610 --> 01:39:42,910
+1287
+01:39:59,618 --> 01:40:02,913
 Started shooting, killed everyone but her,
 and then walked out the door.
 
-1090
-01:39:42,990 --> 01:39:44,450
+1288
+01:40:02,996 --> 01:40:04,456
 She said he was a Chinaman?
 
-1091
-01:39:44,540 --> 01:39:46,500
+1289
+01:40:04,540 --> 01:40:06,500
 Affirmative. About 60 years old.
 
-1092
-01:39:46,580 --> 01:39:48,330
-Just got word
+1290
+01:40:06,583 --> 01:40:08,335
+(ROSS) Just got word
 the device is neutralized.
 
-1093
-01:39:48,410 --> 01:39:51,580
+1291
+01:40:08,419 --> 01:40:11,588
 Good work. Fox Hunt is now terminated.
 
-1094
-01:39:51,790 --> 01:39:53,380
+1292
+01:40:11,797 --> 01:40:13,382
 No loose ends.
 
-1095
-01:39:53,460 --> 01:39:54,920
+1293
+01:40:13,465 --> 01:40:14,925
 Understood.
 
-1096
-01:40:05,680 --> 01:40:09,100
-It's Bromley. I need an AP
+1294
+01:40:23,058 --> 01:40:24,059
+(DOG BARKS)
+
+1295
+01:40:25,686 --> 01:40:29,106
+(BROMLEY) It's Bromley. I need an AP
 out to all city-district units
 
-1097
-01:40:09,180 --> 01:40:11,690
+1296
+01:40:29,189 --> 01:40:31,692
 from Wapping High Street to the A1203.
 
-1098
-01:40:12,860 --> 01:40:17,820
+1297
+01:40:32,860 --> 01:40:37,823
 Suspect's an Asian male, 61 years of age,
 five feet, eight inches, 11 stone.
 
-1099
-01:40:18,490 --> 01:40:20,360
+1298
+01:40:38,490 --> 01:40:40,367
 His name's Ngoc Minh Quan.
 
-1100
-01:40:20,490 --> 01:40:23,570
+1299
+01:40:40,492 --> 01:40:43,579
 He's armed
 and has U.S. Special Forces training.
 
-1101
-01:40:23,660 --> 01:40:25,410
+1300
+01:40:43,662 --> 01:40:45,414
 Use extreme caution.
 
-1102
-01:40:54,310 --> 01:40:55,150
+1301
+01:41:06,185 --> 01:41:08,270
+(SIGHS)
+
+1302
+01:41:08,353 --> 01:41:09,855
+(CELL PHONE VIBRATING)
+
+1303
+01:41:14,318 --> 01:41:15,152
 Yes.
 
-1103
-01:40:55,400 --> 01:40:58,280
+1304
+01:41:15,402 --> 01:41:18,280
 I was on the flight
 they targeted to blow up.
 
-1104
-01:40:58,360 --> 01:41:00,150
+1305
+01:41:18,363 --> 01:41:20,157
 Because of your timely information,
 we stopped it.
 
-1105
-01:41:00,240 --> 01:41:01,900
+1306
+01:41:20,240 --> 01:41:21,909
 I wanted to thank you personally.
 
-1106
-01:41:03,490 --> 01:41:05,070
+1307
+01:41:23,494 --> 01:41:25,078
 Thank God you're OK.
 
-1107
-01:41:05,530 --> 01:41:08,620
-The bombers were neutralized,
+1308
+01:41:25,537 --> 01:41:28,624
+(DAVIES) The bombers were neutralized,
 even Sara McKay,
 
-1108
-01:41:09,040 --> 01:41:11,370
+1309
+01:41:29,041 --> 01:41:31,376
 whom you called "Maggie."
 
-1109
-01:41:13,580 --> 01:41:17,290
+1310
+01:41:33,587 --> 01:41:37,299
 She gave a reporter the bomb
 that was to have been put on my flight.
 
-1110
-01:41:17,590 --> 01:41:19,760
+1311
+01:41:37,591 --> 01:41:39,760
 She also carried out the bus carnage,
 
-1111
-01:41:19,880 --> 01:41:24,510
+1312
+01:41:39,885 --> 01:41:44,515
 and is directly connected to you,
 and McGrath.
 
-1112
-01:41:25,050 --> 01:41:27,810
+1313
+01:41:45,057 --> 01:41:47,810
 We have call-pens going
 to and from her off the cell tower
 
-1113
-01:41:27,890 --> 01:41:29,470
+1314
+01:41:47,893 --> 01:41:49,478
 by your farm and town homes.
 
-1114
-01:41:29,560 --> 01:41:32,100
+1315
+01:41:49,561 --> 01:41:52,105
 That's 250 precision locations
 and activations
 
-1115
-01:41:32,180 --> 01:41:34,770
+1316
+01:41:52,189 --> 01:41:54,775
 - consistent with your mutual activities.
 - Katherine...
 
-1116
-01:41:34,850 --> 01:41:38,070
+1317
+01:41:54,858 --> 01:41:58,070
 I've spoken to the PM.
 He's agreed to keep you in office for now.
 
-1117
-01:41:38,150 --> 01:41:40,980
+1318
+01:41:58,153 --> 01:42:00,989
 I'm issuing pardons
 for five On-the-Runs, one is your cousin.
 
-1118
-01:41:41,070 --> 01:41:44,700
+1319
+01:42:01,073 --> 01:42:04,701
 But, make no mistake,
 Deputy First Minister, you are ours now.
 
-1119
-01:41:45,990 --> 01:41:47,740
+1320
+01:42:05,994 --> 01:42:07,746
 I say jump, you say where.
 
-1120
-01:41:48,620 --> 01:41:50,370
+1321
+01:42:08,622 --> 01:42:10,374
 You're on the next flight back to London.
 
-1121
-01:41:50,450 --> 01:41:53,500
+1322
+01:42:10,457 --> 01:42:13,502
 Tomorrow you'll brief
 SO15 and myself on everything you know.
 
-1122
-01:41:54,710 --> 01:41:56,290
+1323
+01:42:14,711 --> 01:42:16,296
 All of it.
 
-1123
-01:42:50,140 --> 01:42:51,180
+1324
+01:42:16,505 --> 01:42:17,798
+(LINE DISCONNECTS)
+
+1325
+01:42:39,528 --> 01:42:41,363
+(DOORBELL RINGING)
+
+1326
+01:43:10,142 --> 01:43:11,184
 Good evening, sir.
 
-1124
-01:43:30,090 --> 01:43:31,140
+1327
+01:43:50,098 --> 01:43:51,141
 How did you find me?
 
-1125
-01:43:32,890 --> 01:43:34,640
+1328
+01:43:52,893 --> 01:43:54,645
 I gave you the names, like I said.
 
-1126
-01:43:38,770 --> 01:43:43,270
+1329
+01:43:58,774 --> 01:44:03,278
 This woman, she's a bomber.
 You lie. You plan everything.
 
-1127
-01:43:44,780 --> 01:43:46,190
+1330
+01:44:04,780 --> 01:44:06,198
 For whatever it's worth...
 
-1128
-01:43:47,820 --> 01:43:50,280
+1331
+01:44:07,824 --> 01:44:10,285
 I never intended to hurt your daughter
 
-1129
-01:43:51,280 --> 01:43:52,910
+1332
+01:44:11,286 --> 01:44:12,913
 or any of those people.
 
-1130
-01:43:55,870 --> 01:43:57,040
+1333
+01:44:15,874 --> 01:44:17,042
 Send.
 
-1131
-01:43:59,250 --> 01:44:00,250
+1334
+01:44:19,252 --> 01:44:20,253
 Do it!
 
-1132
-01:44:16,220 --> 01:44:19,060
+1335
+01:44:32,099 --> 01:44:33,100
+(CHIMES)
+
+1336
+01:44:36,228 --> 01:44:39,064
 It's now on the Internet,
 you and your mistress.
 
-1133
-01:44:19,810 --> 01:44:22,190
+1337
+01:44:39,815 --> 01:44:42,192
 The whole world will know
 you are a terrorist.
 
-1134
-01:44:24,860 --> 01:44:26,530
+1338
+01:44:44,861 --> 01:44:46,530
 Good-bye, Mr. Hennessy.
 
-1135
-01:45:16,660 --> 01:45:17,700
-Yes?
+1339
+01:45:01,086 --> 01:45:02,337
+(GRUNTS)
 
-1136
-01:45:17,780 --> 01:45:20,500
+1340
+01:45:02,421 --> 01:45:04,256
+- (PANTING)
+- (FOOTSTEPS)
+
+1341
+01:45:13,932 --> 01:45:15,851
+(OBJECTS CLATTERING)
+
+1342
+01:45:24,776 --> 01:45:26,319
+(COMPUTER PINGS)
+
+1343
+01:45:36,663 --> 01:45:37,706
+(BROMLEY) Yes?
+
+1344
+01:45:37,789 --> 01:45:40,500
 It's Landesman, sir, in S-11.
 I've got him.
 
-1137
-01:45:20,580 --> 01:45:21,580
+1345
+01:45:40,584 --> 01:45:41,585
 Where?
 
-1138
-01:45:21,660 --> 01:45:24,710
-The Happy Peacock Takeaway.
+1346
+01:45:41,668 --> 01:45:44,713
+(LANDESMAN) The Happy Peacock Takeaway.
 He's returned.
 
-1139
-01:45:24,790 --> 01:45:26,460
+1347
+01:45:44,796 --> 01:45:46,465
 Do I send in a team?
 
-1140
-01:45:27,880 --> 01:45:29,000
+1348
+01:45:47,883 --> 01:45:49,009
 No.
 
-1141
-01:45:30,380 --> 01:45:32,380
+1349
+01:45:50,385 --> 01:45:52,387
 I believe we owe this chap something.
 
-1142
-01:45:32,880 --> 01:45:36,470
+1350
+01:45:52,888 --> 01:45:56,475
 Keep back for now.
 Observe and report only.
 
-1143
-01:45:36,550 --> 01:45:37,550
-Yes, sir.
+1351
+01:45:56,558 --> 01:45:57,559
+(LANDESMAN) Yes, sir.
+
+1352
+01:46:29,800 --> 01:46:31,259
+(EXHALES)
 
