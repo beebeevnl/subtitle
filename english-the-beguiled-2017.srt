@@ -1,0 +1,5957 @@
+﻿1
+00:00:01,050 --> 00:00:07,050
+<font color="#800080"><b>Improved & Synced by BanglarBagh</b></font>
+
+2
+00:00:31,040 --> 00:00:33,270
+<b><font color="#808000">(CRICKETS CHIRPING)</font></b>
+<b><font color="#808000">(BIRDS TWITTERING)</font></b>
+
+3
+00:00:39,400 --> 00:00:41,436
+<b><font color="#808000">(AMY HUMMING)</font></b>
+
+4
+00:01:25,320 --> 00:01:27,072
+<b><font color="#808000">(CONTINUES HUMMING)</font></b>
+
+5
+00:01:31,760 --> 00:01:33,830
+<b><font color="#808000">(DISTANT GUNFIRE)</font></b>
+
+6
+00:01:53,200 --> 00:01:54,997
+<b><font color="#808000">(CONTINUES HUMMING)</font></b>
+
+7
+00:02:06,800 --> 00:02:08,358
+<b><font color="#808000">(HUMMING STOPS)</font></b>
+
+8
+00:02:09,200 --> 00:02:10,997
+<b><font color="#808000">(DISTANT GUNFIRE CONTINUES)</font></b>
+
+9
+00:02:22,040 --> 00:02:23,234
+<b><font color="#808000">(GRUNTING)</font></b>
+
+10
+00:03:14,280 --> 00:03:15,759
+<b><font color="#008080">AMY:</font></b> Here you go.
+
+11
+00:03:16,880 --> 00:03:18,518
+<b><font color="#808000">(GASPS)</font></b>
+<b><font color="#808000">(SHUSHES SOFTLY)</font></b>
+
+12
+00:03:18,600 --> 00:03:20,113
+<b><font color="#808000">(BREATHING RAPIDLY)</font></b>
+
+13
+00:03:20,360 --> 00:03:21,588
+Shh.
+
+14
+00:03:23,680 --> 00:03:25,079
+Are you frightened?
+
+15
+00:03:25,800 --> 00:03:26,949
+No.
+
+16
+00:03:28,640 --> 00:03:29,640
+Yes.
+
+17
+00:03:30,640 --> 00:03:32,198
+Uh, so am I.
+
+18
+00:03:33,080 --> 00:03:34,798
+Can you move at all?
+
+19
+00:03:35,240 --> 00:03:37,120
+Uh... Uh, I'll try,
+if there's some place to go.
+
+20
+00:03:38,720 --> 00:03:41,234
+The Farnsworth school is just
+on the other side of the woods.
+
+21
+00:03:41,520 --> 00:03:44,353
+The Miss Martha Farnsworth
+Seminary for Young Ladies.
+
+22
+00:03:44,800 --> 00:03:45,915
+Any men about there?
+
+23
+00:03:46,360 --> 00:03:49,909
+Just four other students,
+a teacher, and Miss Farnsworth.
+
+24
+00:03:50,040 --> 00:03:51,109
+The slaves left.
+
+25
+00:03:51,480 --> 00:03:53,789
+I can't say you'll be
+welcome as a Yankee,
+
+26
+00:03:54,320 --> 00:03:55,594
+but it will be
+better than here.
+
+27
+00:03:56,040 --> 00:03:57,359
+True enough.
+
+28
+00:03:59,920 --> 00:04:02,080
+I'll accept your invitation.
+Can you give me a hand up?
+
+29
+00:04:02,120 --> 00:04:04,076
+<b><font color="#808000">(DISTANT GUNFIRE)</font></b>
+
+30
+00:04:05,480 --> 00:04:07,436
+<b><font color="#808000">(BOTH STRAINING)</font></b>
+
+31
+00:04:10,200 --> 00:04:12,240
+Just give me a minute, will you?
+To catch my breath.
+
+32
+00:04:12,480 --> 00:04:13,549
+Yes, sir.
+
+33
+00:04:14,040 --> 00:04:16,270
+Come here.
+<b><font color="#808000">(BOTH GRUNTING)</font></b>
+
+34
+00:04:22,720 --> 00:04:24,790
+You're a lot heavier
+than my brother.
+
+35
+00:04:25,560 --> 00:04:26,959
+Where's he now?
+
+36
+00:04:27,200 --> 00:04:28,997
+He got killed
+in Tennessee.
+
+37
+00:04:29,280 --> 00:04:30,918
+Oh, well, that wasn't
+none of us.
+
+38
+00:04:31,120 --> 00:04:32,951
+I was never in Tennessee.
+
+39
+00:04:35,040 --> 00:04:36,040
+What's your name?
+
+40
+00:04:36,120 --> 00:04:37,473
+Amelia Dabney.
+
+41
+00:04:37,640 --> 00:04:38,993
+Mine's McBurney.
+
+42
+00:04:39,440 --> 00:04:41,749
+Corporal John McBurney.
+
+43
+00:04:43,040 --> 00:04:45,270
+Pleased to make
+your acquaintance, Corporal.
+
+44
+00:04:46,360 --> 00:04:48,157
+<b><font color="#808000">(DISTANT GUNFIRE CONTINUES)</font></b>
+
+45
+00:04:50,280 --> 00:04:52,032
+<b><font color="#008080">McBURNEY:</font></b> We're off to,
+where was it now?
+
+46
+00:04:52,120 --> 00:04:54,634
+<b><font color="#008080">AMY:</font></b> To Miss Farnsworth's
+Seminary for Young Ladies.
+
+47
+00:04:55,040 --> 00:04:56,712
+<b><font color="#008080">McBURNEY:</font></b> With only five students?
+
+48
+00:04:57,280 --> 00:04:59,111
+<b><font color="#008080">AMY:</font></b> The other girls
+have gone home,
+
+49
+00:04:59,200 --> 00:05:01,794
+but Miss Martha
+kept it open.
+
+50
+00:05:02,160 --> 00:05:04,993
+It was mainly because we don't
+have anywhere else to go.
+
+51
+00:05:06,240 --> 00:05:08,196
+<b><font color="#808000">(BOTH GRUNTING)</font></b>
+
+52
+00:05:11,360 --> 00:05:12,713
+My home is Georgia,
+
+53
+00:05:12,800 --> 00:05:14,631
+but my mother thought
+it would be better
+
+54
+00:05:14,720 --> 00:05:17,553
+if I stayed up here
+in Virginia for a while,
+
+55
+00:05:17,640 --> 00:05:20,996
+what with your General Sherman down
+there so close to Atlanta and all.
+
+56
+00:05:25,360 --> 00:05:26,713
+Did you run away?
+
+57
+00:05:28,000 --> 00:05:31,675
+<b><font color="#008080">McBURNEY:</font></b> I was with the
+Sixty-Sixth out of New York.
+
+58
+00:05:33,640 --> 00:05:34,709
+We got hit,
+
+59
+00:05:36,080 --> 00:05:38,753
+I fell and... <b><font color="#808000">(PANTING)</font></b>
+
+60
+00:05:38,840 --> 00:05:40,512
+Everything began to blaze.
+
+61
+00:05:40,680 --> 00:05:43,399
+<b><font color="#008080">AMY:</font></b> Do you want to go back?
+I can show you the way?
+
+62
+00:05:43,960 --> 00:05:45,393
+<b><font color="#008080">McBURNEY:</font></b> Not now.
+
+63
+00:05:46,480 --> 00:05:48,869
+Maybe later when my
+leg stops bleeding.
+
+64
+00:05:54,280 --> 00:05:56,157
+<b><font color="#008080">EDWINA:</font></b>...and now
+the verb "to be."
+
+65
+00:05:57,000 --> 00:05:58,513
+<b><font color="#808000">(EDWINA SPEAKING FRENCH)</font></b>
+
+66
+00:06:04,240 --> 00:06:06,435
+<b><font color="#808000">(EDWINA SPEAKING FRENCH)</font></b>
+<b><font color="#808000">(GIRLS REPLYING IN FRENCH)</font></b>
+
+67
+00:06:30,440 --> 00:06:31,759
+<b><font color="#808000">(IN ENGLISH)</font></b>
+Miss Emily.
+
+68
+00:06:31,960 --> 00:06:33,154
+<b><font color="#808000">(REPLIES IN FRENCH)</font></b>
+
+69
+00:06:33,560 --> 00:06:34,754
+Très bien.
+
+70
+00:06:37,560 --> 00:06:38,959
+<b><font color="#808000">(CONTINUES IN FRENCH)</font></b>
+
+71
+00:06:40,280 --> 00:06:42,396
+<b><font color="#808000">(DISTANT GUNFIRE)</font></b>
+
+72
+00:06:45,840 --> 00:06:48,149
+<b><font color="#808000">(BELL CHIMING)</font></b>
+
+73
+00:06:49,840 --> 00:06:51,159
+<b><font color="#008080">AMY:</font></b> Miss Martha!
+
+74
+00:06:52,280 --> 00:06:53,872
+<b><font color="#008080">MISS MARTHA:</font></b> Marie, come with me.
+
+75
+00:06:54,000 --> 00:06:55,115
+<b><font color="#008080">AMY:</font></b> Help!
+
+76
+00:06:55,560 --> 00:06:57,391
+Miss Martha! <b><font color="#808000">(YELPS)</font></b>
+
+77
+00:06:58,000 --> 00:06:59,000
+Miss Martha!
+
+78
+00:06:59,160 --> 00:07:01,151
+<b><font color="#008080">MISS MARTHA:</font></b> Amy!
+Help!
+
+79
+00:07:03,160 --> 00:07:04,388
+<b><font color="#008080">MISS MARTHA:</font></b> What happened?
+
+80
+00:07:04,520 --> 00:07:05,520
+Are you all right?
+
+81
+00:07:05,840 --> 00:07:07,990
+<b><font color="#808000">(MISS MARTHA AND MARIE PANTING)</font></b>
+
+82
+00:07:08,720 --> 00:07:10,233
+How did he get here?
+
+83
+00:07:10,320 --> 00:07:11,878
+<b><font color="#008080">AMY:</font></b> He was all alone
+in the woods.
+
+84
+00:07:11,960 --> 00:07:13,518
+I couldn't leave him
+there to die.
+
+85
+00:07:13,680 --> 00:07:15,671
+You know you're not
+supposed to go that far!
+
+86
+00:07:15,880 --> 00:07:17,359
+Is he dead?
+<b><font color="#008080">MISS MARTHA:</font></b> Uh...
+
+87
+00:07:20,200 --> 00:07:21,200
+No.
+
+88
+00:07:21,520 --> 00:07:22,635
+Not yet.
+
+89
+00:07:23,560 --> 00:07:26,518
+Quick, we need
+to move him to the porch.
+
+90
+00:07:30,040 --> 00:07:31,996
+Lift him up.
+Edwina, grab a shoulder.
+
+91
+00:07:32,160 --> 00:07:33,718
+Yes, Miss Martha.
+<b><font color="#008080">MISS MARTHA:</font></b> Girls!
+
+92
+00:07:33,880 --> 00:07:36,314
+Let's get him to the porch.
+Quick! Quick!
+
+93
+00:07:37,200 --> 00:07:38,838
+We all need to help.
+Get his legs, girls.
+
+94
+00:07:39,200 --> 00:07:41,919
+One, two, lift.
+<b><font color="#808000">(ALL STRAINING)</font></b>
+
+95
+00:07:42,040 --> 00:07:43,296
+<b><font color="#008080">JANE:</font></b> He could be dangerous,
+Miss Martha.
+
+96
+00:07:43,320 --> 00:07:44,480
+<b><font color="#008080">MISS MARTHA:</font></b> Just pick him up.
+
+97
+00:07:44,560 --> 00:07:47,597
+<b><font color="#008080">McBURNEY:</font></b> <b><font color="#808000">(MUMBLING)</font></b>
+Sixty-Sixth New York, ma'am.
+
+98
+00:07:47,760 --> 00:07:49,557
+Grateful to be
+your prisoner.
+
+99
+00:07:54,720 --> 00:07:55,869
+<b><font color="#008080">JANE:</font></b> He's a real
+blue belly.
+
+100
+00:07:56,440 --> 00:07:58,680
+You know they rape every
+Southern woman they come across.
+
+101
+00:07:58,720 --> 00:08:00,392
+Would you stop
+that nonsense, Jane!
+
+102
+00:08:00,560 --> 00:08:02,039
+<b><font color="#008080">JANE:</font></b> It's true.
+
+103
+00:08:02,120 --> 00:08:04,111
+<b><font color="#808000">(ALL PANTING)</font></b>
+
+104
+00:08:04,200 --> 00:08:07,078
+<b><font color="#008080">MARIE:</font></b> You couldn't tell from his
+face he was a Yankee, would you?
+
+105
+00:08:07,920 --> 00:08:09,600
+<b><font color="#008080">MISS MARTHA:</font></b> Amy,
+I need you to run inside,
+
+106
+00:08:10,040 --> 00:08:11,712
+get the blue rag,
+and tie it on the gate.
+
+107
+00:08:12,120 --> 00:08:15,112
+The blue rag's so the patrol knows
+we've captured a live Yankee.
+
+108
+00:08:17,320 --> 00:08:18,548
+<b><font color="#808000">(MUMBLES)</font></b>
+<b><font color="#808000">(ALICIA GASPS)</font></b>
+
+109
+00:08:18,640 --> 00:08:20,278
+<b><font color="#008080">MISS MARTHA:</font></b> Why did you 
+not call out?
+
+110
+00:08:20,400 --> 00:08:21,896
+You must have seen
+them crossing the fields.
+
+111
+00:08:21,920 --> 00:08:22,920
+I'm sorry, Miss Martha.
+
+112
+00:08:22,960 --> 00:08:24,216
+I forgot it was
+my turn to look out.
+
+113
+00:08:24,240 --> 00:08:25,798
+You cannot forget this.
+
+114
+00:08:25,960 --> 00:08:27,896
+Next time it'll be Union
+scroungers in our garden.
+
+115
+00:08:27,920 --> 00:08:29,751
+That's how we lost
+most of our chickens.
+
+116
+00:08:30,200 --> 00:08:31,269
+All right.
+
+117
+00:08:31,760 --> 00:08:34,354
+Now, Marie, get up there.
+
+118
+00:08:34,440 --> 00:08:35,616
+Call out if you see
+any of our soldiers.
+
+119
+00:08:35,640 --> 00:08:36,675
+Yes, ma'am.
+
+120
+00:08:36,760 --> 00:08:38,432
+We ought to
+wash his wound.
+
+121
+00:08:38,920 --> 00:08:39,920
+Yes.
+
+122
+00:08:40,120 --> 00:08:41,599
+And we're gonna
+need to sew it up.
+
+123
+00:08:42,000 --> 00:08:43,035
+Uh...
+
+124
+00:08:44,760 --> 00:08:46,273
+Amy, did I not tell you,
+
+125
+00:08:46,440 --> 00:08:48,480
+get the blue rag, tie it on
+the gate for the patrol.
+
+126
+00:08:48,560 --> 00:08:50,915
+After all the blood he's lost,
+he'd die now if he went.
+
+127
+00:08:51,120 --> 00:08:52,720
+Wouldn't it be
+the Christian thing to do?
+
+128
+00:08:54,320 --> 00:08:56,276
+Yes. Yes, you're right.
+
+129
+00:08:56,800 --> 00:08:58,074
+It would be.
+
+130
+00:08:58,240 --> 00:08:59,798
+He's never
+going to make it.
+
+131
+00:09:00,280 --> 00:09:02,280
+So, we're going to wait
+until he's in better shape,
+
+132
+00:09:02,440 --> 00:09:04,271
+before he's taken away.
+Get him inside.
+
+133
+00:09:04,480 --> 00:09:05,515
+Come on.
+
+134
+00:09:05,680 --> 00:09:07,955
+I'm going to need you to put
+hot water on to boil, Emily.
+
+135
+00:09:08,640 --> 00:09:10,400
+And we're gonna need cloth.
+<b><font color="#808000">(McBURNEY GRUNTS)</font></b>
+
+136
+00:09:10,520 --> 00:09:12,112
+Anything we can spare.
+
+137
+00:09:12,640 --> 00:09:13,675
+Alicia, Jane,
+
+138
+00:09:13,800 --> 00:09:15,960
+you find that cloth and you
+bring it to the music room.
+
+139
+00:09:16,120 --> 00:09:17,951
+You hear me?
+<b><font color="#008080">JANE:</font></b> Yes, ma'am.
+
+140
+00:09:18,080 --> 00:09:19,149
+<b><font color="#008080">MISS MARTHA:</font></b> All right.
+
+141
+00:09:24,480 --> 00:09:25,595
+<b><font color="#008080">JANE:</font></b> Miss Edwina.
+
+142
+00:09:25,840 --> 00:09:27,353
+<b><font color="#008080">MISS MARTHA:</font></b> Shut the door, girls.
+
+143
+00:09:29,120 --> 00:09:30,235
+I need scissors.
+
+144
+00:09:30,320 --> 00:09:31,878
+Yes, Miss Martha.
+
+145
+00:09:32,320 --> 00:09:33,320
+Here.
+
+146
+00:09:35,280 --> 00:09:36,280
+<b><font color="#808000">(DOOR CLOSES)</font></b>
+
+147
+00:09:40,160 --> 00:09:41,354
+<b><font color="#808000">(GRUNTING)</font></b>
+
+148
+00:09:58,680 --> 00:09:59,680
+Ugh.
+
+149
+00:10:03,520 --> 00:10:04,520
+Go get me
+some more cloth.
+
+150
+00:10:04,640 --> 00:10:06,040
+I need cloth, now.
+Yes, Miss Martha.
+
+151
+00:10:29,160 --> 00:10:31,037
+There's enough metal in here
+to shoe a horse.
+
+152
+00:10:32,200 --> 00:10:33,758
+I think I got most of it.
+
+153
+00:10:43,920 --> 00:10:45,558
+I'm gonna need
+a needle now.
+
+154
+00:10:45,720 --> 00:10:47,836
+Get me the thread
+and needle.
+
+155
+00:10:50,360 --> 00:10:51,554
+<b><font color="#808000">(MISS MARTHA SIGHS)</font></b>
+
+156
+00:11:30,000 --> 00:11:31,976
+<b><font color="#808000">(WHISPERING)</font></b> Back up.
+I can't... <b><font color="#808000">(WHISPERING)</font></b> Stop it.
+
+157
+00:11:32,000 --> 00:11:33,319
+Do you hear
+what they're saying?
+
+158
+00:11:33,440 --> 00:11:34,759
+No, I didn't.
+<b><font color="#808000">(SHUSHES)</font></b>
+
+159
+00:11:43,440 --> 00:11:44,714
+<b><font color="#808000">(SIGHS DEEPLY)</font></b>
+
+160
+00:11:51,120 --> 00:11:52,473
+Edwina, get me some water.
+
+161
+00:11:55,480 --> 00:11:56,799
+I'm gonna clean him.
+
+162
+00:11:56,960 --> 00:11:58,439
+Yes, Miss Martha.
+
+163
+00:12:01,840 --> 00:12:02,840
+<b><font color="#008080">MISS MARTHA:</font></b> I thought so.
+
+164
+00:12:03,640 --> 00:12:04,640
+Is he going to die?
+
+165
+00:12:04,760 --> 00:12:06,478
+Not today,
+I don't think.
+
+166
+00:12:06,640 --> 00:12:07,993
+<b><font color="#008080">AMY:</font></b> What'll happen?
+
+167
+00:12:09,800 --> 00:12:12,030
+We'll turn him over
+to the patrol, of course.
+
+168
+00:12:12,800 --> 00:12:15,439
+In the meantime, I don't want
+you lurking around here.
+
+169
+00:12:15,640 --> 00:12:17,949
+Or poking around in this room.
+Do you hear me?
+
+170
+00:12:18,320 --> 00:12:19,958
+<b><font color="#008080">AMY:</font></b> His name,
+in case you've wondered,
+
+171
+00:12:20,040 --> 00:12:21,632
+is Corporal John McBurney.
+
+172
+00:12:22,480 --> 00:12:23,976
+Well, he's not going
+to be here long enough
+
+173
+00:12:24,000 --> 00:12:26,639
+for his name to make
+any difference to us.
+
+174
+00:12:28,000 --> 00:12:29,558
+Now, there's been
+too much distraction,
+
+175
+00:12:29,680 --> 00:12:31,955
+so no more studying today.
+
+176
+00:12:32,120 --> 00:12:33,519
+We have a lot
+of mending to do.
+
+177
+00:12:33,640 --> 00:12:35,198
+Mmm. Good.
+
+178
+00:12:35,280 --> 00:12:37,157
+To the sewing room.
+Come on, girls.
+
+179
+00:12:41,960 --> 00:12:43,951
+<b><font color="#008080">JANE:</font></b> I won't be here
+much longer, Amy.
+
+180
+00:12:44,360 --> 00:12:46,794
+<b><font color="#008080">EDWINA:</font></b> Careful, keep your
+stitches in a straight row.
+
+181
+00:12:48,160 --> 00:12:51,038
+Jane, it's the same
+for you as all of us,
+
+182
+00:12:51,200 --> 00:12:53,395
+you don't leave because there's
+nowhere for you to go.
+
+183
+00:12:53,560 --> 00:12:54,993
+There is so.
+
+184
+00:12:55,160 --> 00:12:56,388
+My father is 
+with General Lee
+
+185
+00:12:56,560 --> 00:12:57,913
+and if I so desired,
+
+186
+00:12:58,040 --> 00:13:00,315
+soldiers would come escort
+me to him right now.
+
+187
+00:13:01,040 --> 00:13:02,837
+If anybody knew
+where that was.
+
+188
+00:13:03,000 --> 00:13:04,353
+<b><font color="#008080">EDWINA:</font></b> Nice and even.
+
+189
+00:13:04,480 --> 00:13:07,199
+My mother wrote me from Charleston
+that the blockade is fearful.
+
+190
+00:13:08,360 --> 00:13:10,600
+She says I probably eat better
+here than I would at home.
+
+191
+00:13:10,680 --> 00:13:11,829
+You do.
+
+192
+00:13:11,920 --> 00:13:13,911
+You should have never
+brought that Yankee here.
+
+193
+00:13:14,200 --> 00:13:15,235
+I agree.
+
+194
+00:13:15,600 --> 00:13:16,600
+He's probably a spy
+
+195
+00:13:16,720 --> 00:13:19,016
+and will let the blue bellies
+in at night to raid our garden.
+
+196
+00:13:19,040 --> 00:13:20,280
+<b><font color="#008080">EDWINA:</font></b> I doubt that,
+Miss Jane.
+
+197
+00:13:20,400 --> 00:13:22,516
+Miss Edwina, aren't you
+afraid of that blue belly?
+
+198
+00:13:23,520 --> 00:13:24,520
+No.
+
+199
+00:13:25,040 --> 00:13:27,429
+And it is very bad manners
+to call him that.
+
+200
+00:13:27,840 --> 00:13:29,353
+He has a name,
+
+201
+00:13:30,240 --> 00:13:31,593
+Corporal John McBurney.
+
+202
+00:13:32,040 --> 00:13:33,359
+John.
+
+203
+00:13:34,440 --> 00:13:35,873
+<b><font color="#808000">(GIRLS GIGGLING)</font></b>
+
+204
+00:13:58,080 --> 00:13:59,399
+<b><font color="#808000">(EXHALES)</font></b>
+
+205
+00:14:01,280 --> 00:14:02,315
+<b><font color="#808000">(CLEARS THROAT)</font></b>
+
+206
+00:14:50,080 --> 00:14:51,308
+<b><font color="#808000">(EXHALES SHARPLY)</font></b>
+
+207
+00:14:53,680 --> 00:14:54,829
+<b><font color="#808000">(SIGHS)</font></b>
+
+208
+00:15:17,720 --> 00:15:19,836
+<b><font color="#008080">EDWINA:</font></b> Let's see.
+Am I doing it right?
+
+209
+00:15:20,880 --> 00:15:23,235
+Yes, but you can get
+your stitches closer together.
+
+210
+00:15:23,320 --> 00:15:24,355
+All right.
+
+211
+00:15:34,520 --> 00:15:36,715
+<b><font color="#808000">(BREATHING HEAVILY)</font></b>
+
+212
+00:15:46,520 --> 00:15:48,192
+<b><font color="#808000">(BELL CHIMING)</font></b>
+
+213
+00:15:52,080 --> 00:15:53,752
+<b><font color="#808000">(BREATHING HEAVILY)</font></b>
+
+214
+00:15:56,360 --> 00:15:57,793
+<b><font color="#008080">JANE:</font></b> It's our boys,
+Miss Martha.
+
+215
+00:15:57,880 --> 00:15:58,995
+They're passing our way.
+
+216
+00:15:59,360 --> 00:16:00,509
+Can't we go
+and greet them?
+
+217
+00:16:00,680 --> 00:16:02,200
+No. I don't want them
+to see you girls.
+
+218
+00:16:02,240 --> 00:16:03,416
+I think they have
+some prisoners...
+
+219
+00:16:03,440 --> 00:16:04,919
+Go upstairs. Now.
+
+220
+00:16:11,640 --> 00:16:13,576
+<b><font color="#008080">MARIE:</font></b> <b><font color="#808000">(WHISPERS)</font></b> What's gonna happen?
+<b><font color="#008080">AMY:</font></b> Can't see.
+
+221
+00:16:13,600 --> 00:16:14,874
+<b><font color="#808000">(EDWINA SHUSHES)</font></b>
+
+222
+00:16:21,080 --> 00:16:23,389
+<b><font color="#808000">(MAN CALLING HORSE)</font></b>
+<b><font color="#008080">MISS MARTHA:</font></b> What's the news?
+
+223
+00:16:23,480 --> 00:16:25,710
+<b><font color="#008080">CAPTAIN:</font></b> Taking these Yanks
+to prison to die.
+
+224
+00:16:27,040 --> 00:16:28,234
+Good evening, Captain.
+
+225
+00:16:28,320 --> 00:16:29,548
+Evening, ma'am.
+
+226
+00:16:29,720 --> 00:16:31,915
+You think Miss Martha's going
+to tell them about him?
+
+227
+00:16:33,560 --> 00:16:35,073
+You all alone
+here, ma'am?
+
+228
+00:16:35,160 --> 00:16:36,195
+Just a few of us.
+
+229
+00:16:36,280 --> 00:16:37,280
+Well...
+
+230
+00:16:37,920 --> 00:16:39,069
+<b><font color="#008080">JANE:</font></b> Is she telling him?
+
+231
+00:16:39,240 --> 00:16:42,118
+<b><font color="#008080">AMY:</font></b> I can't tell. <b><font color="#808000">(SIGHS)</font></b>
+
+232
+00:16:42,920 --> 00:16:44,592
+Well, you take care,
+ma'am.
+
+233
+00:16:45,120 --> 00:16:47,509
+A lot of these Yanks, they got
+separated from their outfits.
+
+234
+00:16:47,600 --> 00:16:48,656
+And they're just roaming
+through these woods,
+
+235
+00:16:48,680 --> 00:16:49,680
+and they're desperate.
+
+236
+00:16:49,760 --> 00:16:51,256
+I was wondering if you might
+have a few cartridges
+
+237
+00:16:51,280 --> 00:16:52,280
+you could spare?
+
+238
+00:16:52,360 --> 00:16:53,416
+What good would
+that do you, ma'am?
+
+239
+00:16:53,440 --> 00:16:55,032
+My father left me
+his revolver.
+
+240
+00:16:55,120 --> 00:16:57,918
+I'd feel much safer
+if I knew I could use it.
+
+241
+00:16:58,120 --> 00:17:00,793
+Well, I'll see
+what I can spare.
+
+242
+00:17:02,800 --> 00:17:03,800
+There you are.
+Thank you.
+
+243
+00:17:03,960 --> 00:17:04,960
+You're welcome.
+
+244
+00:17:05,680 --> 00:17:07,159
+He's giving her something.
+
+245
+00:17:07,480 --> 00:17:08,833
+<b><font color="#008080">CAPTAIN:</font></b> You take care.
+
+246
+00:17:09,880 --> 00:17:11,950
+All right, let's move out.
+<b><font color="#008080">AMY:</font></b> They're leaving.
+
+247
+00:17:13,280 --> 00:17:14,793
+She didn't tell them.
+
+248
+00:17:49,480 --> 00:17:51,152
+<b><font color="#808000">(BIRDS CHIRPING)</font></b>
+
+249
+00:18:02,440 --> 00:18:04,078
+<b><font color="#808000">(VIOLIN PLAYING)</font></b>
+
+250
+00:18:11,240 --> 00:18:12,320
+What are you
+doing in there?
+
+251
+00:18:12,400 --> 00:18:13,833
+<b><font color="#008080">AMY:</font></b> See you later.
+
+252
+00:18:14,000 --> 00:18:15,513
+I was just talking
+with him privately.
+
+253
+00:18:15,760 --> 00:18:16,829
+Let him rest.
+
+254
+00:18:16,920 --> 00:18:19,753
+He's not one of your
+wounded birds or beetles.
+
+255
+00:18:20,680 --> 00:18:22,159
+<b><font color="#808000">(LOCKS DOOR)</font></b>
+
+256
+00:18:26,240 --> 00:18:28,037
+<b><font color="#808000">(CRICKETS CHIRPING)</font></b>
+
+257
+00:18:30,920 --> 00:18:33,912
+We pray for all
+of those we have lost.
+
+258
+00:18:34,960 --> 00:18:36,359
+And we pray
+
+259
+00:18:36,440 --> 00:18:39,238
+that we will be kept from
+harm throughout the night.
+
+260
+00:18:41,720 --> 00:18:42,720
+Amen.
+
+261
+00:18:43,240 --> 00:18:44,719
+<b><font color="#008080">ALL:</font></b> Amen.
+
+262
+00:18:48,120 --> 00:18:50,588
+Would anyone like to ask
+for special blessings?
+
+263
+00:18:53,560 --> 00:18:55,790
+I pray that the Lord
+see fit to restore
+
+264
+00:18:55,880 --> 00:18:58,030
+the health
+of the wounded soldier.
+
+265
+00:19:01,080 --> 00:19:05,119
+We pray for his return to
+health and his early departure.
+
+266
+00:19:15,600 --> 00:19:17,160
+<b><font color="#008080">AMY:</font></b> <b><font color="#808000">(WHISPERS)</font></b>
+Do you think he'll live?
+
+267
+00:19:17,240 --> 00:19:18,256
+<b><font color="#008080">MARIE:</font></b> <b><font color="#808000">(WHISPERS)</font></b>
+I don't know.
+
+268
+00:19:18,280 --> 00:19:19,760
+I hope we don't
+hear him in the night.
+
+269
+00:19:20,080 --> 00:19:22,753
+He'll come and get ya.
+You know he will.
+
+270
+00:19:22,960 --> 00:19:24,216
+<b><font color="#008080">AMY:</font></b> <b><font color="#808000">(WHISPERS)</font></b>
+Marie, stop it...
+
+271
+00:19:24,240 --> 00:19:26,071
+<b><font color="#008080">MISS MARTHA:</font></b> To your
+rooms quietly, girls.
+
+272
+00:19:29,760 --> 00:19:31,352
+<b><font color="#808000">(BIRDS CHIRPING)</font></b>
+
+273
+00:19:38,600 --> 00:19:39,919
+Good morning.
+
+274
+00:19:40,360 --> 00:19:41,360
+It is morning?
+
+275
+00:19:41,440 --> 00:19:42,668
+It's about 6:00.
+
+276
+00:19:43,280 --> 00:19:44,280
+<b><font color="#808000">(DOOR CLOSES)</font></b>
+
+277
+00:19:45,920 --> 00:19:48,434
+I thought as much from
+the larks I heard singing.
+
+278
+00:19:50,440 --> 00:19:51,440
+Do you like birds?
+
+279
+00:19:51,640 --> 00:19:53,153
+Oh, I love them.
+
+280
+00:19:53,440 --> 00:19:54,998
+Anything wild, I love.
+
+281
+00:19:55,640 --> 00:19:56,959
+Wild and free.
+
+282
+00:19:57,160 --> 00:19:58,798
+I think they're robins.
+
+283
+00:19:58,960 --> 00:20:00,598
+I can show you some
+nests I collected.
+
+284
+00:20:01,440 --> 00:20:03,271
+That would be
+my great pleasure.
+
+285
+00:20:05,160 --> 00:20:06,195
+I better go.
+
+286
+00:20:06,280 --> 00:20:08,157
+Miss Martha's coming
+to fix your bandages.
+
+287
+00:20:08,320 --> 00:20:10,436
+All right, then.
+Thank you, darlin'.
+
+288
+00:20:16,600 --> 00:20:17,794
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+289
+00:20:20,960 --> 00:20:22,439
+<b><font color="#008080">MARIE:</font></b> But I like peas.
+
+290
+00:20:22,520 --> 00:20:23,714
+<b><font color="#808000">(GIRLS GIGGLING)</font></b>
+
+291
+00:20:24,880 --> 00:20:26,440
+<b><font color="#008080">JANE:</font></b> You're getting
+quite good at that.
+
+292
+00:20:26,480 --> 00:20:27,480
+<b><font color="#008080">MARIE:</font></b> Mmm-hmm.
+
+293
+00:20:28,240 --> 00:20:29,559
+Can I have a pea?
+
+294
+00:20:30,080 --> 00:20:31,080
+<b><font color="#008080">MARIE:</font></b> Yes.
+
+295
+00:20:32,480 --> 00:20:33,799
+Oh, I dropped it.
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+296
+00:20:34,560 --> 00:20:35,913
+Can I have another one?
+
+297
+00:20:36,800 --> 00:20:37,835
+<b><font color="#008080">ALICIA:</font></b> Good morning.
+
+298
+00:20:38,000 --> 00:20:39,069
+<b><font color="#008080">AMY:</font></b> Good morning.
+
+299
+00:20:39,320 --> 00:20:41,038
+How's the Yank doin'?
+
+300
+00:20:41,560 --> 00:20:43,551
+He's fine, much better.
+
+301
+00:20:43,760 --> 00:20:46,120
+Miss Edwina, how long is he going
+to stay in the music room?
+
+302
+00:20:46,240 --> 00:20:47,593
+Until he's much better.
+
+303
+00:20:47,840 --> 00:20:49,592
+But how am I supposed
+to practice my violin
+
+304
+00:20:49,680 --> 00:20:51,240
+with a dangerous enemy
+in the same room?
+
+305
+00:20:51,320 --> 00:20:53,675
+Miss Jane. Please.
+
+306
+00:20:55,200 --> 00:20:56,519
+Good morning, girls.
+
+307
+00:20:56,680 --> 00:20:58,511
+<b><font color="#008080">GIRLS:</font></b> Good morning,
+Miss Martha.
+
+308
+00:20:58,920 --> 00:21:00,751
+Tell me, Amy,
+did you find any mushrooms
+
+309
+00:21:00,840 --> 00:21:02,671
+while you were out
+collecting soldiers?
+
+310
+00:21:03,000 --> 00:21:05,434
+I did, but I'm not sure
+they're safe to eat.
+
+311
+00:21:05,560 --> 00:21:07,976
+<b><font color="#008080">MISS MARTHA:</font></b> Mmm. Well, we'll take
+a look at them later, shall we?
+
+312
+00:21:08,000 --> 00:21:09,000
+Yes, ma'am.
+
+313
+00:21:10,160 --> 00:21:11,354
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+314
+00:21:12,560 --> 00:21:13,754
+<b><font color="#808000">(SPEAKS FRENCH)</font></b>
+
+315
+00:21:14,400 --> 00:21:15,400
+Hmm.
+
+316
+00:21:18,040 --> 00:21:20,873
+<b><font color="#808000">(IN ENGLISH)</font></b> Seems like the soldier
+being here is having an effect.
+
+317
+00:21:25,360 --> 00:21:27,032
+<b><font color="#808000">(BIRDS CHIRPING)</font></b>
+
+318
+00:21:49,600 --> 00:21:52,319
+Get about your business, you
+have work and studies to do.
+
+319
+00:21:52,560 --> 00:21:54,056
+<b><font color="#008080">EMILY:</font></b> Shall we not have
+music here today?
+
+320
+00:21:54,080 --> 00:21:56,310
+<b><font color="#008080">MISS MARTHA:</font></b> No.
+Go to the library.
+
+321
+00:22:00,400 --> 00:22:01,719
+Good morning, Corporal.
+
+322
+00:22:01,840 --> 00:22:03,319
+Good morning, ma'am.
+
+323
+00:22:04,840 --> 00:22:06,432
+I think I'm disrupting
+your place here.
+
+324
+00:22:07,800 --> 00:22:09,950
+Yes. Indeed you are.
+
+325
+00:22:13,600 --> 00:22:15,079
+You don't mince words, ma'am.
+
+326
+00:22:15,600 --> 00:22:18,068
+You speak right up.
+I like that.
+
+327
+00:22:19,600 --> 00:22:21,079
+Do you indeed?
+
+328
+00:22:21,480 --> 00:22:24,790
+You think it makes a great difference
+to me whether you like it or not?
+
+329
+00:22:24,960 --> 00:22:27,758
+Oh, I'm sure my opinion means
+nothing at all to you, ma'am.
+
+330
+00:22:28,200 --> 00:22:29,256
+I'm not looking
+for your praise.
+
+331
+00:22:29,280 --> 00:22:31,191
+Are you not? What are
+you looking for then?
+
+332
+00:22:31,360 --> 00:22:32,429
+Nothing.
+
+333
+00:22:32,640 --> 00:22:35,996
+You've already given me plenty,
+and I'm most appreciative.
+
+334
+00:22:46,960 --> 00:22:49,679
+Aren't you afraid that I'll
+turn you over to our soldiers?
+
+335
+00:22:49,960 --> 00:22:51,439
+No, I don't think so.
+
+336
+00:22:51,760 --> 00:22:53,478
+<b><font color="#808000">(MUTTERS AND GRUNTS)</font></b>
+
+337
+00:22:54,160 --> 00:22:56,151
+I don't say
+you won't do it, but...
+
+338
+00:22:57,120 --> 00:23:00,271
+You know, I think there are far worse
+things that could happen to me.
+
+339
+00:23:01,200 --> 00:23:02,997
+I don't relish
+the prospect of prison,
+
+340
+00:23:03,080 --> 00:23:04,399
+but it's better
+than being dead.
+
+341
+00:23:05,160 --> 00:23:07,320
+That's exactly what I would be
+if you hadn't helped me.
+
+342
+00:23:08,040 --> 00:23:09,871
+Not necessarily.
+
+343
+00:23:13,200 --> 00:23:14,349
+Is your leg paining you?
+
+344
+00:23:14,880 --> 00:23:15,949
+Some.
+
+345
+00:23:17,320 --> 00:23:19,436
+Well, I hear numbness
+would be more grave.
+
+346
+00:23:19,520 --> 00:23:20,520
+Indeed.
+
+347
+00:23:21,920 --> 00:23:23,160
+There's some brandy
+if you wish.
+
+348
+00:23:23,320 --> 00:23:25,709
+Oh, now that would be
+a pleasure.
+
+349
+00:23:25,840 --> 00:23:28,638
+It's not being offered for your
+pleasure, only for your comfort.
+
+350
+00:23:30,000 --> 00:23:31,000
+Yes, ma'am.
+
+351
+00:23:31,040 --> 00:23:34,077
+I must remind you, Corporal McBurney,
+you are not a guest here.
+
+352
+00:23:34,240 --> 00:23:35,992
+You are a most
+unwelcome visitor.
+
+353
+00:23:36,160 --> 00:23:38,355
+And we do not propose
+to entertain you.
+
+354
+00:23:38,560 --> 00:23:40,312
+Well, I wouldn't
+expect it, ma'am...
+
+355
+00:23:40,920 --> 00:23:43,309
+Although you'll find
+I'm easily amused.
+
+356
+00:23:43,760 --> 00:23:45,034
+<b><font color="#808000">(MISS MARTHA CHUCKLES)</font></b>
+
+357
+00:23:45,760 --> 00:23:46,988
+<b><font color="#808000">(KNOCK ON DOOR)</font></b>
+
+358
+00:23:49,400 --> 00:23:50,400
+What is it, miss?
+
+359
+00:23:51,040 --> 00:23:53,395
+I just wondered if there's
+anything I can do to help?
+
+360
+00:23:53,600 --> 00:23:55,511
+No. There's nothing
+you can do.
+
+361
+00:23:57,680 --> 00:24:00,240
+You have enough studies and other
+work to keep you well occupied.
+
+362
+00:24:00,520 --> 00:24:01,999
+<b><font color="#008080">ALICIA:</font></b> I only
+thought to help.
+
+363
+00:24:03,320 --> 00:24:04,355
+That won't be necessary.
+
+364
+00:24:04,640 --> 00:24:07,712
+And, Miss Alicia, you can tell the
+others that this room is off-limits.
+
+365
+00:24:08,560 --> 00:24:09,913
+Yes, ma'am.
+
+366
+00:24:17,960 --> 00:24:19,440
+You can trust me
+in your place, ma'am.
+
+367
+00:24:21,280 --> 00:24:22,952
+Well, I don't know you.
+
+368
+00:24:23,120 --> 00:24:25,111
+Well, I think
+if you knew me...
+
+369
+00:24:25,720 --> 00:24:26,835
+You would.
+
+370
+00:24:27,640 --> 00:24:29,631
+You won't be here
+long enough for that.
+
+371
+00:24:31,320 --> 00:24:32,469
+Ma'am?
+
+372
+00:24:33,640 --> 00:24:34,868
+Yes, Corporal?
+
+373
+00:24:36,040 --> 00:24:37,792
+I don't suppose
+there's any chance
+
+374
+00:24:37,880 --> 00:24:40,155
+of a bit of soap
+and a razor, is there?
+
+375
+00:24:40,560 --> 00:24:42,073
+Let me see what I can find.
+
+376
+00:24:43,280 --> 00:24:44,280
+Thank you, ma'am.
+
+377
+00:24:45,640 --> 00:24:47,392
+<b><font color="#808000">(LOCK CLICKING)</font></b>
+
+378
+00:24:47,920 --> 00:24:49,239
+<b><font color="#808000">(LAUGHS)</font></b>
+
+379
+00:24:57,600 --> 00:24:58,760
+<b><font color="#008080">EDWINA:</font></b> Careful
+with your E's.
+
+380
+00:25:01,920 --> 00:25:03,751
+Very good, Miss Jane.
+
+381
+00:25:05,800 --> 00:25:07,279
+<b><font color="#808000">(DISTANT GUNFIRE)</font></b>
+
+382
+00:25:33,000 --> 00:25:34,831
+Are we almost done?
+
+383
+00:25:34,960 --> 00:25:38,316
+Almost, this is
+the last row.
+
+384
+00:25:41,800 --> 00:25:42,994
+Alicia.
+
+385
+00:25:51,600 --> 00:25:53,636
+<b><font color="#808000">(DISTANT GUNFIRE)</font></b>
+
+386
+00:26:03,080 --> 00:26:04,616
+I wanted to bring
+this to you last night
+
+387
+00:26:04,640 --> 00:26:06,471
+for fear that you might
+die before morning,
+
+388
+00:26:06,800 --> 00:26:08,711
+but then I thought,
+since you were unconscious,
+
+389
+00:26:08,920 --> 00:26:10,478
+you wouldn't be
+able to read it anyway.
+
+390
+00:26:11,240 --> 00:26:12,468
+That's very logical.
+
+391
+00:26:12,640 --> 00:26:13,993
+Are you Catholic?
+
+392
+00:26:14,360 --> 00:26:15,360
+I was baptized.
+
+393
+00:26:16,000 --> 00:26:18,195
+Well then, here's
+a prayer book for you.
+
+394
+00:26:18,880 --> 00:26:20,029
+Thank you.
+
+395
+00:26:20,680 --> 00:26:21,896
+I thought you might
+need to confess
+
+396
+00:26:21,920 --> 00:26:23,160
+if you're
+on the verge of death.
+
+397
+00:26:24,280 --> 00:26:27,192
+Oh, I think I'll be able to hang
+around for just a little bit longer.
+
+398
+00:26:28,880 --> 00:26:31,519
+Where's me manners?
+I'm John Patrick McBurney.
+
+399
+00:26:32,080 --> 00:26:33,080
+Pleased to meet you, sir.
+
+400
+00:26:33,360 --> 00:26:34,759
+Pleased to meet you, madam.
+
+401
+00:26:41,680 --> 00:26:43,159
+Just a moment, miss.
+
+402
+00:26:43,240 --> 00:26:45,136
+Where do you think you're
+going in my pearl earrings?
+
+403
+00:26:45,160 --> 00:26:47,958
+Oh, Miss Edwina,
+don't be hateful.
+
+404
+00:26:48,040 --> 00:26:49,598
+Everyone is dressing up today.
+
+405
+00:26:49,760 --> 00:26:51,079
+Not in my jewelry,
+they're not.
+
+406
+00:26:51,240 --> 00:26:52,878
+I'll give them back.
+
+407
+00:26:53,040 --> 00:26:54,871
+And how beautiful
+you look this morning,
+
+408
+00:26:55,280 --> 00:26:56,679
+you're all dressed up
+yourself.
+
+409
+00:26:57,360 --> 00:26:58,360
+I am not.
+
+410
+00:26:58,520 --> 00:27:01,876
+Why, I haven't seen that lovely
+pin since last Christmas.
+
+411
+00:27:02,440 --> 00:27:03,634
+Get to your work.
+
+412
+00:27:03,840 --> 00:27:05,319
+<b><font color="#808000">(McBURNEY CHUCKLES SOFTLY)</font></b>
+
+413
+00:27:07,560 --> 00:27:08,560
+<b><font color="#008080">McBURNEY:</font></b> Wait...
+
+414
+00:27:09,080 --> 00:27:10,080
+Don't run away.
+
+415
+00:27:10,240 --> 00:27:11,958
+Did you want to see me
+about something?
+
+416
+00:27:28,720 --> 00:27:30,039
+<b><font color="#808000">(SIGHS)</font></b>
+
+417
+00:27:34,240 --> 00:27:35,468
+Thank you.
+
+418
+00:27:43,120 --> 00:27:45,720
+<b><font color="#008080">EDWINA:</font></b> They look as if you've been
+trying to dig a pit with them.
+
+419
+00:27:48,240 --> 00:27:49,389
+I was.
+
+420
+00:27:50,960 --> 00:27:53,952
+In the middle of battle, with
+all that iron flying overhead.
+
+421
+00:27:55,440 --> 00:27:57,431
+My first thought
+was to bury myself.
+
+422
+00:27:58,600 --> 00:28:00,120
+<b><font color="#008080">EDWINA:</font></b> But when
+you couldn't, you ran?
+
+423
+00:28:00,360 --> 00:28:01,429
+I did.
+
+424
+00:28:02,080 --> 00:28:03,672
+I surely to God did.
+
+425
+00:28:04,440 --> 00:28:06,120
+<b><font color="#008080">EDWINA:</font></b> It wasn't very brave
+of you to run.
+
+426
+00:28:07,800 --> 00:28:09,438
+Well, maybe not,
+but it was smart.
+
+427
+00:28:09,760 --> 00:28:10,760
+I think.
+
+428
+00:28:10,800 --> 00:28:11,835
+Because you're alive?
+
+429
+00:28:14,160 --> 00:28:15,309
+And now I've met you.
+
+430
+00:28:18,600 --> 00:28:20,192
+You don't even know me.
+
+431
+00:28:21,440 --> 00:28:23,158
+Ah, I know your name...
+
+432
+00:28:23,440 --> 00:28:24,953
+Miss Edwina Morrow.
+
+433
+00:28:26,000 --> 00:28:28,116
+And what else have you
+been told about me?
+
+434
+00:28:29,280 --> 00:28:30,793
+Nothing besides your name.
+
+435
+00:28:31,480 --> 00:28:32,674
+It's a lovely name.
+
+436
+00:28:36,120 --> 00:28:38,156
+I hope the girls
+weren't telling stories.
+
+437
+00:28:39,160 --> 00:28:40,957
+What do you care
+what they say about you?
+
+438
+00:28:41,640 --> 00:28:42,834
+I don't.
+
+439
+00:28:42,960 --> 00:28:45,349
+I just didn't want you
+to get the wrong impression.
+
+440
+00:28:45,800 --> 00:28:47,631
+Then you do care
+what I think about you.
+
+441
+00:28:49,480 --> 00:28:51,038
+You're a stranger here,
+
+442
+00:28:51,320 --> 00:28:52,320
+that's all,
+
+443
+00:28:53,320 --> 00:28:55,231
+and I don't want
+you to be misled.
+
+444
+00:28:55,720 --> 00:28:57,995
+Well, then maybe you can
+set me off on the right foot
+
+445
+00:28:58,160 --> 00:28:59,720
+and tell me a little bit
+about yourself.
+
+446
+00:29:04,320 --> 00:29:07,312
+Where are you from,
+Miss Edwina Morrow?
+
+447
+00:29:08,520 --> 00:29:09,635
+<b><font color="#808000">(SIGHS)</font></b>
+
+448
+00:29:09,720 --> 00:29:11,870
+My father's home is Richmond.
+
+449
+00:29:12,760 --> 00:29:16,230
+Uh, I left Savannah
+when I was quite young.
+
+450
+00:29:16,920 --> 00:29:19,912
+We lived in several places
+for my father's enterprises.
+
+451
+00:29:20,840 --> 00:29:22,831
+And are you waiting
+for a sweetheart to return
+
+452
+00:29:23,360 --> 00:29:24,839
+when this war is over?
+
+453
+00:29:27,040 --> 00:29:29,235
+I have no one
+in the military.
+
+454
+00:29:29,880 --> 00:29:32,235
+And how did you
+end up in this place?
+
+455
+00:29:33,680 --> 00:29:36,069
+Why are you
+so interested in me?
+
+456
+00:29:36,200 --> 00:29:39,192
+I just reckon that you and I,
+we're both a little out of place here.
+
+457
+00:29:41,720 --> 00:29:43,438
+I bet you're
+the independent sort,
+
+458
+00:29:44,600 --> 00:29:47,319
+and the other girls, they don't
+even know how to get close to you.
+
+459
+00:29:50,040 --> 00:29:51,871
+And then of course
+there's your looks.
+
+460
+00:29:54,040 --> 00:29:55,712
+That doesn't matter to me.
+
+461
+00:29:56,360 --> 00:29:58,396
+Well, you can bet
+it matters to other people.
+
+462
+00:29:58,640 --> 00:30:01,438
+Sorry to tell you, and I hope you
+don't mind me telling you, but...
+
+463
+00:30:01,600 --> 00:30:02,635
+Well, in all my travels,
+
+464
+00:30:02,720 --> 00:30:04,880
+I've never come across such
+a delicate beauty as yours.
+
+465
+00:30:09,560 --> 00:30:10,788
+Tell me something,
+will you?
+
+466
+00:30:11,560 --> 00:30:12,879
+Miss Morrow,
+
+467
+00:30:15,080 --> 00:30:16,080
+it's okay.
+
+468
+00:30:16,720 --> 00:30:18,312
+If you could have anything,
+
+469
+00:30:19,640 --> 00:30:20,640
+what's your biggest wish?
+
+470
+00:30:20,720 --> 00:30:23,001
+If you could have anything in
+the world, what would it be?
+
+471
+00:30:26,920 --> 00:30:27,920
+Anything?
+
+472
+00:30:30,480 --> 00:30:32,232
+Yeah. Anything.
+
+473
+00:30:34,440 --> 00:30:36,908
+To be taken
+far away from here.
+
+474
+00:30:39,000 --> 00:30:40,194
+<b><font color="#808000">(SIGHS)</font></b>
+
+475
+00:30:44,080 --> 00:30:45,160
+Good day,
+Corporal McBurney.
+
+476
+00:30:45,280 --> 00:30:46,280
+John.
+
+477
+00:30:48,360 --> 00:30:49,509
+<b><font color="#808000">(DOOR CLOSES)</font></b>
+
+478
+00:30:49,600 --> 00:30:50,600
+<b><font color="#808000">(LOCK CLICKS)</font></b>
+
+479
+00:30:51,160 --> 00:30:52,275
+<b><font color="#808000">(EXHALES)</font></b>
+
+480
+00:30:53,920 --> 00:30:55,069
+<b><font color="#808000">(SIGHS)</font></b>
+
+481
+00:31:02,680 --> 00:31:05,274
+<b><font color="#008080">EMILY:</font></b> <b><font color="#808000">(SINGING)</font></b> When
+the blackbird in the spring
+
+482
+00:31:05,960 --> 00:31:08,349
+'Neath the willow tree
+
+483
+00:31:08,720 --> 00:31:11,792
+Sat and rocked
+I heard him sing
+
+484
+00:31:11,960 --> 00:31:14,269
+Singing Aura Lea
+
+485
+00:31:14,920 --> 00:31:19,994
+Aura Lea, Aura Lea
+Maid with golden hair
+
+486
+00:31:21,320 --> 00:31:27,350
+Sunshine came along with thee
+And swallows in the air
+
+487
+00:31:29,520 --> 00:31:32,796
+"Come unto me, all ye that
+labor and are heavy laden,
+
+488
+00:31:32,960 --> 00:31:34,632
+"and I will give you rest.
+
+489
+00:31:34,800 --> 00:31:37,314
+"Take my yoke upon you,
+and learn of me,
+
+490
+00:31:37,480 --> 00:31:39,835
+"for I am meek
+and lowly in heart,
+
+491
+00:31:40,040 --> 00:31:42,793
+"and ye shall find
+rest unto your souls.
+
+492
+00:31:43,000 --> 00:31:44,718
+"For my yoke is easy..."
+
+493
+00:31:44,920 --> 00:31:46,990
+<b><font color="#808000">(WHISPERS)</font></b> May I use
+the bath closet?
+
+494
+00:31:47,280 --> 00:31:49,430
+<b><font color="#808000">(SIGHS)</font></b> Can't you wait?
+
+495
+00:31:52,040 --> 00:31:53,314
+All right.
+
+496
+00:31:55,320 --> 00:31:57,151
+"For my yoke is easy
+
+497
+00:31:57,360 --> 00:31:59,874
+"and my burden is light."
+
+498
+00:32:29,520 --> 00:32:30,953
+<b><font color="#808000">(EXHALES)</font></b>
+
+499
+00:32:32,560 --> 00:32:34,551
+Good night, Corporal.
+
+500
+00:32:46,880 --> 00:32:48,916
+I ask God's blessing
+on our armies,
+
+501
+00:32:49,080 --> 00:32:51,071
+and the safe return
+of our boys.
+
+502
+00:32:51,600 --> 00:32:52,600
+<b><font color="#008080">MISS MARTHA:</font></b> Yes.
+
+503
+00:33:02,600 --> 00:33:04,272
+<b><font color="#008080">BOTH:</font></b> One, two, three, four,
+
+504
+00:33:04,440 --> 00:33:06,032
+five, six, seven, eight...
+
+505
+00:33:06,200 --> 00:33:07,713
+One, two, three, four,
+
+506
+00:33:07,920 --> 00:33:09,672
+five, six, seven, eight...
+
+507
+00:33:10,520 --> 00:33:11,919
+<b><font color="#808000">(BOTH LAUGHING)</font></b>
+
+508
+00:33:16,760 --> 00:33:18,318
+You ready?
+Okay.
+
+509
+00:33:18,480 --> 00:33:19,480
+All right.
+
+510
+00:33:22,680 --> 00:33:23,795
+<b><font color="#808000">(GASPS)</font></b>
+
+511
+00:33:23,880 --> 00:33:26,110
+<b><font color="#008080">JANE:</font></b> Don't do that!
+<b><font color="#808000">(LAUGHING)</font></b>
+
+512
+00:33:41,000 --> 00:33:43,230
+<b><font color="#808000">(DISTANT GUNFIRE AND EXPLOSIONS)</font></b>
+
+513
+00:33:59,520 --> 00:34:01,112
+<b><font color="#008080">AMY:</font></b> Here you go, Henry.
+
+514
+00:34:04,600 --> 00:34:05,749
+All right.
+
+515
+00:34:09,560 --> 00:34:10,788
+Come here.
+
+516
+00:34:13,960 --> 00:34:16,030
+Corporal McBurney
+gave me one of his buttons.
+
+517
+00:34:27,600 --> 00:34:29,272
+<b><font color="#008080">MISS MARTHA:</font></b> Miss Amy.
+
+518
+00:34:40,480 --> 00:34:41,480
+Bless us,
+
+519
+00:34:41,720 --> 00:34:43,039
+and bless thee thy gifts,
+
+520
+00:34:43,240 --> 00:34:44,960
+which we receive
+from thy bountiful goodness
+
+521
+00:34:45,120 --> 00:34:47,475
+through Jesus Christ,
+our Lord.
+
+522
+00:34:48,240 --> 00:34:49,240
+Amen.
+
+523
+00:34:49,520 --> 00:34:50,520
+<b><font color="#008080">ALL:</font></b> Amen.
+
+524
+00:34:52,560 --> 00:34:55,120
+It has occurred to me
+that we might reflect
+
+525
+00:34:55,320 --> 00:34:56,639
+on the unexpected presence
+
+526
+00:34:56,760 --> 00:34:58,800
+of Corporal McBurney in our house...
+<b><font color="#808000">(DISH CLATTERS)</font></b>
+
+527
+00:35:01,400 --> 00:35:03,311
+...until his leg heals,
+of course.
+
+528
+00:35:05,760 --> 00:35:07,876
+And we might discuss how
+we may practice compassion
+
+529
+00:35:08,080 --> 00:35:10,120
+and what else we might learn
+from his presence here.
+
+530
+00:35:11,800 --> 00:35:13,200
+What does each of you
+think of this?
+
+531
+00:35:16,080 --> 00:35:18,150
+Miss Alicia,
+can you tell us
+
+532
+00:35:18,240 --> 00:35:20,360
+what do you think we may learn
+from his presence here?
+
+533
+00:35:21,120 --> 00:35:23,350
+Well, maybe the sight
+of him will remind us
+
+534
+00:35:23,520 --> 00:35:26,398
+there's something else in
+the world besides lessons.
+
+535
+00:35:26,680 --> 00:35:28,496
+Well, it seems to me
+that is all there should be
+
+536
+00:35:28,520 --> 00:35:29,953
+for any young lady your age.
+
+537
+00:35:31,160 --> 00:35:33,196
+If we learn our lessons
+properly when young,
+
+538
+00:35:33,400 --> 00:35:36,551
+we can expect
+a calm and happy life
+
+539
+00:35:36,920 --> 00:35:39,115
+when faced with the
+distractions of the world.
+
+540
+00:35:40,240 --> 00:35:41,275
+N'est-ce pas?
+
+541
+00:35:41,840 --> 00:35:44,274
+With the presence
+of this hateful enemy,
+
+542
+00:35:44,480 --> 00:35:46,152
+it'll be a constant
+reminder to us
+
+543
+00:35:46,240 --> 00:35:47,878
+that the war
+is still going on,
+
+544
+00:35:48,600 --> 00:35:51,034
+and the sacrifices
+and prayers we must make.
+
+545
+00:35:51,240 --> 00:35:53,356
+Mmm.
+<b><font color="#008080">EDWINA:</font></b> May I say,
+
+546
+00:35:53,440 --> 00:35:55,670
+that any breath of fresh air
+from the outside world,
+
+547
+00:35:55,880 --> 00:35:58,189
+I think is welcome
+to us all.
+
+548
+00:35:58,360 --> 00:35:59,600
+<b><font color="#008080">EMILY:</font></b> I heard
+he's a mercenary,
+
+549
+00:35:59,800 --> 00:36:01,518
+so maybe he's not
+even really an enemy.
+
+550
+00:36:01,720 --> 00:36:02,720
+What's a mercenary?
+
+551
+00:36:03,000 --> 00:36:05,036
+It means he's just paid
+by the army to fight,
+
+552
+00:36:05,200 --> 00:36:06,640
+he's not really
+fighting their cause.
+
+553
+00:36:06,880 --> 00:36:08,950
+Well, we don't know
+about that.
+
+554
+00:36:09,160 --> 00:36:10,878
+<b><font color="#008080">AMY:</font></b> He seems to be
+a student of nature,
+
+555
+00:36:10,960 --> 00:36:13,315
+so I expect to learn
+about foreign wildlife.
+
+556
+00:36:14,800 --> 00:36:16,677
+He seems to be
+a sensitive person.
+
+557
+00:36:17,920 --> 00:36:18,955
+Does he?
+
+558
+00:36:20,640 --> 00:36:23,234
+I found him understanding.
+
+559
+00:36:24,080 --> 00:36:25,149
+Do you, indeed?
+
+560
+00:36:25,320 --> 00:36:28,790
+Oh, you must share more of
+your findings with us, Edwina.
+
+561
+00:36:31,200 --> 00:36:32,713
+As dedicated Christians,
+
+562
+00:36:32,880 --> 00:36:36,077
+we will join the Corporal
+after dinner for a prayer.
+
+563
+00:36:36,240 --> 00:36:37,275
+Before we retire.
+
+564
+00:36:37,440 --> 00:36:38,953
+<b><font color="#008080">ALL:</font></b> Yes, Miss Martha.
+
+565
+00:36:41,960 --> 00:36:44,110
+Shall we? <b><font color="#808000">(INHALES DEEPLY)</font></b>
+
+566
+00:36:48,600 --> 00:36:49,600
+Corporal.
+
+567
+00:36:50,680 --> 00:36:52,875
+Would you care to join us
+for an evening prayer?
+
+568
+00:36:52,960 --> 00:36:53,960
+Yes, ma'am.
+
+569
+00:36:54,280 --> 00:36:56,236
+But first, maybe
+we'll have a little music
+
+570
+00:36:56,320 --> 00:36:57,878
+if that's not
+too disturbing for you.
+
+571
+00:36:57,960 --> 00:37:00,440
+Oh, no disturbance at all. No.
+I'd love to hear a bit of music.
+
+572
+00:37:00,800 --> 00:37:01,800
+Miss Jane?
+
+573
+00:37:02,280 --> 00:37:03,599
+Yes, ma'am.
+
+574
+00:37:12,400 --> 00:37:14,231
+<b><font color="#808000">(PIANO PLAYING)</font></b>
+
+575
+00:37:18,200 --> 00:37:19,519
+Miss Jane,
+you play beautifully.
+
+576
+00:37:20,480 --> 00:37:21,480
+Doesn't she?
+
+577
+00:37:21,920 --> 00:37:22,920
+Indeed.
+
+578
+00:37:35,160 --> 00:37:40,439
+<b><font color="#808000">(SINGING)</font></b> The years creep
+slowly by, Lorena
+
+579
+00:37:40,920 --> 00:37:45,357
+The snow is on
+the grass again
+
+580
+00:37:46,680 --> 00:37:51,834
+The sun's low
+down the sky, Lorena
+
+581
+00:37:52,320 --> 00:37:56,472
+The frost gleams
+where the flowers have been
+
+582
+00:37:57,760 --> 00:38:02,151
+But the heart throbs on
+as warmly now
+
+583
+00:38:03,760 --> 00:38:09,073
+As when the summer days
+were nigh
+
+584
+00:38:09,720 --> 00:38:14,714
+The sun can never dip so low
+
+585
+00:38:15,240 --> 00:38:19,711
+Or down
+affection's cloudless sky
+
+586
+00:38:20,880 --> 00:38:22,120
+<b><font color="#808000">(POUNDING ON DOOR)</font></b>
+<b><font color="#808000">(AMY GASPS)</font></b>
+
+587
+00:38:24,640 --> 00:38:25,675
+Could it be Yankees?
+
+588
+00:38:25,880 --> 00:38:28,394
+<b><font color="#008080">MISS MARTHA:</font></b> Possibly not.
+It could be some of our own.
+
+589
+00:38:28,680 --> 00:38:31,194
+Edwina, wait here
+with the girls.
+
+590
+00:38:31,400 --> 00:38:34,312
+If it is enemy soldiers,
+I'll rap on the door three times.
+
+591
+00:38:34,480 --> 00:38:35,856
+We'll go to the woods
+and meet you there.
+
+592
+00:38:35,880 --> 00:38:36,880
+What about the Corporal?
+
+593
+00:38:37,040 --> 00:38:39,280
+Well, he's in no condition to leave.
+He will remain here.
+
+594
+00:38:40,000 --> 00:38:41,228
+Shh. All of you.
+
+595
+00:38:49,280 --> 00:38:50,952
+<b><font color="#808000">(POUNDING ON DOOR CONTINUES)</font></b>
+
+596
+00:39:06,600 --> 00:39:07,874
+Can I help you, gentlemen?
+
+597
+00:39:08,560 --> 00:39:10,696
+<b><font color="#808000">(WHISPERING)</font></b> I think it's one of our men.
+<b><font color="#008080">AMY:</font></b> I hope so.
+
+598
+00:39:10,720 --> 00:39:12,336
+<b><font color="#008080">MARIE:</font></b> Miss Edwina,
+what are we going to do?
+
+599
+00:39:12,360 --> 00:39:13,679
+<b><font color="#008080">EDWINA:</font></b> Don't worry,
+girls.
+
+600
+00:39:18,840 --> 00:39:20,034
+Right this way.
+
+601
+00:39:23,280 --> 00:39:25,635
+<b><font color="#008080">MARIE:</font></b> <b><font color="#808000">(SHUDDERING)</font></b>
+Why are they here?
+
+602
+00:39:30,920 --> 00:39:32,911
+Do you think they're here
+for the Corporal?
+
+603
+00:39:33,720 --> 00:39:34,869
+They may be.
+
+604
+00:39:36,080 --> 00:39:37,176
+<b><font color="#008080">JANE:</font></b> Why don't
+we turn him in?
+
+605
+00:39:37,200 --> 00:39:38,872
+Are they coming?
+I'm so scared.
+
+606
+00:39:39,360 --> 00:39:40,918
+<b><font color="#808000">(THUDS)</font></b>
+<b><font color="#808000">(GIRLS GASPING)</font></b>
+
+607
+00:39:44,200 --> 00:39:45,599
+<b><font color="#808000">(MISS MARTHA EXHALES)</font></b>
+
+608
+00:39:45,680 --> 00:39:46,680
+It's all right.
+
+609
+00:39:47,680 --> 00:39:48,976
+There's two of them.
+Two of our own.
+
+610
+00:39:49,000 --> 00:39:51,216
+I've given them something to eat.
+They're in the kitchen.
+
+611
+00:39:51,240 --> 00:39:52,240
+Why did they come?
+
+612
+00:39:52,320 --> 00:39:53,833
+To offer their assistance.
+
+613
+00:39:53,920 --> 00:39:56,309
+The army is about to leave
+the vicinity.
+
+614
+00:39:56,680 --> 00:39:59,035
+As of yet, I haven't
+told them about the Corporal.
+
+615
+00:40:00,520 --> 00:40:03,671
+But I might ask them
+to take him with them.
+
+616
+00:40:04,160 --> 00:40:06,435
+But he couldn't ride
+without hurting his leg.
+
+617
+00:40:06,600 --> 00:40:07,976
+Well, I could tell them
+that he's wounded.
+
+618
+00:40:08,000 --> 00:40:09,991
+Suggest that they come back.
+
+619
+00:40:10,600 --> 00:40:13,353
+But that could be weeks.
+Could even be months.
+
+620
+00:40:13,560 --> 00:40:15,755
+They'll probably insist
+on taking him right now,
+
+621
+00:40:16,160 --> 00:40:17,878
+and who knows
+what'll happen to him.
+
+622
+00:40:18,440 --> 00:40:20,960
+<b><font color="#008080">MARIE:</font></b> They could shoot him and
+leave him along the road to die.
+
+623
+00:40:21,360 --> 00:40:23,715
+I could allow the Corporal to
+stay until he is recovered,
+
+624
+00:40:24,120 --> 00:40:26,031
+and then we could send him
+on his way, alone.
+
+625
+00:40:26,240 --> 00:40:27,355
+Oh, yes.
+
+626
+00:40:27,520 --> 00:40:29,760
+<b><font color="#008080">MISS MARTHA:</font></b> There is Christian
+charity to be considered.
+
+627
+00:40:29,920 --> 00:40:32,957
+You keep talking about him as if
+he wasn't right here in this room.
+
+628
+00:40:33,360 --> 00:40:35,656
+<b><font color="#008080">EMILY:</font></b> And there are the doubts if
+we can really consider him an enemy.
+
+629
+00:40:35,680 --> 00:40:36,908
+<b><font color="#008080">AMY:</font></b> Please, Miss Martha.
+
+630
+00:40:40,320 --> 00:40:44,313
+I will allow Corporal McBurney to
+stay here until his leg has healed.
+
+631
+00:40:45,360 --> 00:40:46,656
+But if any of you
+is opposed to it,
+
+632
+00:40:46,680 --> 00:40:49,069
+I will tell the soldiers right now,
+and they will decide
+
+633
+00:40:49,160 --> 00:40:50,388
+what his fate will be.
+
+634
+00:40:51,280 --> 00:40:52,280
+Any of you?
+
+635
+00:40:52,920 --> 00:40:54,319
+Miss Jane?
+
+636
+00:40:56,760 --> 00:40:57,829
+Well then,
+
+637
+00:40:58,400 --> 00:40:59,753
+he will stay.
+
+638
+00:41:01,800 --> 00:41:02,994
+<b><font color="#808000">(EXHALES)</font></b>
+
+639
+00:41:03,320 --> 00:41:04,912
+The decision is made.
+
+640
+00:41:05,440 --> 00:41:07,032
+Off to bed.
+All of you.
+
+641
+00:41:08,240 --> 00:41:10,117
+Come on, girls.
+Off you go.
+
+642
+00:41:11,040 --> 00:41:12,256
+Can we go and greet
+the soldiers?
+
+643
+00:41:12,280 --> 00:41:13,429
+No. No, no.
+
+644
+00:41:13,600 --> 00:41:15,216
+I do not want to put
+temptation in their way.
+
+645
+00:41:15,240 --> 00:41:16,958
+Come on, girls.
+Miss Edwina.
+
+646
+00:41:17,600 --> 00:41:18,600
+<b><font color="#808000">(MISS MARTHA SIGHS)</font></b>
+
+647
+00:41:21,320 --> 00:41:23,072
+This has been
+quite a night.
+
+648
+00:41:24,080 --> 00:41:25,229
+I have to say,
+
+649
+00:41:25,600 --> 00:41:27,238
+when they saw me,
+
+650
+00:41:27,640 --> 00:41:29,676
+they said, there is
+nothing more frightening
+
+651
+00:41:29,760 --> 00:41:31,239
+than a startled woman
+with a gun.
+
+652
+00:41:32,240 --> 00:41:33,309
+<b><font color="#808000">(MISS MARTHA CHUCKLES)</font></b>
+
+653
+00:41:34,240 --> 00:41:35,240
+When I return,
+
+654
+00:41:35,320 --> 00:41:37,675
+would you care to join me
+for a brandy, Corporal?
+
+655
+00:41:38,400 --> 00:41:39,719
+I'd like that
+very much, ma'am.
+
+656
+00:41:45,440 --> 00:41:47,192
+<b><font color="#808000">(CRICKETS CHIRPING)</font></b>
+
+657
+00:41:57,440 --> 00:41:59,556
+How long do you think
+he'll stay here?
+
+658
+00:42:00,320 --> 00:42:02,550
+Miss Martha seems to be
+warming up to him,
+
+659
+00:42:02,640 --> 00:42:04,119
+and I believe
+he likes it here.
+
+660
+00:42:04,280 --> 00:42:05,759
+What would you know?
+
+661
+00:42:06,560 --> 00:42:08,278
+I've talked
+with him privately.
+
+662
+00:42:09,960 --> 00:42:11,096
+You think just
+because you found him,
+
+663
+00:42:11,120 --> 00:42:12,816
+you have some sort of special
+relationship with him?
+
+664
+00:42:12,840 --> 00:42:14,273
+You're just jealous.
+Shh.
+
+665
+00:42:21,280 --> 00:42:22,998
+It must be tiring
+for you.
+
+666
+00:42:25,320 --> 00:42:27,959
+I can't say
+it hasn't been a struggle.
+
+667
+00:42:28,800 --> 00:42:29,920
+Well, I admire
+your strength.
+
+668
+00:42:31,120 --> 00:42:34,000
+I know it must be hard for you to be
+strong all the time for these girls.
+
+669
+00:42:34,960 --> 00:42:36,416
+They're lucky to have
+a woman such as yourself
+
+670
+00:42:36,440 --> 00:42:37,576
+to keep going
+for all of them.
+
+671
+00:42:37,600 --> 00:42:41,115
+I'm just trying to give them what
+they need to survive in these times.
+
+672
+00:42:41,360 --> 00:42:43,800
+It's a very different world out
+there that they're going into,
+
+673
+00:42:43,920 --> 00:42:45,638
+I don't think
+they realize it.
+
+674
+00:42:45,840 --> 00:42:47,956
+They can't know what
+it's like out there.
+
+675
+00:42:48,040 --> 00:42:50,076
+<b><font color="#808000">(SIGHS DEEPLY)</font></b>
+
+676
+00:42:50,160 --> 00:42:51,878
+Sometimes I get so tired.
+
+677
+00:42:53,360 --> 00:42:55,191
+I pray that
+the end is near.
+
+678
+00:42:55,520 --> 00:42:58,671
+I can't make any sense of it,
+how much everyone has suffered.
+
+679
+00:42:58,840 --> 00:43:00,558
+There's no sense
+to be made of it.
+
+680
+00:43:00,680 --> 00:43:01,680
+Hmm.
+
+681
+00:43:03,480 --> 00:43:04,880
+Did you have someone
+before the war?
+
+682
+00:43:12,840 --> 00:43:13,875
+I did.
+
+683
+00:43:17,320 --> 00:43:18,469
+Well, I'm sorry.
+
+684
+00:43:22,040 --> 00:43:23,678
+Everyone has lost so much.
+
+685
+00:43:23,840 --> 00:43:25,512
+I was a coward to leave,
+
+686
+00:43:27,200 --> 00:43:29,760
+but you don't realize what battle
+really is until you've seen it.
+
+687
+00:43:32,160 --> 00:43:33,912
+It must be devastating.
+
+688
+00:43:35,200 --> 00:43:37,350
+I was fresh off
+the boat from Dublin.
+
+689
+00:43:38,480 --> 00:43:40,038
+I had nothing.
+
+690
+00:43:41,200 --> 00:43:43,509
+I took $300 to take
+another man's place.
+
+691
+00:43:44,520 --> 00:43:45,919
+I see.
+
+692
+00:43:46,360 --> 00:43:48,828
+We've all done things
+out of character.
+
+693
+00:43:51,000 --> 00:43:52,800
+We will see to it that
+you make your way home.
+
+694
+00:43:55,640 --> 00:43:57,119
+<b><font color="#808000">(SIGHS)</font></b>
+
+695
+00:43:58,920 --> 00:44:02,071
+<b><font color="#808000">(EXHALES)</font></b> Thank you
+for your company, Corporal.
+
+696
+00:44:04,560 --> 00:44:07,916
+If you'll excuse me,
+I must insist that you rest.
+
+697
+00:44:08,920 --> 00:44:11,280
+Well, good night, ma'am. Have a good...
+Have a good evening.
+
+698
+00:44:12,720 --> 00:44:14,392
+Good evening, Corporal.
+
+699
+00:44:16,840 --> 00:44:18,159
+<b><font color="#808000">(DOOR CLOSES)</font></b>
+
+700
+00:44:21,080 --> 00:44:22,718
+<b><font color="#808000">(BIRDS CHIRPING)</font></b>
+
+701
+00:44:27,440 --> 00:44:29,829
+<b><font color="#808000">(GIRLS GIGGLING
+AND CHATTING OUTSIDE)</font></b>
+
+702
+00:44:36,760 --> 00:44:37,760
+You got it!
+
+703
+00:44:40,200 --> 00:44:41,428
+Miss Martha!
+
+704
+00:44:41,600 --> 00:44:42,999
+Miss Martha, come look!
+
+705
+00:44:43,080 --> 00:44:44,080
+<b><font color="#008080">MISS MARTHA:</font></b> What is it?
+
+706
+00:44:44,640 --> 00:44:45,640
+Be careful.
+
+707
+00:44:45,760 --> 00:44:47,360
+Don't put too much weight
+on the bad leg.
+
+708
+00:44:47,560 --> 00:44:48,709
+Yes, ma'am.
+
+709
+00:44:50,240 --> 00:44:52,120
+I still wouldn't rush
+nature to take its course,
+
+710
+00:44:52,280 --> 00:44:53,720
+but if you want
+to risk doing this...
+
+711
+00:44:53,840 --> 00:44:55,796
+Oh! Corporal, please.
+
+712
+00:44:56,160 --> 00:44:57,593
+Steady yourself.
+
+713
+00:44:57,760 --> 00:44:58,936
+Can you help me outside,
+Miss Amy?
+
+714
+00:44:58,960 --> 00:45:00,439
+Yes, of course.
+
+715
+00:45:07,800 --> 00:45:08,835
+Good day, Corporal.
+
+716
+00:45:09,000 --> 00:45:10,000
+<b><font color="#008080">McBURNEY:</font></b> Ladies.
+
+717
+00:45:10,400 --> 00:45:11,736
+It's your turn
+in the kitchen garden.
+
+718
+00:45:11,760 --> 00:45:12,760
+That's right.
+
+719
+00:45:12,800 --> 00:45:14,836
+I'm helping the Corporal,
+as you can see.
+
+720
+00:45:15,280 --> 00:45:16,633
+I'm sure
+we could relieve you.
+
+721
+00:45:17,000 --> 00:45:18,000
+No, that's enough.
+
+722
+00:45:18,240 --> 00:45:20,071
+I'll decide
+whose work is needed.
+
+723
+00:45:20,320 --> 00:45:21,320
+On your way, girls.
+
+724
+00:45:21,800 --> 00:45:23,950
+Yes, ma'am. <b><font color="#808000">(SIGHS)</font></b>
+
+725
+00:45:27,800 --> 00:45:29,950
+This reminds me of the first
+time we met, you and me.
+
+726
+00:45:37,600 --> 00:45:39,272
+Your roses need pruning.
+
+727
+00:45:39,880 --> 00:45:41,677
+And those hedges
+are in terrible shape.
+
+728
+00:45:43,320 --> 00:45:44,496
+Your whole flower garden
+needs tending.
+
+729
+00:45:44,520 --> 00:45:46,351
+I'll get to it tomorrow.
+<b><font color="#808000">(SPEAKS FRENCH)</font></b>
+
+730
+00:45:46,440 --> 00:45:48,120
+<b><font color="#808000">(IN ENGLISH)</font></b> You'll do
+nothing of the kind.
+
+731
+00:45:48,480 --> 00:45:51,278
+Have you had much gardening
+experience, Corporal McBurney?
+
+732
+00:45:51,440 --> 00:45:52,793
+I've done
+a bit of it, yeah.
+
+733
+00:45:53,960 --> 00:45:56,474
+Well, if you really have
+such a gift for gardening,
+
+734
+00:45:57,200 --> 00:45:59,668
+you may assist us
+later in your convalescence.
+
+735
+00:46:00,040 --> 00:46:01,712
+It would be my pleasure,
+ma'am.
+
+736
+00:46:04,800 --> 00:46:07,189
+Come. You have
+work to do, Miss Amy.
+
+737
+00:46:17,600 --> 00:46:18,953
+<b><font color="#808000">(GRUNTING)</font></b>
+
+738
+00:47:00,560 --> 00:47:02,835
+<b><font color="#808000">(GRUNTING)</font></b>
+
+739
+00:47:31,800 --> 00:47:33,119
+<b><font color="#808000">(CHUCKLES SOFTLY)</font></b>
+
+740
+00:47:40,400 --> 00:47:42,277
+Here's some water
+if you like.
+
+741
+00:47:42,560 --> 00:47:44,437
+I like very much.
+Thank you, my girl.
+
+742
+00:47:45,800 --> 00:47:47,791
+Miss Martha told me
+to return to my lessons,
+
+743
+00:47:47,960 --> 00:47:50,155
+but I told her all the
+things you need me to do.
+
+744
+00:47:50,480 --> 00:47:51,816
+Yeah, sure. I'm counting
+on you to keep
+
+745
+00:47:51,840 --> 00:47:53,320
+me clumsy feet away
+from birds' nests.
+
+746
+00:47:54,160 --> 00:47:56,116
+That, and keep me company.
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+747
+00:47:57,840 --> 00:47:59,637
+Listen, don't tell
+any of the others,
+
+748
+00:47:59,960 --> 00:48:02,474
+but I consider you to be my best
+friend in this whole place.
+
+749
+00:48:02,960 --> 00:48:04,757
+You do?
+Yeah, of course I do.
+
+750
+00:48:04,960 --> 00:48:07,456
+I'm sure if it wasn't for you,
+I'd still be sitting under that tree.
+
+751
+00:48:07,480 --> 00:48:08,754
+<b><font color="#808000">(CHUCKLES SOFTLY)</font></b>
+
+752
+00:48:12,640 --> 00:48:13,789
+Thank you, my lady.
+Hmm.
+
+753
+00:48:28,320 --> 00:48:31,312
+You better not be saying any unkind
+things about us to the Corporal.
+
+754
+00:48:31,520 --> 00:48:33,476
+Now, why would I
+ever do that?
+
+755
+00:48:38,360 --> 00:48:39,918
+<b><font color="#808000">(CRICKETS CHIRPING)</font></b>
+
+756
+00:48:45,600 --> 00:48:46,999
+<b><font color="#808000">(BIRDS CHIRPING)</font></b>
+
+757
+00:48:49,600 --> 00:48:51,272
+<b><font color="#808000">(GRUNTING)</font></b>
+
+758
+00:48:55,800 --> 00:48:57,995
+<b><font color="#808000">(PANTING)</font></b>
+
+759
+00:49:09,040 --> 00:49:10,268
+<b><font color="#808000">(EXHALES)</font></b>
+
+760
+00:49:25,760 --> 00:49:27,432
+<b><font color="#808000">(BOTH GIGGLING)</font></b>
+
+761
+00:49:30,320 --> 00:49:31,799
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+762
+00:49:38,680 --> 00:49:40,238
+<b><font color="#808000">(BIRDS CHIRPING)</font></b>
+
+763
+00:49:48,520 --> 00:49:50,238
+<b><font color="#808000">(INSECTS CHIRPING)</font></b>
+
+764
+00:49:52,800 --> 00:49:53,800
+<b><font color="#008080">MISS MARTHA:</font></b> Corporal.
+
+765
+00:49:55,720 --> 00:49:57,870
+I was wondering
+how your leg is?
+
+766
+00:49:58,920 --> 00:50:00,956
+It, uh, twinges
+a bit now and then.
+
+767
+00:50:01,400 --> 00:50:02,913
+I would expect that.
+
+768
+00:50:03,360 --> 00:50:04,509
+You will recall
+I was the one
+
+769
+00:50:04,600 --> 00:50:06,556
+who was opposed to you
+walking on it so soon.
+
+770
+00:50:06,720 --> 00:50:07,720
+Yes, ma'am.
+
+771
+00:50:07,760 --> 00:50:12,197
+However, I appreciate
+your desire to be active.
+
+772
+00:50:13,800 --> 00:50:15,836
+May I check?
+Yes, ma'am.
+
+773
+00:50:27,160 --> 00:50:28,160
+Well...
+
+774
+00:50:32,840 --> 00:50:35,991
+The stitches, uh,
+they're holding nicely.
+
+775
+00:50:36,400 --> 00:50:37,469
+Mmm.
+
+776
+00:50:37,560 --> 00:50:39,437
+The wound
+is healing very well.
+
+777
+00:50:40,280 --> 00:50:42,430
+When do you think
+I'll be fully recovered?
+
+778
+00:50:43,920 --> 00:50:45,911
+Some would say
+you're recovered now.
+
+779
+00:50:46,840 --> 00:50:48,353
+I'm sure the army surgeons
+would say
+
+780
+00:50:48,480 --> 00:50:50,277
+you are ready
+to return to duty.
+
+781
+00:50:51,640 --> 00:50:52,789
+So, you'd like me
+to leave?
+
+782
+00:50:53,360 --> 00:50:54,360
+I didn't say that.
+
+783
+00:50:54,480 --> 00:50:55,480
+No, of course not.
+
+784
+00:50:55,600 --> 00:50:57,909
+You're far too polite a lady
+to be so blunt about it.
+
+785
+00:50:58,080 --> 00:51:00,310
+I am as blunt as I need
+to be, Corporal McBurney.
+
+786
+00:51:01,800 --> 00:51:02,800
+Since you brought it up,
+
+787
+00:51:02,920 --> 00:51:04,336
+I would say that the leg
+will be healed well enough
+
+788
+00:51:04,360 --> 00:51:06,112
+to leave by the end
+of the week.
+
+789
+00:51:07,320 --> 00:51:08,799
+That's in just a few days.
+
+790
+00:51:09,200 --> 00:51:10,428
+Yes, it is.
+
+791
+00:51:11,800 --> 00:51:12,949
+Where would I go?
+
+792
+00:51:13,600 --> 00:51:16,273
+I'm afraid that is entirely your
+business where you go, Corporal.
+
+793
+00:51:18,000 --> 00:51:21,117
+However, I think you may
+find columns of your troops
+
+794
+00:51:21,240 --> 00:51:22,832
+on the main road
+to Richmond.
+
+795
+00:51:27,000 --> 00:51:29,150
+Your garden should have
+continual care.
+
+796
+00:51:30,000 --> 00:51:31,956
+I mean, you need
+a full-time gardener.
+
+797
+00:51:32,200 --> 00:51:33,394
+Perhaps,
+
+798
+00:51:34,320 --> 00:51:36,959
+but I expect, in these times,
+one just has to do without.
+
+799
+00:51:40,320 --> 00:51:42,800
+It's a shame, isn't it, that I
+couldn't have remained helpless.
+
+800
+00:51:55,640 --> 00:51:56,640
+When?
+
+801
+00:51:57,360 --> 00:52:00,830
+I don't know exactly,
+but she asked him to leave.
+
+802
+00:52:01,920 --> 00:52:04,275
+Well, we will just have to
+make it so pleasant for him
+
+803
+00:52:04,360 --> 00:52:06,555
+that he won't even
+consider leaving us.
+
+804
+00:52:06,720 --> 00:52:07,920
+We might suggest
+to Miss Martha
+
+805
+00:52:07,960 --> 00:52:10,110
+that the Corporal join us
+at the table for dinner.
+
+806
+00:52:10,720 --> 00:52:13,712
+Yes, he must get lonely
+eating alone in his room.
+
+807
+00:52:14,720 --> 00:52:17,359
+We can show him some real
+Southern hospitality.
+
+808
+00:52:17,440 --> 00:52:18,555
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+809
+00:52:20,680 --> 00:52:22,352
+<b><font color="#808000">(BIRDS CHIRPING)</font></b>
+
+810
+00:52:32,800 --> 00:52:34,074
+<b><font color="#808000">(DOOR OPENS)</font></b>
+
+811
+00:52:35,760 --> 00:52:37,352
+Miss Edwina Morrow.
+
+812
+00:52:37,440 --> 00:52:38,634
+<b><font color="#808000">(DOOR CLOSES)</font></b>
+
+813
+00:52:38,720 --> 00:52:40,870
+<b><font color="#808000">(FOOTSTEPS APPROACHING)</font></b>
+
+814
+00:52:45,280 --> 00:52:47,111
+I've missed being near you.
+
+815
+00:52:47,720 --> 00:52:49,119
+You have?
+
+816
+00:52:49,920 --> 00:52:50,920
+Yeah.
+
+817
+00:52:52,200 --> 00:52:54,191
+You have no idea
+how lovely you are.
+
+818
+00:52:57,640 --> 00:53:00,632
+Miss Farnsworth suggested it's
+time for me to be on my way.
+
+819
+00:53:01,280 --> 00:53:02,952
+I don't want you
+to leave.
+
+820
+00:53:03,120 --> 00:53:04,269
+I don't want to leave.
+
+821
+00:53:08,480 --> 00:53:10,152
+I love you, Edwina.
+
+822
+00:53:12,280 --> 00:53:13,633
+<b><font color="#808000">(SIGHS)</font></b>
+
+823
+00:53:13,720 --> 00:53:17,713
+Please don't ever say that
+unless you mean it.
+
+824
+00:53:18,080 --> 00:53:19,559
+I do mean it.
+
+825
+00:53:20,960 --> 00:53:23,600
+Geez, I knew exactly how I felt
+about you the first time we talked.
+
+826
+00:53:24,200 --> 00:53:25,376
+I was too afraid
+to say anything
+
+827
+00:53:25,400 --> 00:53:27,280
+for fear that you'd never
+let me near you again.
+
+828
+00:53:29,680 --> 00:53:31,920
+I'm only telling you now because
+I'm running out of time.
+
+829
+00:53:32,040 --> 00:53:33,792
+It might be my last chance.
+
+830
+00:53:35,480 --> 00:53:37,630
+I realize I'm not good
+enough for you, Edwina.
+
+831
+00:53:38,520 --> 00:53:40,078
+That's not true.
+It is.
+
+832
+00:53:42,160 --> 00:53:44,515
+You just don't believe in
+yourself enough to see it so.
+
+833
+00:53:47,400 --> 00:53:48,958
+I'm tired of this war.
+
+834
+00:53:51,160 --> 00:53:52,991
+I want to see the West.
+
+835
+00:53:55,080 --> 00:53:58,629
+If you can get to Richmond,
+my father can help you.
+
+836
+00:54:01,200 --> 00:54:02,792
+Come with me.
+
+837
+00:54:04,640 --> 00:54:05,755
+<b><font color="#808000">(KNOCK ON DOOR)</font></b>
+
+838
+00:54:06,280 --> 00:54:07,679
+Corporal?
+
+839
+00:54:08,520 --> 00:54:10,636
+Miss Martha invites you
+to dine with us.
+
+840
+00:54:17,160 --> 00:54:18,309
+<b><font color="#808000">(DOOR CLOSES)</font></b>
+
+841
+00:54:26,240 --> 00:54:27,309
+Oh, have you heard?
+
+842
+00:54:27,480 --> 00:54:29,789
+Miss Martha invited the
+Corporal to dinner tonight.
+
+843
+00:54:31,080 --> 00:54:32,752
+<b><font color="#808000">(GIRLS CHATTING INDISTINCTLY)</font></b>
+
+844
+00:54:34,800 --> 00:54:35,800
+Have you got it?
+
+845
+00:54:35,880 --> 00:54:37,154
+Almost.
+
+846
+00:54:47,400 --> 00:54:49,072
+<b><font color="#808000">(GIRLS GIGGLING)</font></b>
+
+847
+00:55:01,120 --> 00:55:03,156
+<b><font color="#008080">MISS MARTHA:</font></b> Miss Alicia,
+too much cream.
+
+848
+00:55:03,240 --> 00:55:04,878
+<b><font color="#808000">(GIGGLING CONTINUES)</font></b>
+
+849
+00:55:07,560 --> 00:55:09,551
+Now, you stop your giggling.
+
+850
+00:55:10,400 --> 00:55:11,719
+Manners.
+
+851
+00:55:22,280 --> 00:55:23,554
+<b><font color="#808000">(CHUCKLES SOFTLY)</font></b>
+
+852
+00:55:27,240 --> 00:55:29,754
+That dress is very
+becoming, Miss Edwina.
+
+853
+00:55:29,840 --> 00:55:30,840
+<b><font color="#008080">EDWINA:</font></b> Thank you.
+
+854
+00:55:31,040 --> 00:55:32,616
+<b><font color="#008080">ALICIA:</font></b> There might be other
+attractive shoulders here
+
+855
+00:55:32,640 --> 00:55:34,440
+if we were all permitted
+to wear such dresses.
+
+856
+00:55:34,840 --> 00:55:38,799
+I wouldn't say it's entirely
+suitable for a young ladies' school,
+
+857
+00:55:39,720 --> 00:55:41,915
+but we know Miss Edwina
+is accustomed to town society
+
+858
+00:55:42,080 --> 00:55:43,433
+with different views.
+
+859
+00:55:43,800 --> 00:55:46,792
+I would suggest that
+we change the subject
+
+860
+00:55:48,320 --> 00:55:50,390
+and that Miss Edwina
+draws her shawl.
+
+861
+00:55:54,240 --> 00:55:55,753
+Yes.
+
+862
+00:55:56,080 --> 00:55:58,640
+<b><font color="#008080">MISS MARTHA:</font></b> That will avoid any
+more speculation on the subject.
+
+863
+00:56:01,160 --> 00:56:03,071
+This is the best meal
+I've had in a long time.
+
+864
+00:56:03,480 --> 00:56:04,480
+Thank you, ma'am.
+
+865
+00:56:04,600 --> 00:56:05,953
+Merci beaucoup.
+
+866
+00:56:07,880 --> 00:56:09,950
+Miss Alicia made
+the pie herself.
+
+867
+00:56:11,720 --> 00:56:13,153
+I hope you like apple pie.
+
+868
+00:56:13,400 --> 00:56:16,039
+I love apple pie.
+It's my favorite.
+
+869
+00:56:16,680 --> 00:56:18,910
+Is that my recipe,
+Alicia?
+
+870
+00:56:20,080 --> 00:56:21,149
+It is.
+
+871
+00:56:23,480 --> 00:56:24,480
+I picked the apples.
+
+872
+00:56:24,560 --> 00:56:25,560
+They're delicious.
+
+873
+00:56:27,800 --> 00:56:29,438
+Apple pie
+is my favorite too.
+
+874
+00:56:29,520 --> 00:56:30,520
+Really?
+
+875
+00:56:30,680 --> 00:56:31,908
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+876
+00:56:34,160 --> 00:56:36,720
+We've been fortunate to have
+enough water for our garden.
+
+877
+00:56:37,800 --> 00:56:39,392
+<b><font color="#008080">McBURNEY:</font></b> Yes, ma'am.
+
+878
+00:56:41,440 --> 00:56:43,112
+Shall we have some music?
+
+879
+00:57:16,000 --> 00:57:17,672
+That's a beautiful song, Jane.
+
+880
+00:57:18,680 --> 00:57:19,680
+Isn't it?
+
+881
+00:57:20,880 --> 00:57:23,394
+I always thought
+it was rather romantic.
+
+882
+00:57:23,800 --> 00:57:25,028
+Quite.
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+883
+00:57:25,720 --> 00:57:27,551
+<b><font color="#808000">(PLAYING JOLLY PIANO MUSIC)</font></b>
+
+884
+00:57:29,040 --> 00:57:30,314
+<b><font color="#808000">(GIRLS GIGGLE)</font></b>
+
+885
+00:57:30,400 --> 00:57:33,915
+<b><font color="#008080">MARIE:</font></b> Mademoiselle, can I
+interest you in a dance?
+
+886
+00:57:36,080 --> 00:57:37,080
+Spin.
+
+887
+00:57:38,880 --> 00:57:39,880
+Oh, wait, wait.
+
+888
+00:57:41,680 --> 00:57:42,829
+<b><font color="#008080">McBURNEY:</font></b> Miss Morrow.
+
+889
+00:57:43,120 --> 00:57:44,712
+I haven't had
+the chance to tell you
+
+890
+00:57:45,960 --> 00:57:47,632
+how ravishing
+you look tonight.
+
+891
+00:57:48,280 --> 00:57:49,474
+Thank you.
+
+892
+00:57:50,960 --> 00:57:52,951
+May I come and see you
+this evening?
+
+893
+00:57:53,320 --> 00:57:55,550
+Would you care
+for a digestif, Corporal?
+
+894
+00:57:57,640 --> 00:57:58,868
+Yes, ma'am.
+
+895
+00:58:02,440 --> 00:58:03,680
+What a beautiful evening,
+ma'am.
+
+896
+00:58:03,720 --> 00:58:04,720
+<b><font color="#008080">MISS MARTHA:</font></b> Isn't it.
+
+897
+00:58:04,800 --> 00:58:07,712
+<b><font color="#008080">McBURNEY:</font></b> The music's lovely.
+<b><font color="#008080">MISS MARTHA:</font></b> Yes, it is.
+
+898
+00:58:07,800 --> 00:58:09,836
+<b><font color="#808000">(PIANO CONTINUES PLAYING)</font></b>
+
+899
+00:58:09,920 --> 00:58:10,920
+<b><font color="#008080">AMY:</font></b> Pardonnez-moi.
+
+900
+00:58:10,960 --> 00:58:11,995
+<b><font color="#808000">(GIGGLING CONTINUES)</font></b>
+
+901
+00:58:12,080 --> 00:58:14,230
+<b><font color="#008080">MISS MARTHA:</font></b> My father had
+quite a cellar in his day.
+
+902
+00:58:14,440 --> 00:58:15,919
+This house was
+full of parties.
+
+903
+00:58:16,000 --> 00:58:19,037
+People traveled
+from all over to come here.
+
+904
+00:58:19,160 --> 00:58:21,594
+Well, it must have been
+splendid, ma'am. <b><font color="#808000">(CHUCKLES)</font></b>
+
+905
+00:58:22,680 --> 00:58:24,671
+Yes. Yes, it was.
+
+906
+00:58:25,000 --> 00:58:27,150
+There were carriages
+lined up...
+
+907
+00:58:27,440 --> 00:58:29,795
+There were beautiful,
+beautiful gowns.
+
+908
+00:58:29,920 --> 00:58:31,148
+Men in full dress.
+
+909
+00:58:31,240 --> 00:58:33,435
+Elegant dinners and balls.
+
+910
+00:58:34,600 --> 00:58:36,079
+Well, a toast to you,
+Miss Martha,
+
+911
+00:58:37,000 --> 00:58:39,195
+you must be the bravest woman
+I've ever known.
+
+912
+00:58:40,520 --> 00:58:41,669
+<b><font color="#008080">MISS MARTHA:</font></b> No.
+
+913
+00:58:42,600 --> 00:58:45,194
+No. All bravery is,
+
+914
+00:58:45,760 --> 00:58:47,591
+is doing what is
+needed at the time.
+
+915
+00:58:50,040 --> 00:58:51,439
+Tell me, Corporal...
+Yes, ma'am.
+
+916
+00:58:51,600 --> 00:58:53,280
+...do you think this war
+will be over soon?
+
+917
+00:58:53,600 --> 00:58:54,669
+Very soon,
+
+918
+00:58:56,160 --> 00:58:58,435
+sooner than you Southerners
+are ready to admit.
+
+919
+00:58:58,760 --> 00:58:59,909
+<b><font color="#808000">(SCOFFS)</font></b>
+
+920
+00:59:00,000 --> 00:59:01,000
+<b><font color="#808000">(SOFTLY)</font></b> I know.
+
+921
+00:59:01,680 --> 00:59:03,432
+And you could do
+with some help around here.
+
+922
+00:59:04,360 --> 00:59:05,793
+A man's help.
+
+923
+00:59:08,160 --> 00:59:09,309
+<b><font color="#808000">(PIANO STOPS)</font></b>
+
+924
+00:59:09,440 --> 00:59:10,475
+Hmm.
+
+925
+00:59:10,560 --> 00:59:11,560
+Very nice, Miss Jane.
+
+926
+00:59:11,640 --> 00:59:13,720
+<b><font color="#008080">AMY:</font></b> The corporal sure
+does look comfortable tonight.
+
+927
+00:59:14,360 --> 00:59:15,509
+<b><font color="#008080">MISS MARTHA:</font></b> Girls...
+
+928
+00:59:16,160 --> 00:59:18,196
+Let's gather
+for our evening prayers.
+
+929
+00:59:29,200 --> 00:59:30,474
+Dear Lord,
+
+930
+00:59:30,840 --> 00:59:32,671
+we ask for your protection
+over our school,
+
+931
+00:59:32,880 --> 00:59:33,976
+and we ask for your protection
+
+932
+00:59:34,000 --> 00:59:35,877
+over the brave members
+of our army.
+
+933
+00:59:36,320 --> 00:59:39,073
+And may we look after our
+friend, Corporal McBurney,
+
+934
+00:59:39,240 --> 00:59:40,832
+as he makes his way?
+
+935
+00:59:41,000 --> 00:59:42,000
+Yes.
+
+936
+00:59:42,040 --> 00:59:43,678
+Yes, Miss Amy.
+
+937
+00:59:44,320 --> 00:59:47,710
+Corporal McBurney's stay here has
+taught us all a very important lesson,
+
+938
+00:59:49,000 --> 00:59:52,310
+that the enemy as an individual
+is not what we believed.
+
+939
+00:59:54,080 --> 00:59:56,674
+Let us bow our heads
+in silent meditation.
+
+940
+01:00:08,000 --> 01:00:09,752
+<b><font color="#808000">(MISS MARTHA CHUCKLES)</font></b>
+
+941
+01:00:15,960 --> 01:00:17,439
+Good night, Miss Edwina.
+
+942
+01:00:20,120 --> 01:00:21,599
+Good night, Corporal.
+
+943
+01:00:22,440 --> 01:00:23,714
+Good night, ma'am.
+
+944
+01:00:27,640 --> 01:00:30,359
+<b><font color="#008080">JANE:</font></b> Please! Stop it!
+
+945
+01:00:30,560 --> 01:00:32,198
+Quiet, girls!
+
+946
+01:00:34,480 --> 01:00:35,708
+You need your rest.
+
+947
+01:00:35,800 --> 01:00:36,800
+Indeed.
+
+948
+01:00:37,480 --> 01:00:38,480
+Good night, ma'am.
+
+949
+01:00:38,560 --> 01:00:40,240
+Thank you for your, uh...
+Your hospitality.
+
+950
+01:00:40,280 --> 01:00:41,713
+Good night, Corporal.
+
+951
+01:00:51,240 --> 01:00:52,992
+<b><font color="#808000">(CRICKETS CHIRPING)</font></b>
+
+952
+01:01:59,440 --> 01:02:01,351
+<b><font color="#808000">(FOOTSTEPS APPROACHING)</font></b>
+
+953
+01:02:22,320 --> 01:02:23,753
+<b><font color="#808000">(ALICIA GIGGLING)</font></b>
+
+954
+01:02:32,160 --> 01:02:33,160
+Go to sleep.
+
+955
+01:02:33,520 --> 01:02:35,158
+<b><font color="#808000">(ALICIA MOANS)</font></b>
+<b><font color="#808000">(GASPS)</font></b> John...
+
+956
+01:02:36,000 --> 01:02:38,070
+<b><font color="#808000">(GASPS)</font></b> Edwina.
+<b><font color="#808000">(ALICIA GASPS)</font></b>
+
+957
+01:02:39,560 --> 01:02:40,675
+Edwina...
+
+958
+01:02:42,240 --> 01:02:43,992
+Darling... Wait.
+
+959
+01:02:45,640 --> 01:02:49,633
+<b><font color="#808000">(BREATHING HEAVILY)</font></b>
+Edwina, look, just, please...
+
+960
+01:02:50,920 --> 01:02:52,239
+No.
+Lovely Edwina...
+
+961
+01:02:52,400 --> 01:02:53,628
+Please.
+No! No!
+
+962
+01:02:53,720 --> 01:02:54,755
+<b><font color="#808000">(SHUSHING)</font></b>
+
+963
+01:02:54,840 --> 01:02:56,671
+No!
+<b><font color="#808000">(BOTH GRUNT)</font></b>
+
+964
+01:02:56,880 --> 01:02:57,949
+<b><font color="#008080">EDWINA:</font></b> <b><font color="#808000">(GASPS)</font></b> No!
+
+965
+01:02:58,480 --> 01:03:00,232
+<b><font color="#808000">(McBURNEY GRUNTING)</font></b>
+
+966
+01:03:04,200 --> 01:03:06,077
+<b><font color="#808000">(GASPING)</font></b>
+
+967
+01:03:07,520 --> 01:03:09,238
+<b><font color="#808000">(BREATHING HEAVILY)</font></b>
+
+968
+01:03:10,560 --> 01:03:12,516
+<b><font color="#808000">(GIRLS EXCLAIMING)</font></b>
+
+969
+01:03:15,040 --> 01:03:16,176
+<b><font color="#008080">MISS MARTHA:</font></b> Get me some rope!
+<b><font color="#008080">AMY:</font></b> Is he dead?
+
+970
+01:03:16,200 --> 01:03:18,191
+Get me some rope! We need
+to stop the bleeding.
+
+971
+01:03:18,440 --> 01:03:19,440
+Hurry up!
+
+972
+01:03:21,120 --> 01:03:22,120
+What happened?
+
+973
+01:03:22,200 --> 01:03:23,599
+I was so shaken
+by my experience,
+
+974
+01:03:23,680 --> 01:03:24,800
+I could hardly
+leave my room.
+
+975
+01:03:25,720 --> 01:03:27,756
+It was terrible
+the way he rushed in.
+
+976
+01:03:28,280 --> 01:03:30,475
+And then Edwina came up
+and began fighting him.
+
+977
+01:03:30,600 --> 01:03:31,715
+<b><font color="#808000">(GIRLS SOBBING)</font></b>
+
+978
+01:03:35,160 --> 01:03:37,230
+We need to move him
+to the table.
+
+979
+01:03:37,800 --> 01:03:39,552
+You heard me. Hurry up.
+
+980
+01:03:39,720 --> 01:03:41,517
+I didn't do anything.
+Pick him up!
+
+981
+01:03:41,600 --> 01:03:43,397
+Help me! Help me move him!
+
+982
+01:03:43,760 --> 01:03:45,990
+<b><font color="#808000">(SOBBING CONTINUES)</font></b>
+Be quiet. Be quiet.
+
+983
+01:03:46,080 --> 01:03:47,399
+<b><font color="#008080">AMY:</font></b> What are you gonna do?
+Shh!
+
+984
+01:03:47,760 --> 01:03:49,079
+Quiet. Go to your rooms.
+
+985
+01:03:49,240 --> 01:03:51,754
+Go! I need you to go
+to your rooms, now.
+
+986
+01:03:52,080 --> 01:03:53,399
+<b><font color="#808000">(CRYING)</font></b>
+Go!
+
+987
+01:03:54,240 --> 01:03:55,355
+<b><font color="#808000">(CRYING)</font></b>
+
+988
+01:03:58,280 --> 01:04:00,077
+We need to remove it.
+
+989
+01:04:01,160 --> 01:04:02,160
+What?
+
+990
+01:04:02,440 --> 01:04:03,440
+That leg is badly broken.
+
+991
+01:04:03,520 --> 01:04:05,112
+I can't repair it,
+I'm not a surgeon.
+
+992
+01:04:05,320 --> 01:04:06,469
+No!
+
+993
+01:04:06,760 --> 01:04:08,478
+<b><font color="#008080">MISS MARTHA:</font></b>
+He's losing so much blood.
+
+994
+01:04:08,600 --> 01:04:10,830
+<b><font color="#008080">EDWINA:</font></b> Please... The leg
+will mortify by the morning.
+
+995
+01:04:10,920 --> 01:04:12,880
+What do you want me to do?
+Do you want him to die?
+
+996
+01:04:12,960 --> 01:04:14,757
+No! No! <b><font color="#808000">(CRYING)</font></b>
+
+997
+01:04:15,120 --> 01:04:16,792
+Edwina, look at me!
+
+998
+01:04:17,160 --> 01:04:19,355
+I need rags.
+I need chloroform.
+
+999
+01:04:19,520 --> 01:04:22,273
+Go to the smokehouse.
+Get the saw, now!
+
+1000
+01:04:22,960 --> 01:04:24,791
+Hurry. Hurry!
+
+1001
+01:04:25,000 --> 01:04:26,956
+Quickly! He's losing blood!
+
+1002
+01:04:29,280 --> 01:04:30,429
+Edwina,
+
+1003
+01:04:31,040 --> 01:04:33,110
+bring me the anatomy book.
+
+1004
+01:04:36,440 --> 01:04:37,680
+<b><font color="#008080">MISS MARTHA:</font></b> "My soul does wait,
+
+1005
+01:04:37,800 --> 01:04:39,791
+"And in His word do I hope.
+
+1006
+01:04:39,960 --> 01:04:41,837
+"My soul waiteth for the Lord
+
+1007
+01:04:42,040 --> 01:04:44,793
+"more than that they watch
+for the morning."
+
+1008
+01:04:44,880 --> 01:04:46,472
+<b><font color="#808000">(GIRLS SNIFFLING)</font></b>
+
+1009
+01:05:09,520 --> 01:05:11,112
+<b><font color="#808000">(INSECTS CHIRPING)</font></b>
+
+1010
+01:05:35,520 --> 01:05:37,636
+<b><font color="#808000">(McBURNEY SCREAMING)</font></b>
+<b><font color="#808000">(GASPS)</font></b>
+
+1011
+01:05:39,560 --> 01:05:40,754
+<b><font color="#008080">McBURNEY:</font></b> Jesus Christ!
+
+1012
+01:05:41,360 --> 01:05:43,590
+<b><font color="#808000">(SCREAMS)</font></b> What have you
+done to me?
+
+1013
+01:05:45,200 --> 01:05:46,952
+<b><font color="#808000">(CRYING)</font></b>
+
+1014
+01:05:47,040 --> 01:05:48,234
+Oh, Jesus!
+
+1015
+01:05:48,400 --> 01:05:50,231
+I've been waiting
+for days to talk to you.
+
+1016
+01:05:50,680 --> 01:05:52,079
+You don't know
+how sorry I am.
+
+1017
+01:05:52,280 --> 01:05:54,350
+You're sorry?
+You could have stopped her!
+
+1018
+01:05:54,520 --> 01:05:55,736
+No, I couldn't...
+Why didn't you stop her?
+
+1019
+01:05:55,760 --> 01:05:56,760
+I couldn't. <b><font color="#808000">(CRYING)</font></b>
+
+1020
+01:05:56,920 --> 01:05:57,920
+<b><font color="#008080">McBURNEY:</font></b> There she is!
+
+1021
+01:05:58,080 --> 01:05:59,080
+The butcher!
+
+1022
+01:05:59,200 --> 01:06:00,713
+We saved your life.
+
+1023
+01:06:00,960 --> 01:06:01,960
+We had no choice.
+
+1024
+01:06:02,120 --> 01:06:03,856
+You didn't have a choice
+or you wanted to punish me
+
+1025
+01:06:03,880 --> 01:06:04,960
+for not going to your room!
+
+1026
+01:06:05,040 --> 01:06:06,576
+It was an accident.
+She saved your life.
+
+1027
+01:06:06,600 --> 01:06:08,079
+You're worse
+than she is!
+
+1028
+01:06:08,240 --> 01:06:09,355
+Did you plan
+this together?
+
+1029
+01:06:09,440 --> 01:06:10,920
+Now you have me
+at your beck and call.
+
+1030
+01:06:10,960 --> 01:06:12,712
+John, please...
+Get away from me!
+
+1031
+01:06:14,640 --> 01:06:15,800
+Get me something
+for the pain!
+
+1032
+01:06:15,960 --> 01:06:17,473
+We'll bring you a bottle.
+
+1033
+01:06:17,920 --> 01:06:20,070
+You didn't tell me
+it was a house of madwomen.
+
+1034
+01:06:20,160 --> 01:06:21,878
+<b><font color="#808000">(DOOR CLOSES)</font></b>
+<b><font color="#808000">(SOBBING)</font></b>
+
+1035
+01:06:29,400 --> 01:06:32,437
+<b><font color="#808000">(GLASS SHATTERING)</font></b>
+<b><font color="#808000">(McBURNEY SCREAMING)</font></b>
+
+1036
+01:06:34,400 --> 01:06:36,152
+<b><font color="#808000">(THUDDING)</font></b>
+
+1037
+01:06:36,240 --> 01:06:38,435
+<b><font color="#808000">(McBURNEY SCREAMING)</font></b>
+
+1038
+01:06:40,920 --> 01:06:42,114
+<b><font color="#808000">(MARIE GASPS)</font></b>
+
+1039
+01:06:43,240 --> 01:06:45,515
+<b><font color="#808000">(CLATTERING)</font></b>
+
+1040
+01:06:45,600 --> 01:06:46,715
+<b><font color="#808000">(McBURNEY GRUNTING)</font></b>
+
+1041
+01:06:46,800 --> 01:06:48,950
+Miss Martha,
+what are we going to do?
+
+1042
+01:06:49,760 --> 01:06:52,194
+<b><font color="#008080">EMILY:</font></b> Marie said she saw
+Union troops approaching.
+
+1043
+01:06:55,280 --> 01:06:56,736
+If we let him go,
+he'll join up with them.
+
+1044
+01:06:56,760 --> 01:06:58,955
+He'll tell them about
+our garden and our cow.
+
+1045
+01:06:59,080 --> 01:07:00,274
+He'll lead them back here.
+
+1046
+01:07:00,440 --> 01:07:01,589
+Exactly.
+
+1047
+01:07:03,560 --> 01:07:05,869
+<b><font color="#808000">(LOUD CLATTERING)</font></b>
+
+1048
+01:07:06,000 --> 01:07:07,831
+<b><font color="#008080">McBURNEY:</font></b> You vengeful bitches!
+
+1049
+01:07:09,440 --> 01:07:10,634
+<b><font color="#808000">(McBURNEY CRIES OUT)</font></b>
+
+1050
+01:07:12,880 --> 01:07:15,235
+<b><font color="#808000">(McBURNEY BREATHING HEAVILY)</font></b>
+
+1051
+01:07:27,160 --> 01:07:28,559
+<b><font color="#808000">(SIGHING)</font></b>
+
+1052
+01:07:56,160 --> 01:07:57,991
+How are you doin'?
+
+1053
+01:08:03,320 --> 01:08:06,198
+I tried to ease Miss Martha's
+suspicions about us.
+
+1054
+01:08:08,840 --> 01:08:11,195
+I was so worried
+about you.
+
+1055
+01:08:12,520 --> 01:08:13,635
+You'll be strong
+again soon.
+
+1056
+01:08:13,720 --> 01:08:14,720
+Shut up.
+
+1057
+01:08:15,400 --> 01:08:16,594
+<b><font color="#808000">(SIGHS)</font></b>
+
+1058
+01:08:18,840 --> 01:08:20,193
+Can I get you anything?
+
+1059
+01:08:22,080 --> 01:08:23,080
+Get me the key.
+
+1060
+01:08:24,200 --> 01:08:26,191
+She would know
+if it went missing.
+
+1061
+01:08:26,400 --> 01:08:27,840
+You know I'd get
+in trouble for that.
+
+1062
+01:08:28,120 --> 01:08:29,599
+Just get it for me.
+
+1063
+01:08:31,280 --> 01:08:34,238
+There might be another one in
+her drawer with her valuables.
+
+1064
+01:08:34,600 --> 01:08:35,828
+<b><font color="#808000">(YELPS)</font></b>
+
+1065
+01:08:37,040 --> 01:08:38,155
+Ow!
+
+1066
+01:08:39,320 --> 01:08:40,435
+<b><font color="#808000">(GRUNTS)</font></b>
+
+1067
+01:08:41,040 --> 01:08:42,758
+Get me the key.
+
+1068
+01:08:43,800 --> 01:08:44,800
+All right.
+
+1069
+01:08:46,480 --> 01:08:48,436
+<b><font color="#808000">(SIGHS)</font></b> I will.
+
+1070
+01:08:49,400 --> 01:08:50,628
+<b><font color="#808000">(SPITTING)</font></b>
+
+1071
+01:09:22,800 --> 01:09:24,279
+<b><font color="#008080">McBURNEY:</font></b> Who's there?
+
+1072
+01:09:26,840 --> 01:09:27,989
+It's Jane.
+
+1073
+01:09:31,400 --> 01:09:32,469
+Jane.
+
+1074
+01:09:33,080 --> 01:09:34,520
+Open the door
+for a minute, will you?
+
+1075
+01:09:37,120 --> 01:09:38,120
+Please.
+
+1076
+01:09:49,840 --> 01:09:51,751
+Jane. Jane,
+where are you going?
+
+1077
+01:09:52,480 --> 01:09:54,755
+I'm just going out
+to the garden, Corporal.
+
+1078
+01:09:57,280 --> 01:09:58,998
+Play a song
+for me, will you?
+
+1079
+01:10:00,280 --> 01:10:01,633
+Will you do that
+for me, Jane?
+
+1080
+01:10:01,800 --> 01:10:03,360
+Will you play one of those
+pretty songs?
+
+1081
+01:10:03,440 --> 01:10:05,192
+Pretty like you...
+Please.
+
+1082
+01:10:07,720 --> 01:10:09,711
+I'm not really
+a bad fella, Jane.
+
+1083
+01:10:12,360 --> 01:10:14,157
+Do you think you'll be
+able to put in a...
+
+1084
+01:10:15,280 --> 01:10:17,840
+A good word for me with
+Miss Martha and the others?
+
+1085
+01:10:17,960 --> 01:10:19,336
+You know, maybe things
+will be able to go back
+
+1086
+01:10:19,360 --> 01:10:20,520
+to the way
+they were before...
+
+1087
+01:10:22,880 --> 01:10:24,154
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+1088
+01:10:26,720 --> 01:10:27,960
+Will you ask her
+to let me stay?
+
+1089
+01:10:29,000 --> 01:10:30,797
+She seems to be doing that.
+
+1090
+01:10:30,880 --> 01:10:31,880
+No, I mean...
+
+1091
+01:10:32,480 --> 01:10:35,199
+For her to tell me
+I'm welcome.
+
+1092
+01:10:35,480 --> 01:10:37,835
+For her to talk to me
+and let you all talk to me.
+
+1093
+01:10:39,920 --> 01:10:41,831
+Would you see
+if she'll do that?
+
+1094
+01:10:44,080 --> 01:10:45,080
+Yes, sir.
+
+1095
+01:10:45,160 --> 01:10:46,559
+Thank you, Jane.
+
+1096
+01:11:05,680 --> 01:11:07,671
+I wish he would just leave.
+
+1097
+01:11:08,320 --> 01:11:10,880
+We have to wait for the Union
+troops to pass, which will be soon.
+
+1098
+01:11:10,960 --> 01:11:12,678
+I expect our men
+to push them back.
+
+1099
+01:11:13,000 --> 01:11:14,479
+Miss Martha, I'm scared.
+
+1100
+01:11:14,680 --> 01:11:15,749
+I know, dear.
+
+1101
+01:11:15,840 --> 01:11:18,115
+He said he was going to kill
+me if I made any noise.
+
+1102
+01:11:18,200 --> 01:11:19,200
+Oh, be quiet.
+
+1103
+01:11:19,320 --> 01:11:20,514
+Please.
+We must all be strong.
+
+1104
+01:11:21,000 --> 01:11:22,056
+<b><font color="#008080">EDWINA:</font></b> He wasn't harming her.
+
+1105
+01:11:22,080 --> 01:11:23,308
+She isn't harmed,
+is she?
+
+1106
+01:11:23,480 --> 01:11:25,118
+He intended to harm her.
+
+1107
+01:11:25,280 --> 01:11:26,816
+We're not sure
+what his intentions were...
+
+1108
+01:11:26,840 --> 01:11:28,193
+Don't fence with me, miss.
+
+1109
+01:11:29,520 --> 01:11:31,238
+I don't think he meant
+to harm anyone.
+
+1110
+01:11:31,400 --> 01:11:33,152
+Perhaps not,
+but we can't be sure.
+
+1111
+01:11:34,080 --> 01:11:35,798
+<b><font color="#808000">(CRASHING)</font></b>
+<b><font color="#808000">(ALL GASPING)</font></b>
+
+1112
+01:11:36,200 --> 01:11:38,634
+<b><font color="#808000">(GIRLS WHIMPERING)</font></b>
+
+1113
+01:11:38,760 --> 01:11:40,320
+Stay back.
+<b><font color="#008080">McBURNEY:</font></b> Well, well, well...
+
+1114
+01:11:40,760 --> 01:11:43,149
+What are you lovely Southern
+ladies learning today?
+
+1115
+01:11:44,240 --> 01:11:45,355
+The art of castration?
+
+1116
+01:11:45,440 --> 01:11:46,440
+Why don't you just go?
+
+1117
+01:11:46,720 --> 01:11:48,496
+We'll help you get your
+possessions and you can leave.
+
+1118
+01:11:48,520 --> 01:11:49,839
+Oh, I can leave now,
+can I?
+
+1119
+01:11:50,200 --> 01:11:51,315
+Just without me leg.
+
+1120
+01:11:51,480 --> 01:11:52,879
+Are you finished
+dressing me up?
+
+1121
+01:11:53,200 --> 01:11:54,520
+I'll leave
+when I goddamn want to.
+
+1122
+01:11:54,800 --> 01:11:56,791
+Everything's gonna change
+around here from now on!
+
+1123
+01:11:57,000 --> 01:11:58,320
+Let me tell you
+how it's gonna go.
+
+1124
+01:11:58,480 --> 01:12:00,640
+Do you even know why Edwina
+threw me down those stairs?
+
+1125
+01:12:00,960 --> 01:12:03,428
+And why your Miss Martha
+there, she took my leg?
+
+1126
+01:12:04,480 --> 01:12:06,550
+Because I wouldn't go
+to her room! Or Edwina's!
+
+1127
+01:12:07,240 --> 01:12:09,096
+No. No, no, no, they didn't
+like that that much!
+
+1128
+01:12:09,120 --> 01:12:11,350
+That's enough! I'll tell
+you when it's enough!
+
+1129
+01:12:13,320 --> 01:12:15,117
+Please don't shout,
+Corporal McBurney.
+
+1130
+01:12:15,280 --> 01:12:16,679
+You'll frighten Henry here.
+
+1131
+01:12:16,840 --> 01:12:18,398
+<b><font color="#808000">(GRUNTS)</font></b>
+<b><font color="#808000">(AMY GASPS)</font></b>
+
+1132
+01:12:18,560 --> 01:12:19,629
+<b><font color="#008080">MISS MARTHA:</font></b> No. Amy.
+
+1133
+01:12:19,720 --> 01:12:20,994
+<b><font color="#808000">(AMY CRYING)</font></b>
+
+1134
+01:12:21,920 --> 01:12:23,319
+<b><font color="#008080">McBURNEY:</font></b> Amy...
+Stay away from me!
+
+1135
+01:12:23,520 --> 01:12:24,748
+Come here. Come here.
+
+1136
+01:12:25,120 --> 01:12:26,155
+It's all right.
+
+1137
+01:12:28,320 --> 01:12:29,355
+It's all right.
+
+1138
+01:12:34,800 --> 01:12:35,835
+It's all right.
+
+1139
+01:12:35,920 --> 01:12:37,096
+<b><font color="#808000">(GLASS SHATTERING)</font></b>
+<b><font color="#808000">(GIRLS SHRIEK AND WHIMPER)</font></b>
+
+1140
+01:12:37,120 --> 01:12:38,136
+<b><font color="#008080">MISS MARTHA:</font></b> It's all right.
+
+1141
+01:12:38,160 --> 01:12:39,354
+It's all right.
+
+1142
+01:12:41,720 --> 01:12:44,154
+<b><font color="#008080">AMY:</font></b> Miss Martha,
+what are we going to do?
+
+1143
+01:12:44,240 --> 01:12:45,559
+Yes, it'll be all right.
+
+1144
+01:12:45,840 --> 01:12:46,989
+It'll be all right.
+
+1145
+01:12:47,400 --> 01:12:49,755
+<b><font color="#808000">(MISS MARTHA PANTING)</font></b>
+
+1146
+01:12:50,520 --> 01:12:51,839
+I need you to get
+the blue rag.
+
+1147
+01:12:51,920 --> 01:12:54,309
+I need you to go
+to the front gate. Hmm?
+
+1148
+01:12:54,400 --> 01:12:56,311
+You pretend like
+you're gathering walnuts,
+
+1149
+01:12:56,480 --> 01:12:57,760
+and you tie that
+rag on the gate,
+
+1150
+01:12:57,840 --> 01:12:59,160
+and then you come
+right back here.
+
+1151
+01:12:59,640 --> 01:13:00,834
+Can you do that?
+
+1152
+01:13:01,000 --> 01:13:02,149
+Yes, Miss Martha.
+
+1153
+01:13:02,520 --> 01:13:04,078
+Yes. Good. Hurry.
+
+1154
+01:13:07,360 --> 01:13:09,828
+What are you doing there, Miss Amy?
+<b><font color="#808000">(GASPS)</font></b>
+
+1155
+01:13:18,120 --> 01:13:19,917
+<b><font color="#808000">(BOTH PANTING)</font></b>
+
+1156
+01:13:26,200 --> 01:13:28,156
+<b><font color="#808000">(AMY SCREAMING)</font></b>
+<b><font color="#808000">(ALL GASP)</font></b>
+
+1157
+01:13:28,240 --> 01:13:29,912
+Go inside and stay there.
+
+1158
+01:13:35,720 --> 01:13:37,915
+<b><font color="#808000">(BREATHING SHAKILY)</font></b>
+
+1159
+01:14:07,760 --> 01:14:08,829
+<b><font color="#808000">(AMY SCREAMS)</font></b>
+
+1160
+01:14:08,920 --> 01:14:09,920
+<b><font color="#008080">AMY:</font></b> Help!
+
+1161
+01:14:17,920 --> 01:14:18,955
+Leave me alone!
+
+1162
+01:14:19,040 --> 01:14:20,336
+<b><font color="#008080">McBURNEY:</font></b> What did
+Miss Martha say?
+
+1163
+01:14:20,360 --> 01:14:22,360
+<b><font color="#008080">AMY:</font></b> Get away from me!
+Why are you sending signals?
+
+1164
+01:14:34,120 --> 01:14:35,280
+Miss Martha!
+<b><font color="#008080">MISS MARTHA:</font></b> Amy!
+
+1165
+01:14:36,520 --> 01:14:37,520
+<b><font color="#808000">(GUN COCKS)</font></b>
+
+1166
+01:14:37,600 --> 01:14:40,433
+What are you thinking, sending a
+little girl to do your bidding?
+
+1167
+01:14:40,920 --> 01:14:42,672
+Corporal McBurney, please.
+
+1168
+01:14:44,920 --> 01:14:46,319
+It's all right.
+
+1169
+01:14:46,400 --> 01:14:47,753
+<b><font color="#808000">(AMY SOBBING)</font></b>
+
+1170
+01:14:47,840 --> 01:14:49,671
+You come inside with us.
+
+1171
+01:14:54,320 --> 01:14:56,788
+We have one more bottle
+of Bourbon in the cellar.
+
+1172
+01:14:59,720 --> 01:15:00,994
+<b><font color="#008080">McBURNEY:</font></b> Go on, then.
+
+1173
+01:15:10,440 --> 01:15:11,919
+<b><font color="#808000">(DOOR CLOSES)</font></b>
+<b><font color="#808000">(ALL GASP)</font></b>
+
+1174
+01:15:14,800 --> 01:15:16,279
+Get over there
+and sit down.
+
+1175
+01:15:16,360 --> 01:15:17,360
+Sit down.
+
+1176
+01:15:17,480 --> 01:15:19,038
+Sit down, the lot of you!
+
+1177
+01:15:22,000 --> 01:15:23,228
+Amy, I thought
+we were friends.
+
+1178
+01:15:24,760 --> 01:15:26,671
+I never meant
+any harm to any of you.
+
+1179
+01:15:28,480 --> 01:15:30,118
+<b><font color="#808000">(SNIFFLES)</font></b>
+
+1180
+01:15:30,200 --> 01:15:32,270
+Look at me, look at
+what you've done to me.
+
+1181
+01:15:34,600 --> 01:15:37,273
+I'd rather be dead
+than be a man without a leg,
+
+1182
+01:15:37,360 --> 01:15:38,360
+hobbling around.
+
+1183
+01:15:39,560 --> 01:15:41,471
+Why didn't you kill me
+when you had the chance?
+
+1184
+01:15:42,600 --> 01:15:45,239
+I see how you all look at me,
+your disgust and your pity.
+
+1185
+01:15:46,400 --> 01:15:48,231
+I'm not even
+a man anymore!
+
+1186
+01:15:49,160 --> 01:15:50,832
+I took your kindness
+and I trusted you,
+
+1187
+01:15:51,000 --> 01:15:52,797
+and you toyed with me,
+you butchered me.
+
+1188
+01:15:54,360 --> 01:15:55,554
+<b><font color="#808000">(EXHALES)</font></b>
+
+1189
+01:15:56,640 --> 01:15:58,640
+All right. Well, I've had
+enough of your devilment.
+
+1190
+01:15:58,760 --> 01:16:00,160
+I've got six shots
+left in this gun,
+
+1191
+01:16:00,200 --> 01:16:01,496
+and the next one of you
+that tries something,
+
+1192
+01:16:01,520 --> 01:16:03,351
+I swear to God,
+you're gonna get it from me!
+
+1193
+01:16:03,680 --> 01:16:04,680
+Do you hear me?
+
+1194
+01:16:05,720 --> 01:16:06,914
+<b><font color="#808000">(GIRLS SCREAM)</font></b>
+
+1195
+01:16:08,040 --> 01:16:09,712
+The next shot
+is for one of you.
+
+1196
+01:16:09,800 --> 01:16:11,279
+<b><font color="#808000">(GIRLS WHIMPERING)</font></b>
+
+1197
+01:16:12,960 --> 01:16:13,960
+Edwina.
+
+1198
+01:16:14,120 --> 01:16:15,120
+Edwina, no.
+
+1199
+01:16:15,520 --> 01:16:17,397
+What are you doing? No.
+
+1200
+01:16:17,480 --> 01:16:18,993
+<b><font color="#808000">(BOTH GRUNT)</font></b>
+
+1201
+01:16:23,080 --> 01:16:25,230
+<b><font color="#808000">(PANTING)</font></b>
+
+1202
+01:16:31,920 --> 01:16:32,920
+What do you want?
+
+1203
+01:16:54,680 --> 01:16:56,750
+<b><font color="#808000">(BREATHING HEAVILY)</font></b>
+
+1204
+01:17:08,040 --> 01:17:09,871
+<b><font color="#808000">(BOTH PANTING)</font></b>
+
+1205
+01:17:16,040 --> 01:17:17,712
+<b><font color="#808000">(BOTH GRUNTING)</font></b>
+
+1206
+01:17:20,480 --> 01:17:21,833
+<b><font color="#808000">(EDWINA GRUNTS)</font></b>
+
+1207
+01:17:25,640 --> 01:17:26,914
+<b><font color="#808000">(McBURNEY GRUNTING)</font></b>
+
+1208
+01:17:39,800 --> 01:17:41,791
+How could you let her
+be alone with him?
+
+1209
+01:17:43,440 --> 01:17:44,953
+Alicia, please,
+just let me think.
+
+1210
+01:17:45,120 --> 01:17:47,280
+I knew it was a mistake when
+you brought him here, Amy.
+
+1211
+01:17:47,360 --> 01:17:50,352
+You can't blame her, she did it
+out of the goodness of her heart.
+
+1212
+01:17:50,880 --> 01:17:52,029
+<b><font color="#808000">(BREATHES SHAKILY)</font></b>
+
+1213
+01:17:52,120 --> 01:17:53,120
+I'm trying to think.
+
+1214
+01:17:53,200 --> 01:17:54,440
+We have to rid
+ourselves of him.
+
+1215
+01:17:54,480 --> 01:17:57,790
+We're not safe here
+while he's in the house.
+
+1216
+01:18:00,600 --> 01:18:02,511
+Can't we leave him
+back in the woods?
+
+1217
+01:18:04,000 --> 01:18:05,911
+No, it'd be too much
+of a risk.
+
+1218
+01:18:07,480 --> 01:18:08,879
+We could hang him?
+
+1219
+01:18:09,520 --> 01:18:11,192
+We cannot resort
+to brutality.
+
+1220
+01:18:11,360 --> 01:18:12,880
+We can't go on like
+this with him here.
+
+1221
+01:18:13,000 --> 01:18:14,513
+I know, that's why
+I need to think.
+
+1222
+01:18:14,680 --> 01:18:16,352
+I'm trying to think
+of a plan.
+
+1223
+01:18:16,520 --> 01:18:18,856
+I could tell him he's no longer
+welcome around certain people...
+
+1224
+01:18:18,880 --> 01:18:19,936
+You'll do nothing
+of the sort.
+
+1225
+01:18:19,960 --> 01:18:21,816
+You're a fool if you think he's
+gonna take your suggestions...
+
+1226
+01:18:21,840 --> 01:18:23,136
+I was trying to help.
+Girls, please. Please.
+
+1227
+01:18:23,160 --> 01:18:24,229
+Will you go and get help?
+
+1228
+01:18:24,320 --> 01:18:26,834
+I can't. I can't leave
+you here with him alone.
+
+1229
+01:18:29,360 --> 01:18:31,351
+He loved the mushrooms.
+
+1230
+01:18:38,840 --> 01:18:41,832
+The Corporal loved
+the mushrooms we served him.
+
+1231
+01:18:44,600 --> 01:18:46,909
+What if Amy
+picked the kind...
+
+1232
+01:18:47,960 --> 01:18:50,394
+Some especially for him?
+
+1233
+01:19:01,360 --> 01:19:03,351
+Do you think
+you could do that, Amy?
+
+1234
+01:19:06,600 --> 01:19:08,875
+Do you think you could
+find the mushrooms?
+
+1235
+01:19:12,480 --> 01:19:14,277
+Oh, you'd have
+to be very quiet.
+
+1236
+01:19:17,160 --> 01:19:21,836
+You'd have to go very quickly
+out of the house.
+
+1237
+01:19:23,240 --> 01:19:24,275
+Yes?
+
+1238
+01:19:24,600 --> 01:19:25,635
+Yes, Miss Martha.
+
+1239
+01:19:25,800 --> 01:19:27,392
+He mustn't see you.
+
+1240
+01:19:33,760 --> 01:19:35,830
+Hmm, that's what
+we're gonna do.
+
+1241
+01:19:35,920 --> 01:19:37,433
+We're gonna make
+a nice supper.
+
+1242
+01:19:38,200 --> 01:19:39,394
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+1243
+01:19:41,480 --> 01:19:43,471
+We'll invite him
+for a big send-off.
+
+1244
+01:19:46,200 --> 01:19:49,875
+Prepare a smoked ham and
+we'll make biscuits and...
+
+1245
+01:19:50,160 --> 01:19:53,755
+And then we'll sauté the
+mushrooms in butter and wine.
+
+1246
+01:20:15,720 --> 01:20:16,869
+<b><font color="#808000">(GRUNTS)</font></b>
+
+1247
+01:20:50,440 --> 01:20:52,351
+<b><font color="#808000">(PRAYING INDISTINCTLY)</font></b>
+
+1248
+01:20:57,440 --> 01:20:58,919
+<b><font color="#808000">(SIGHS)</font></b>
+
+1249
+01:21:00,600 --> 01:21:01,794
+<b><font color="#808000">(GRUNTS SOFTLY)</font></b>
+
+1250
+01:21:54,920 --> 01:21:56,319
+<b><font color="#808000">(DOOR OPENS)</font></b>
+
+1251
+01:22:03,840 --> 01:22:05,159
+Allow me.
+
+1252
+01:22:06,400 --> 01:22:07,879
+Thank you.
+You're welcome.
+
+1253
+01:22:09,840 --> 01:22:11,576
+Good evening, ma'am.
+<b><font color="#008080">MISS MARTHA:</font></b> Good evening.
+
+1254
+01:22:11,600 --> 01:22:12,919
+Ladies.
+
+1255
+01:22:13,160 --> 01:22:14,752
+Corporal McBurney,
+
+1256
+01:22:15,840 --> 01:22:17,920
+we'd like you to know that
+we harbor no ill feelings,
+
+1257
+01:22:17,960 --> 01:22:19,951
+and we prepared this meal
+
+1258
+01:22:20,160 --> 01:22:22,469
+in commemoration
+of your journey ahead.
+
+1259
+01:22:23,040 --> 01:22:27,238
+Well, thank you for
+excusing my, uh, outburst.
+
+1260
+01:22:27,600 --> 01:22:28,874
+Think nothing of it.
+
+1261
+01:22:29,040 --> 01:22:31,873
+I'd like to thank you for all this as well.
+It looks, uh...
+
+1262
+01:22:32,600 --> 01:22:34,800
+It looks like just about the
+finest meal I've ever seen.
+
+1263
+01:22:35,360 --> 01:22:36,475
+Oh.
+
+1264
+01:22:37,040 --> 01:22:38,359
+Bon appétit.
+
+1265
+01:22:39,720 --> 01:22:41,711
+Yes.
+<b><font color="#008080">MISS MARTHA:</font></b> Wait, wait...
+
+1266
+01:22:43,120 --> 01:22:44,951
+We must say grace.
+
+1267
+01:22:46,600 --> 01:22:48,272
+Lord, bless this food
+
+1268
+01:22:48,560 --> 01:22:51,711
+and grant that we may be
+thankful for Thy mercy's be.
+
+1269
+01:22:51,840 --> 01:22:53,796
+Amen.
+<b><font color="#008080">ALL:</font></b> Amen.
+
+1270
+01:22:59,960 --> 01:23:02,280
+<b><font color="#008080">McBURNEY:</font></b> Would you pour me a
+glass of wine, please, Marie?
+
+1271
+01:23:06,040 --> 01:23:07,189
+Thank you.
+
+1272
+01:23:13,520 --> 01:23:15,112
+Thank you.
+You're welcome.
+
+1273
+01:23:15,280 --> 01:23:17,111
+Miss Amy picked
+the mushrooms today.
+
+1274
+01:23:17,360 --> 01:23:18,496
+Would you like some,
+Corporal?
+
+1275
+01:23:18,520 --> 01:23:20,040
+I would indeed, yeah.
+I'm fond of them.
+
+1276
+01:23:33,360 --> 01:23:34,793
+Thank you, Miss Marie.
+
+1277
+01:23:37,080 --> 01:23:38,354
+Miss Morrow?
+
+1278
+01:23:43,800 --> 01:23:44,800
+<b><font color="#008080">AMY:</font></b> Miss Edwina...
+
+1279
+01:23:45,880 --> 01:23:47,359
+You don't like mushrooms.
+
+1280
+01:23:49,200 --> 01:23:51,589
+That's true,
+I don't really.
+
+1281
+01:23:52,120 --> 01:23:53,678
+All right, then.
+
+1282
+01:24:01,320 --> 01:24:03,072
+Thank you.
+
+1283
+01:24:14,680 --> 01:24:15,749
+Mmm.
+
+1284
+01:24:17,440 --> 01:24:18,668
+Jesus.
+
+1285
+01:24:23,440 --> 01:24:24,475
+<b><font color="#808000">(McBURNEY EXHALES)</font></b>
+
+1286
+01:24:25,800 --> 01:24:27,600
+Miss Amy, you picked
+these mushrooms yourself?
+
+1287
+01:24:30,560 --> 01:24:31,709
+Delicious.
+
+1288
+01:24:32,440 --> 01:24:33,668
+<b><font color="#808000">(CHUCKLES SOFTLY)</font></b>
+
+1289
+01:24:35,120 --> 01:24:36,120
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+1290
+01:24:39,880 --> 01:24:41,840
+<b><font color="#008080">McBURNEY:</font></b> I'm not gonna
+stay here for much longer.
+
+1291
+01:24:42,600 --> 01:24:44,636
+But, um, while I'm here,
+
+1292
+01:24:45,000 --> 01:24:46,718
+I want to do my best
+to make up for,
+
+1293
+01:24:47,560 --> 01:24:49,630
+you know, all the unfortunate
+things that happened.
+
+1294
+01:24:52,600 --> 01:24:53,874
+Miss Alicia,
+
+1295
+01:24:54,720 --> 01:24:57,314
+tell us, how is your
+embroidery coming along?
+
+1296
+01:24:57,680 --> 01:24:59,193
+It's coming along
+just fine.
+
+1297
+01:25:00,720 --> 01:25:03,280
+<b><font color="#008080">MISS MARTHA:</font></b> I do have to say,
+the roses are looking splendid.
+
+1298
+01:25:04,200 --> 01:25:07,829
+And the Blush Noisette,
+it's always been one of my favorites.
+
+1299
+01:25:11,680 --> 01:25:13,033
+<b><font color="#808000">(GAGGING)</font></b>
+
+1300
+01:25:14,680 --> 01:25:16,591
+<b><font color="#808000">(LABORED BREATHING)</font></b>
+
+1301
+01:25:20,040 --> 01:25:21,359
+John?
+
+1302
+01:25:26,400 --> 01:25:28,231
+<b><font color="#808000">(McBURNEY WHEEZING)</font></b>
+
+1303
+01:25:28,320 --> 01:25:29,440
+<b><font color="#008080">McBURNEY:</font></b> I can't breathe...
+
+1304
+01:25:30,120 --> 01:25:31,120
+<b><font color="#008080">EDWINA:</font></b> John?
+
+1305
+01:25:32,080 --> 01:25:33,433
+What's the matter?
+
+1306
+01:25:33,520 --> 01:25:34,520
+<b><font color="#808000">(GASPS)</font></b> What...
+
+1307
+01:25:34,800 --> 01:25:36,392
+<b><font color="#808000">(WHEEZING)</font></b>
+
+1308
+01:25:40,640 --> 01:25:41,640
+<b><font color="#008080">EDWINA:</font></b> What...
+
+1309
+01:25:42,440 --> 01:25:43,668
+What's the matter?
+
+1310
+01:25:43,760 --> 01:25:44,988
+<b><font color="#808000">(WHEEZES)</font></b>
+
+1311
+01:25:54,120 --> 01:25:55,758
+Miss Amy.
+
+1312
+01:26:36,080 --> 01:26:39,072
+Keep your stitches in a straight
+line, like I showed you.
+
+1313
+01:26:42,520 --> 01:26:43,669
+Edwina.
+
+1314
+01:26:45,120 --> 01:26:46,269
+Edwina.
+
+1315
+01:26:47,560 --> 01:26:49,073
+Yes, Miss Martha.
+
+1316
+01:26:55,160 --> 01:26:57,594
+Not so tight, Miss Amy.
+
+1317
+01:27:12,280 --> 01:27:14,475
+<b><font color="#808000">(SOMBER MUSIC PLAYING)</font></b>
+
+1318
+01:27:49,200 --> 01:27:50,872
+<b><font color="#808000">(GIRLS GRUNTING)</font></b>
+
+1319
+01:27:59,640 --> 01:28:01,200
+<b><font color="#008080">MISS MARTHA:</font></b> Lay him here.
+<b><font color="#808000">(GIRLS GRUNT)</font></b>
+
+1320
+01:28:21,800 --> 01:28:23,836
+<b><font color="#808000">(SOMBER MUSIC CONTINUES PLAYING)</font></b>
+
+1321
+01:30:19,440 --> 01:30:21,431
+<b><font color="#808000">(FOLK SONG PLAYING)</font></b>
+
+1322
+01:30:22,050 --> 01:30:30,050
+<font color="#800080"><b>Improved & Synced by BanglarBagh</b></font>
